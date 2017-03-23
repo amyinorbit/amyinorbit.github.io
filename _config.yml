@@ -18,6 +18,6 @@ gems:
 invlude:
   - .htaccess
 exclude:
-  - vendor
+  - vendor/bundle
   - Gemfile
   - Gemfile.lock
