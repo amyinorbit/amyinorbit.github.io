@@ -8,8 +8,8 @@ description: >
   the guitar. You can contact me on twitter at [amy@amyparent.com](mailto:amy@amyparent.com).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amyparent.com"
-twitter_username: amyinorbit
-github_username:  amyinorbit
+twitter_username: cesarparent
+github_username:  cesarparent
 
 # Build settings
 markdown: kramdown
