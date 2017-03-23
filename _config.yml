@@ -15,6 +15,9 @@ github_username:  amyinorbit
 markdown: kramdown
 gems:
   - jekyll-feed
+invlude:
+  - .htaccess
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
