@@ -1,0 +1,21 @@
+mov r3,0
+mov r0,35
+mov r1,40
+mov r2,1
+cpy r0,r5
+sub r1,r2
+jnz r1,-3
+jnz r3,13
+mov r5,10
+mov r5,87
+mov r5,101
+mov r5,108
+mov r5,99
+mov r5,111
+mov r5,109
+mov r5,101
+mov r5,33
+mov r5,10
+mov r3,1
+jnz r3,-19
+hlt

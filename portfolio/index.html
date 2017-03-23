@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Hi, I'm Amy Parent</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Amy Parent">
+    <meta name="description" content="I'm a programmer working in Dundee, Scotland. I love making games and working on low-level computing things, from compilers to network systems. I also love space and spaceflight, and spend my spare time programming virtual rockets.">
+    <meta name="twitter:card" content="summary">
+    <!-- <meta name="twitter:site" content="@cesarparent"> -->
+    <meta name="og:title" content="Hi, I'm Amy Parent!">
+    <meta name="og:description" content="I'm a programmer working in Dundee, Scotland. I love making games and working on low-level computing things, from compilers to network systems. I also love space and spaceflight, and spend my spare time programming virtual rockets.">
+    <link rel="stylesheet" type="text/css" href="/static/portfolio/style.css"/>
+    <link rel="author" href="https://plus.google.com/116701126192141560817" />
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <header>
+        <h1>Hi! I'm Amy Parent</h1>
+        <p class="flowing midsize">I'm a programmer working in Dundee, Scotland. I love making games and working on low-level computing things, from compilers to network systems. I also love space and spaceflight, and spend my spare time programming virtual rockets.</p>
+        <p class="flowing midsize">If you need some development work done or want to chat, send me an <a href="mailto:cesar@amyparent.com">email</a>.<!-- or find me on <a href="https://twitter.com/cesarparent">twitter</a>! --></p>
+        <nav id="there-links" class="flowing narrow smallcaps">
+            <ul>
+                <!-- <li><a href="https://twitter.com/cesarparent">twitter</a></li> -->
+                <li><a href="https://github.com/cesarparent">github</a></li>
+                <li><a href="https://amyparent.com">blog</a></li>
+                <li><a href="mailto:amy@amyparent.com">email</a></li>
+            </ul>
+        </nav>
+    </header>
+    <nav class="tabs smallcaps" id="here-links">
+        <ul class="flowing narrow"><li><a href="#space">Space</a></li><li><a href="#computing">Computing</a></li><li><a href="#games">Games</a></li>
+        </ul>
+    </nav>
+    <section class="project-list" id="space">
+        <h2>Space</h2>
+        <div class="flowing wide">
+            <div class="project-tile two">
+                <div class="banner" style="background-image: url(/static/portfolio/tedx-label.jpg)">
+                    <h2>TEDx Talk</h2>
+                </div>
+                <p>I gave a ten-minute talk at TEDxAbertayUniversity on how we've gone from launching human-sized capsules in the '60s to having six astronauts living in space 24/7, and why we use rockets to get there.</p>
+                <a class="more-link" href="https://www.youtube.com/watch?v=6P5nfkIDPE4">Youtube</a>
+            </div>
+            <div class="project-tile two">
+                <div class="banner" style="background-image: url(/static/portfolio/auto-rocket.png)">
+                    <h2>Rocket Autopilot</h2>
+                </div>
+                <p>A series of experiments in automated control for rocket-powered landers (inspired by NASA's Morpheus). Custom 2D physics simulation built in Meteor, and cascading PID controller-based autopilot.</p>
+                <a class="more-link" href="https://www.youtube.com/playlist?list=PL9FYZHAoW5EdT_FFwEYRdK6rY6iUWiKMP">Youtube</a>
+            </div>
+        </div>
+        <div class="flowing wide">
+            <div class="project-tile two">
+                <div class="banner" style="background-image: url(/static/portfolio/ksp-ns.png)">
+                    <h2>Automated Rocket Landing</h2>
+                </div>
+                <p>An attempt at reproducing Blue&nbsp;Origin-style landings in Kerbal Space Program. The autopilot uses aerodynamic steering and engine gimbaling (driven by PID controllers) to land the rocket at a target location.</p>
+                <a class="more-link" href="https://www.youtube.com/watch?v=qNaVQLMKAjs">Youtube</a>
+            </div>
+            <div class="project-tile two">
+                <div class="banner" style="background-image: url(/static/portfolio/ksp-peg.png)">
+                    <h2>Rocket Ascent Guidance</h2>
+                </div>
+                <p>An implementation of NASA's Powered Explicit Guidance algorithm for closed-loop, automated single-burn to orbit launches in Kerbal Space Program. Achieves orbits with less than five kilometres of deviation.<em></em></p>
+                <a class="more-link" href="https://amyparent.com/post/automating-rocket-launches/index.html">Blog Post</a>
+            </div>
+        </div>
+    </section>
+    <section class="project-list" id="computing">
+        <h2>Computing</h2>
+        <div class="flowing wide">
+            <div class="project-tile two">
+                <div class="banner">
+                    <h2>OrbitVM</h2>
+                </div>
+                <p>Orbit is a scripting language I'm making. Bytecode runs on a stack-based VM implemented in C. OrbitVM has a basic foreign function interface to register C functions as callable from Orbit code, used to implement the standard library. I keep a diary of the development on the <a href="https://amyparent.com/blog/">blog</a>.</p>
+                <a class="more-link" href="https://github.com/cesarparent/orbitvm">GitHub</a>
+            </div>
+            <div class="project-tile two">
+                <div class="banner">
+                    <h2>FCORE<br/>(honours project)</h2>
+                </div>
+                <p>The goal of FCORE is to provide a modular software and hardware payload bus for High-Altitude Balloon missions. It abstracts flight tracking, internal and radio communications so that payload teams can focus on their instruments. Written in Embedded&nbsp;C, for FreeRTOS.</p>
+                <a class="more-link" href="https://hons.amyparent.com">Dev Log</a>
+            </div>
+        </div>
+        <div class="flowing wide">
+            <div class="project-tile two">
+                <div class="banner">
+                    <h2>NetNotes</h2>
+                </div>
+                <p>A note-syncing web service with a API and a companion Android application. Written in PHP &amp; Java. Uses JSON for client/server communications, and Google Cloud Messaging for push synchronisation.</p>
+                <a class="more-link" href="https://github.com/cesarparent/abertay-notes">GitHub</a>
+            </div>
+            <div class="project-tile two">
+                <div class="banner">
+                    <h2>RaceTrack</h2>
+                </div>
+                <p>Endurance horse race tracking server and embedded RFID detection software for race gates. Written in C (RFID scanner) and Python/Flask (tracking server) Developed for Cerberus Technologies</p>
+                <a class="more-link" href="http://cerberustech.co.uk">Cerberus Tech</a>
+            </div>
+        </div>
+    </section>
+    <section class="project-list" id="games">
+        <h2>Games</h2>
+        <div class="flowing wide">
+            <div class="project-tile three">
+                <div class="banner" style="background-image: url(/static/portfolio/ghosts.png)">
+                    <h2>Ghosts<br/>(code, art, design)</h2>
+                </div>
+                <p>Ghosts is game a in which the player must escape a horde of ghosts. The terrain is procedurally generated (cellular automaton). Shown at Dare Protoplay 2015. No engine (SDL2/C)</p>
+                <a class="more-link" href="https://lightspeedgames.itch.io/ghosts">itch.io</a>
+            </div>
+            <div class="project-tile three">
+                <div class="banner" style="background-image: url(/static/portfolio/gravitypong.gif)">
+                    <h2>GravityPong<br/>(code, art, design)</h2>
+                </div>
+                <p>A twist on the classic video game where players can bend gravity to throw curveballs. Started as a one-day game jam, shown at Dare Protoplay 2016. Built with Meteor (SDL2/C++)</p>
+                <a class="more-link" href="https://lightspeedgames.itch.io/gravitypong">itch.io</a>
+            </div>
+            <div class="project-tile three">
+                <div class="banner">
+                    <h2>Meteor</h2>
+                </div>
+                <p>A custom-made C++ game engine. Meteor uses a node (inheritance-based) system inspired by Apple's SpriteKit, and SDL2 for rendering.</p>
+                <a class="more-link" href="https://github.com/cesarparent/meteor">GitHub</a>
+            </div>
+        </div>
+        <div class="flowing wide">
+            <div class="project-tile three">
+                <div class="banner" style="background-image: url(/static/portfolio/hurtz.png)">
+                    <h2>Hurtz<br/>(code)</h2>
+                </div>
+                <p>An infinite runner that takes place in inside a vintage radio receiver. Made during Global Game Jam 2017 with Caitlin Smith (artist and designer). Built with Meteor (SDL2/C++)</p>
+                <a class="more-link" href="http://globalgamejam.org/2017/games/hurtz">Global Game Jam</a>
+            </div>
+            <div class="project-tile three">
+                <div class="banner" style="background-image: url(/static/portfolio/space-in-between.png)">
+                    <h2>The Space in Between<br/>(code)</h2>
+                </div>
+                <p>Winning entry of Charged Hearts Jam, by the Pixelspark team. Two players must keep each other alive by collecting hearts, and staying close to their partner. Built with Meteor (SDL2/C++)</p>
+                <a class="more-link" href="https://pixelspark.itch.io/the-space-in-between">itch.io</a>
+            </div>
+            <div class="project-tile three">
+                <div class="banner" style="background-image: url(/static/portfolio/glitch.png)">
+                    <h2>The Glitch<br/>(code)</h2>
+                </div>
+                <p>The player must climb to the top of a glitchy tower and avoid the enemies pouring down. Made with Pixelspark for AGDS Jam 2015. Built with Meteor (SDL2/C++)</p>
+                <a class="more-link" href="https://pixelspark.itch.io/the-glitch">itch.io</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

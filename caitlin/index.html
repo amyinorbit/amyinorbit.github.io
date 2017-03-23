@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Happy Birthday!</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<h1>click the card!</h1>
+	<section id="container">
+		<section id="card-front">
+			</section>
+			<section id="card-back">
+				<p>Happy birthday!</p>
+				<p>You're one of the few persons I met that made it worth it leaving France to come live here :) Keep on being cool!</p>
+				<p>I hope you have an awesome birthday!</p>
+			</section>
+	</section>
+	<script type="text/javascript">
+		var opened = false;
+		var cont = document.getElementById("container");
+		cont.addEventListener("click", function(){
+			console.log("toggle…");
+			var card = document.getElementById("card-front");
+			if(opened)
+			{
+				card.className = "";
+				opened = false;
+			}
+			else
+			{
+				card.className = "opened";
+				opened = true;
+			}
+		});
+	</script>
+</body>
+</html>
