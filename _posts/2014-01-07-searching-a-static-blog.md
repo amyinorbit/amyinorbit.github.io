@@ -124,4 +124,4 @@ So now, for example, a search for "commercial space" returns all the posts tagge
 [^1]: I am trying to build a good 404 page for the blog, and I think it's important that a 404 doesn't just tell the user he's in the wrong place: if there's just a typo in the URL, there's a great chance a search will give him the page he was looking for.
 
 [1]: https://www.google.fr/search?client=safari&rls=en&q=site:cesarparent.com&20mars
-[2]: http://github.com/cesarparent/Asteroid
+[2]: http://github.com/amyinorbit/Asteroid

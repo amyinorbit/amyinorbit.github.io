@@ -33,5 +33,5 @@ collected in between tasks, I can reuse it multiple times -- say, once per game
 loop if it were used for game engine scripting. Plus, `VMTask` could easily
 become a co-routine or thread system.
 
-  [1]: https://github.com/cesarparent/orbitvm/blob/1c1d39e3bf32bcf02643968f2ccd40f54de809f2/src/liborbit/orbit_value.h
-  [2]: https://github.com/cesarparent/orbitvm/blob/1c1d39e3bf32bcf02643968f2ccd40f54de809f2/src/liborbit/orbit_gc.c
+  [1]: https://github.com/amyinorbit/orbitvm/blob/1c1d39e3bf32bcf02643968f2ccd40f54de809f2/src/liborbit/orbit_value.h
+  [2]: https://github.com/amyinorbit/orbitvm/blob/1c1d39e3bf32bcf02643968f2ccd40f54de809f2/src/liborbit/orbit_gc.c

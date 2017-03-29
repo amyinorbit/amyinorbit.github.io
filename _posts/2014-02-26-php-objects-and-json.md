@@ -42,4 +42,4 @@ It work, and I plan to replace the different project's version with this one, bu
 
 [1]: http://reviews.cesarparent.com/?media=movie&id=0
 [2]: http://uk1.php.net/PDO
-[3]: https://github.com/cesarparent/JSONStorage
+[3]: https://github.com/amyinorbit/JSONStorage

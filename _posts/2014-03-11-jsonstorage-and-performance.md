@@ -20,5 +20,5 @@ I don't know yet what the solution is going to be. I have started making changes
 
 
 [1]: http://cesarparent.com/2014/02/php-objects-and-json/
-[2]: https://github.com/cesarparent/JSONStorage/blob/master/Storage.php#L83
-[3]: https://github.com/cesarparent/JSONStorage/
+[2]: https://github.com/amyinorbit/JSONStorage/blob/master/Storage.php#L83
+[3]: https://github.com/amyinorbit/JSONStorage/

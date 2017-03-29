@@ -12,4 +12,4 @@ I made up my mind and decided to follow the series of tutorial most forums point
 
 After a bit of digging, I found the source of NESASM 3.1, which seems to be the latest version to date. As it turns out, it is written in C, is open-source and does not rely on any Windows-specific libraries. Getting it to compile with Clang was just a matter of writing a small Makefile.
 
-If you are developing for the NES on a Mac, I put the Makefile — and, for convenience, the source under its original license — on [GitHub](https://github.com/cesarparent/NESAsm-3.1-Mac). You will need Xcode, or at least its Command Line Tools installed to build it.
+If you are developing for the NES on a Mac, I put the Makefile — and, for convenience, the source under its original license — on [GitHub](https://github.com/amyinorbit/NESAsm-3.1-Mac). You will need Xcode, or at least its Command Line Tools installed to build it.

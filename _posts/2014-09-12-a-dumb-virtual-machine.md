@@ -26,5 +26,5 @@ The [whole "documentation"][3] for the language can be found on [GitHub][4], alo
 
 [1]: /static/media/2014/09/cesar-1410520829504-raw.png
 [2]: http://cesarparent.com/files/raw/virtual.asm
-[3]: https://github.com/cesarparent/DumbVM#instruction-set
-[4]: https://github.com/cesarparent/DumbVM
+[3]: https://github.com/amyinorbit/DumbVM#instruction-set
+[4]: https://github.com/amyinorbit/DumbVM

@@ -28,7 +28,7 @@ Once I get a pretty good idea of what I want to do, I usually code a very quick 
 
 ## Code Editing
 
-For the language bit, I stick to C++ (and C for Ghosts, although this might change). I like it (and hate it) because I love programming in general, and I like how close to the metal both languages are. I've made myself a small game engine (PixelKit, which is getting a rewrite as [Meteor](https://github.com/cesarparent/Meteor)) which abstracts away drawing, audio and input. For the moment, those section of the engine rely on [SDL&nbsp;2](https://www.libsdl.org), but I'm planning to switch to raw OpenGL at some point.
+For the language bit, I stick to C++ (and C for Ghosts, although this might change). I like it (and hate it) because I love programming in general, and I like how close to the metal both languages are. I've made myself a small game engine (PixelKit, which is getting a rewrite as [Meteor](https://github.com/amyinorbit/Meteor)) which abstracts away drawing, audio and input. For the moment, those section of the engine rely on [SDL&nbsp;2](https://www.libsdl.org), but I'm planning to switch to raw OpenGL at some point.
 
 I use the [Clang/LLVM compiler](http://clang.llvm.org), which works perfectly for what I do. It supports the latest standards (C++14 and C11), and compiles fast enough even on my slow processor. For windows builds I use a cross-compiled version of MingW running GCC 5.1. It's not as nice as having a Windows virtual machine to compile from, but it's enough for my small games.
 

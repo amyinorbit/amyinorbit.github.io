@@ -51,4 +51,4 @@ In the meantime, you can find the game (compiled for Windows and OS X) at [cesar
 [6]: http://www.cocos2d-x.org
 [7]: https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html
 [8]: http://cesarparent.com/ghosts/
-[9]: https://github.com/cesarparent/gam2-ghosts
+[9]: https://github.com/amyinorbit/gam2-ghosts

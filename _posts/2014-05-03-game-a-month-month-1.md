@@ -44,7 +44,7 @@ Working with bare C and SDL, without any existing engine, was interesting, but I
 
 [1]: /static/media/2014/05/cesar-1398949031321-raw.png
 [2]: /static/media/2014/05/cesar-1399125578609-raw.png
-[3]: https://github.com/cesarparent/GaM1-Scott-Pilgrim/releases/tag/v1
-[4]: https://github.com/cesarparent/GaM1-Scott-Pilgrim
+[3]: https://github.com/amyinorbit/GaM1-Scott-Pilgrim/releases/tag/v1
+[4]: https://github.com/amyinorbit/GaM1-Scott-Pilgrim
 
 [^1]: This, by the way, led to a scary memory leak. A texture kept being allocated each time the game loop ran, taking about 500MB of RAM in twenty seconds. Ahem.

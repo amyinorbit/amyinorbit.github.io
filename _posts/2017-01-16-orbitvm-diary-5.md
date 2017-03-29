@@ -103,4 +103,4 @@ variables to the (work-in-progress) bytecode file format.
 
   [1]: https://cesarparent.com/post/orbitvm-diary-2-dispatch/index.html
   [2]: https://cesarparent.com/post/orbitvm-diary-3-more-dispatch/index.html
-  [3]: https://github.com/cesarparent/orbitvm/blob/a0059f238f7bd97ffdbf39d83523c84a0067dca1/src/liborbit/orbit_vm.c#L217
+  [3]: https://github.com/amyinorbit/orbitvm/blob/a0059f238f7bd97ffdbf39d83523c84a0067dca1/src/liborbit/orbit_vm.c#L217

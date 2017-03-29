@@ -17,6 +17,6 @@ here comes [WriCount][2] (yes, the name's lame). I plan to write my novel in [ma
 if your setup is close enough and you're interested in using WriCount (I definitely have to find a better name), [head over to GitHub][2]. If you need to adapt your script, you can fork the repository and contribute. And if you see something in the code that makes you want to hit me with a baseball bat, (1) please don't, and (2) [give me a shout][4], I'll be eager to learn more!
 
 [1]: http://nanowrimo.org
-[2]: https://github.com/cesarparent/wricount
+[2]: https://github.com/amyinorbit/wricount
 [3]: http://daringfireball.net/projects/markdown/
 [4]: http://cesarparent.com/me/#contact

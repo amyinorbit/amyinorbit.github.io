@@ -49,7 +49,7 @@ the wrong function will be invoked, followed most certainly by a crash or
 corruption since the arguments are unlikely to be the right ones. Not sure I'm
 okay with such a fundamental bit of the language not being certain.
 
-   [1]: https://github.com/cesarparent/orbitvm
-   [2]: https://github.com/cesarparent/orbitvm/blob/ada48b74e13255b7041644a68521470a5e422b66/src/liborbit/orbit_hashmap.c
+   [1]: https://github.com/amyinorbit/orbitvm
+   [2]: https://github.com/amyinorbit/orbitvm/blob/ada48b74e13255b7041644a68521470a5e422b66/src/liborbit/orbit_hashmap.c
    [3]: https://en.wikipedia.org/wiki/Fowler–Noll–Vo_hash_function
    [4]: https://sites.google.com/site/murmurhash/
