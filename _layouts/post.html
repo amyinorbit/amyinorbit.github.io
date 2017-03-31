@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="post container">
     <header>
-        <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }} - &nbsp;min. read</span>
+        <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }} - {{ content | number_of_words | divided_by:180 | ceil }}&nbsp;min. read</span>
         {% if page.link %}
             <h1><a href="{{ post.link }}">{{ page.title }}</a> [www]</h1>
         {% else %}
