@@ -30,7 +30,6 @@ This bit of Swift could be translated to that chunk of C++:
     };
 
     struct Transform : public Component {
-        ...
         virtual void Start() { ... }
         virtual void Update(float delta) { ... }
     };
@@ -48,7 +47,7 @@ Now, if I want to store objects that implement `Component` in a collection, I ne
     
     private:
         vector<shared_ptr<Component>> _components;
-    }
+    };
 
     GameObject go;
     go.AddComponent<Transform>(); // Returns a pointer to a Transform object.

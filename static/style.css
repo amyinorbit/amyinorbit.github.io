@@ -241,11 +241,14 @@ img.left, img.right {
 
 code {
     font-family: "Menlo", "Consolas", monospace;
-    background: #ededed;
     font-weight: normal;
     border-radius: 3px;
     padding: 2px 4px;
+}
+
+p code {
     color: #e26;
+    background: #ededed;
 }
 
 pre {
@@ -257,11 +260,6 @@ pre {
     overflow: auto;
     padding: 1em;
     margin: 2em auto;
-    background: #f9f9f9;
-}
-
-pre code {
-	background: transparent;
 }
 
 /* tables */
