@@ -5,11 +5,12 @@ permalink: /post/:title/
 description: >
   Hi, I'm Amy Parent! I'm a games and software programmer living in Dundee, UK.
   On my spare time I read and talk (a lot) about space, listen to music and play
-  the guitar. You can contact me at [amy@amyparent.com](mailto:amy@amyparent.com).
+  the guitar. You can contact me on twitter [@amyinorbit](https://twitter.com/amyinorbit)
+  or by email at [amy@amyparent.com](mailto:amy@amyparent.com).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amyparent.com"
-twitter_username: cesarparent
-github_username:  cesarparent
+twitter_username: amyinorbit
+github_username:  amyinorbit
 
 # Build settings
 
