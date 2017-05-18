@@ -11,6 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amyparent.com"
 twitter_username: amyinorbit
 github_username:  amyinorbit
+googleplus_uid:   116701126192141560817 
 
 # Build settings
 
