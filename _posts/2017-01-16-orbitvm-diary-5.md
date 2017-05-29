@@ -40,7 +40,7 @@ the first parameter. good.
 
     |---------------|
     | some value    | 
-    | param 0       |<-- Base Pointer.
+    | param 0       |<-- Base Pointer
     | param 1       |
     | param 2       |
     |               |<-- Stack Pointer
@@ -62,7 +62,7 @@ two local variables, the stack right after invocation will look like this:
 
     |---------------|
     | some value    | 
-    | param 0       |<-- Base Pointer.
+    | param 0       |<-- Base Pointer
     | param 1       |
     | param 2       |
     | local 0       |<-- (Old Stack Pointer)
@@ -101,6 +101,6 @@ stack, never to be seen again, and the return value is on top. The only change
 I need to make the the current implementation is add the number of local
 variables to the (work-in-progress) bytecode file format.
 
-  [1]: https://cesarparent.com/post/orbitvm-diary-2-dispatch/index.html
-  [2]: https://cesarparent.com/post/orbitvm-diary-3-more-dispatch/index.html
+  [1]: https://cesarparent.com/post/orbitvm-diary-2
+  [2]: https://cesarparent.com/post/orbitvm-diary-3
   [3]: https://github.com/amyinorbit/orbitvm/blob/a0059f238f7bd97ffdbf39d83523c84a0067dca1/src/liborbit/orbit_vm.c#L217
