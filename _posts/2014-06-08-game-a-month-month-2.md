@@ -40,15 +40,15 @@ And once again, I didn't pay enough attention to the audio part of the game. I m
 
 This month made me a bit more confident that I was able to make proper games. I still have no idea at all for June, except that I would like to switch to some higher-level game engine. I'm still tempted by [Cocos2D-X][6], but the hassle needed to compile for different platform repels me a bit. From the few quick tests I put together those last few days, [SpriteKit][7] seems lovely, but it means compiling for iOS and OS X only. Since there was a load of new things introduced at WWDC, I'm tempted to take a one-or-two-month break to learn about them.
 
-In the meantime, you can find the game (compiled for Windows and OS X) at [cesarparent.com/ghosts][8], and the source code (which should compile for Linux, even tough I haven't tried) at [GitHub][9]
+In the meantime, you can find the game (compiled for Windows and OS X) at [amyparent.com/ghosts][8], and the source code (which should compile for Linux, even tough I haven't tried) at [GitHub][9]
 
 
 [1]: /static/media/2014/06/cesar-1402247541886-raw.png
 [2]: /static/media/2014/06/cesar-1402247864579-raw.png
 [3]: http://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664
-[4]: http://cesarparent.com/ghosts/
-[5]: http://cesarparent.com/2014/05/game-a-month-month-1/
+[4]: http://amyparent.com/ghosts/
+[5]: http://amyparent.com/2014/05/game-a-month-month-1/
 [6]: http://www.cocos2d-x.org
 [7]: https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html
-[8]: http://cesarparent.com/ghosts/
+[8]: http://amyparent.com/ghosts/
 [9]: https://github.com/amyinorbit/gam2-ghosts

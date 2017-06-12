@@ -19,4 +19,4 @@ if your setup is close enough and you're interested in using WriCount (I definit
 [1]: http://nanowrimo.org
 [2]: https://github.com/amyinorbit/wricount
 [3]: http://daringfireball.net/projects/markdown/
-[4]: http://cesarparent.com/me/#contact
+[4]: http://amyparent.com/me/#contact

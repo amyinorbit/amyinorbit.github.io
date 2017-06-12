@@ -40,6 +40,6 @@ Instead of rewriting the same thing again, I've tried to clean up the code a bit
 It work, and I plan to replace the different project's version with this one, but it's not perfect by any means. there are probably edge cases I haven't though of, security problems I haven't yet picked up. If you find some, don't go bananas: tell me, I'm eager to do better, and learn along the way. Or, you can fork the project and submit your modifications. In any case, I'll be pleased to hear from you if you decide to use it.
 
 
-[1]: http://reviews.cesarparent.com/?media=movie&id=0
+[1]: http://reviews.amyparent.com/?media=movie&id=0
 [2]: http://uk1.php.net/PDO
 [3]: https://github.com/amyinorbit/JSONStorage

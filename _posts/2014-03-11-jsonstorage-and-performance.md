@@ -19,6 +19,6 @@ I was wrong. For my current project, I need to be able to make "complex" queries
 I don't know yet what the solution is going to be. I have started making changes to JSONStorage to try and see which method is the fastest. Maybe I'm overestimating the problem, since the library is meant for small sets of data (programmatically speaking, a thousand three-key objects is still a small set). Maybe I'm not, in which case I might consider switching to SQLite. _Sigh._
 
 
-[1]: http://cesarparent.com/2014/02/php-objects-and-json/
+[1]: http://amyparent.com/2014/02/php-objects-and-json/
 [2]: https://github.com/amyinorbit/JSONStorage/blob/master/Storage.php#L83
 [3]: https://github.com/amyinorbit/JSONStorage/
