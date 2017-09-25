@@ -11,7 +11,7 @@ once you add all of them up, and I have little record of the development, save
 for the git history.
 
 I thought I'd at least do a quick recap here, before I can go back to 
-hopefully) more regular posts about the many wonderful horrors of compiler
+(hopefully) more regular posts about the many wonderful horrors of compiler
 building I'm discovering!
 
  * The VM runs! That includes the garbage collector, the memory allocator and
@@ -24,11 +24,11 @@ building I'm discovering!
  
  * It's just one of the silly bugs, but it's such a common and stupid one that
    it bears repeating: C macros can bite you, hard. In the run loop, popping
-   something from the stack is implemented as a macro:
+   something off the stack is implemented as a macro:
    
        #define POP() (*(--task->sp))
 
-   Now, checking that a value evaluates to `true` (true boolean, or non-nil) is
+   Now, checking that a value evaluates to `true` (true boolean, or non-zero) is
    *also* done using a macro:
    
        #define IS_TRUE(val)    ((val).type == TYPE_TRUE || (IS_NUM(val) && AS_NUM(val) != 0.0))
@@ -39,13 +39,11 @@ building I'm discovering!
            ...
        }
        
-   See it? when `IS_TRUE` is expanded, `POP()` is called twice. It seems evident
-   in retrospect, but that one cost me a few hours of head scratching -- I did
-   not think to look there when I was seeing my stack shrinking faster than it
-   should have been.
+   See it? when `IS_TRUE` is expanded, `POP()` is called three times. It seems
+   evident in retrospect, but that one cost me a few hours of head scratching -- I did not think to look there when I was seeing my stack shrinking faster than it should have been.
 
  * I've moved the build system to [CMake][2], cause my Makefile was becoming a
-   bit unwieldy. I've also split Orbit in a bunch of library in the process,
+   bit unwieldy. I've also split Orbit in a bunch of libraries in the process,
    LLVM-style. My goal is to have one library for each module, and have the
    executables (`orbitc`, `orbit`) be as skinny as possible and import the right
    modules.
