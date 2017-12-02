@@ -2,6 +2,7 @@
 title: "OrbitVM Diary #3 - More Dispatch"
 date: 2016-12-30 20:00:00
 layout: post
+series: "OrbitVM Diaries"
 ---
 
 I've read a bunch, and thought more about my [problem][1] with the dispatch

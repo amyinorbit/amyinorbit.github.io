@@ -2,6 +2,7 @@
 title: "Adventures in Language Design: OrbitVM diary 1"
 date: 2016-12-19 12:00:00
 layout: post
+series: "OrbitVM Diaries"
 ---
 
 Apparently, my brain isn't satisfied with having to manage fourth year and my

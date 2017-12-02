@@ -2,6 +2,7 @@
 title: "OrbitVM Diary #7 - Syntax Trees and Cursing C"
 date: 2017-09-25 15:45:00 BST
 layout: post
+series: "OrbitVM Diaries"
 ---
 
 So as I mentioned in the [last entry][1], I'm at the stage where the parser for

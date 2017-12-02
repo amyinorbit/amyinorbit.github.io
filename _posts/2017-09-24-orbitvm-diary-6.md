@@ -2,6 +2,7 @@
 title: "OrbitVM Diary #6 - VM & Parser"
 date: 2017-09-24 22:50:00 BST
 layout: post
+series: "OrbitVM Diaries"
 ---
 
 So between the end of fourth year, my summer job and now gearing for my PhD, I

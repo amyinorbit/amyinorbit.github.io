@@ -2,6 +2,7 @@
 title: "OrbitVM Diary #4 - Execution"
 date: 2017-01-12 14:25:00
 layout: post
+series: "OrbitVM Diaries"
 ---
 
 So I now have the beginning of a [type system][1] (need to write about this) and

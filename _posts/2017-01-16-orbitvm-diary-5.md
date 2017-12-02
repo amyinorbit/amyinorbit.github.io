@@ -2,6 +2,7 @@
 title: "OrbitVM Diary #5 - Return of the Function Call"
 date: 2017-01-16 22:00:00
 layout: post
+series: "OrbitVM Diaries"
 ---
 
 I have discussed function invocation in Orbit before, but then it was all about

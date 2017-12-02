@@ -2,6 +2,7 @@
 title: "OrbitVM Diary #2 - Dispatch"
 date: 2016-12-28 01:30:00
 layout: post
+series: "OrbitVM Diaries"
 ---
 
 I've made some progress on Orbit – well, I've setup the project directory and
