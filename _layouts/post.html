@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<article class="post container">
+<article class="post padded">
     <header>
-        <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }} - {{ content | number_of_words | divided_by:180 | ceil }}&nbsp;min. read</span>
+        <span class="post-meta gui">{{ page.date | date: "%b %-d, %Y" }}<span class="gui thin"> &ndash; {{ content | number_of_words | divided_by:180 | ceil }}&nbsp;min. read</span></span>
         {% if page.link %}
             <h1><a href="{{ page.link }}">{{ page.title }}</a> [www]</h1>
         {% else %}
@@ -12,27 +12,26 @@ layout: default
     </header>
     {{ content }}
 </article>
-<aside id="social">
-    <div class="container">
-        {% if page.series %}
-        <h2>Other Entries in <em>{{ page. series }}</em></h2>
-            {% assign series = site.posts | where:"series", page.series %}
-            <ol>
-            {% for post in series reversed %}
-            <li class="post-link">
-                {% if post.url == page.url %}
-                {{ post.title }}
-                {% else %}
-                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                {% endif %}
-            </li>
-            {% endfor %}
-        </ol>
-        
-        {% endif %}
-        <h2>Feedback</h2>
-        <p>If you found this article interesting, you can <a href="http://twitter.com/share?text={{ page.title | url_encode }}&url={{ page.url | prepend: site.baseurl }}">share it on twitter</a>.<br />If you want to discuss it, feel free to <a href="https://twitter.com/{{ site.twitter_username }}">tweet at me</a> or send me a mail at <a href="mailto:{{ site.email }}">email me</a>.
-    </div>
+{% if page.series %}
+<aside id="series" class="padded">
+    <h2 class="gui"><span class="gui thin">Other Entries in </span>{{ page.series }}</h2>
+    {% assign series = site.posts | where:"series", page.series %}
+    <ol class="series-list">
+    {% for post in series reversed %}
+        <li class="post-link">
+            {% if post.url == page.url %}
+            {{ post.title }}
+            {% else %}
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            {% endif %}
+        </li>
+    {% endfor %}
+    </ol>
+</aside>
+{% endif %}
+<aside id="social" class="padded">
+    <h2>Feedback</h2>
+    <p>If you found this article interesting, you can <a href="http://twitter.com/share?text={{ page.title | url_encode }}&url={{ page.url | prepend: site.baseurl }}">share it on twitter</a>.<br />If you want to discuss it, feel free to <a href="https://twitter.com/{{ site.twitter_username }}">tweet at me</a> or send me a mail at <a href="mailto:{{ site.email }}">email me</a>.
 </aside>
 
 
