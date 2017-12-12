@@ -382,6 +382,10 @@ footer small {
 
 @media(max-width: 560px) {
     
+    .container, .padded {
+        padding: .4em;
+    }
+    
     header#banner ul {
         margin-top: .4em;
     }
