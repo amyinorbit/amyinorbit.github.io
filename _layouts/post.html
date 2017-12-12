@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="post padded">
     <header>
-        <span class="post-meta gui">{{ page.date | date: "%b %-d, %Y" }}<span class="gui thin"> &ndash; {{ content | number_of_words | divided_by:180 | ceil }}&nbsp;min. read</span></span>
+        <span class="post-meta gui">{{ page.date | date: "%b %-d, %Y" }} |<span class="gui thin"> {{ content | number_of_words | divided_by:180 | ceil }}&nbsp;min. read</span></span>
         {% if page.link %}
             <h1><a href="{{ page.link }}">{{ page.title }}</a> [www]</h1>
         {% else %}
