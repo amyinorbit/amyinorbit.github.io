@@ -226,7 +226,7 @@ aside#series ol {
 
 aside#series ol li {
     white-space: nowrap;
-    overflow: hidden;
+    overflow-x: hidden;
     text-overflow: ellipsis;
 }
 
@@ -383,7 +383,7 @@ footer small {
 @media(max-width: 560px) {
     
     .container, .padded {
-        padding: .4em;
+        padding: .6em;
     }
     
     header#banner ul {
