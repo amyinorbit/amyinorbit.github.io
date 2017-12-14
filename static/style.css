@@ -94,12 +94,6 @@ sup {
 
 /* header */
 
-@keyframes blink {
-    0% { background: rgba(255, 255, 255, 1); }
-    70% { background: rgba(255, 255, 255, 0); }
-    100% { background: rgba(255, 255, 255, 1); }
-}
-
 header#banner {
     overflow-y: hidden;
 }
@@ -227,6 +221,7 @@ aside#series ol {
 aside#series ol li {
     white-space: nowrap;
     overflow-x: hidden;
+    line-height: 140%;
     text-overflow: ellipsis;
 }
 
@@ -304,16 +299,14 @@ img.left, img.right {
 }
 
 code {
-    font-family: "Menlo", "Consolas", monospace;
+    font-family: "Consolas", "Menlo", monospace;
     font-weight: normal;
     border-radius: 3px;
 }
 
 p code {
-    color: #e26;
-    background: #ededed;
-    padding: 2px 4px;
-    font-size: 12pt;
+    color: #526d7a;
+    font-size: 14pt;
 }
 
 pre {
@@ -326,6 +319,8 @@ pre {
     overflow: auto;
     padding: 1em;
     margin: 2em auto;
+    background: #f8fbfc;
+    border: 1px solid #f1f6f9;
 }
 
 pre code {
@@ -359,7 +354,8 @@ tr, td, th {
 }
 
 hr {
-    border-bottom: 1px solid #666;
+    border: none;
+    border-bottom: 2px solid #000;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
