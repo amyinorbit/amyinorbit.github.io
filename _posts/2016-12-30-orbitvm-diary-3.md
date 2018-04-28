@@ -1,5 +1,5 @@
 ---
-title: "OrbitVM Diary #3 - More Dispatch"
+title: "More OrbitVM Dispatch"
 date: 2016-12-30 20:00:00
 layout: post
 series: "OrbitVM Diaries"

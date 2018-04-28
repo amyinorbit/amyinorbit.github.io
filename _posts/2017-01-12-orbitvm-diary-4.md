@@ -1,5 +1,5 @@
 ---
-title: "OrbitVM Diary #4 - Execution"
+title: "OrbitVM Execution"
 date: 2017-01-12 14:25:00
 layout: post
 series: "OrbitVM Diaries"

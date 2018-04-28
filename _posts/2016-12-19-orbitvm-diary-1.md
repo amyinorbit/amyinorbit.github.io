@@ -1,5 +1,5 @@
 ---
-title: "Adventures in Language Design: OrbitVM diary 1"
+title: "Adventures in Language Design"
 date: 2016-12-19 12:00:00
 layout: post
 series: "OrbitVM Diaries"

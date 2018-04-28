@@ -1,5 +1,5 @@
 ---
-title: "OrbitVM Diary #7 - Syntax Trees and Cursing C"
+title: "Syntax Trees and C"
 date: 2017-09-25 15:45:00 BST
 layout: post
 series: "OrbitVM Diaries"
