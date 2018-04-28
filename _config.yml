@@ -14,7 +14,6 @@ googleplus_uid:   116701126192141560817
 # Build settings
 markdown: kramdown
 highlighter: rouge
-excerpt_separator: <!--more-->
 
 # Pagination
 paginate: 5
