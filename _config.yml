@@ -5,10 +5,6 @@ permalink: /post/:title/
 author: Amy Parent
 description: >
   Hi, I'm Amy Parent! By day, I'm studying clouds evolution in brown dwarfs at Abertay University. By night, I get bruises skating with Dundee Roller Derby and make video games.
-  
-  
-  You can see things I've made on my [portfolio](/portfolio), and can contact me on twitter [@amyinorbit](https://twitter.com/amyinorbit),
-  or at [amy@amyparent.com](mailto:amy@amyparent.com).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amyparent.com"
 twitter_username: amyinorbit
@@ -16,11 +12,16 @@ github_username:  amyinorbit
 googleplus_uid:   116701126192141560817 
 
 # Build settings
-
 markdown: kramdown
 highlighter: rouge
+excerpt_separator: <!--more-->
+
+# Pagination
+paginate: 5
+paginate_path: "/page/:num"
 
 gems:
+  - jekyll-paginate
   - jekyll-feed
 
 include:
