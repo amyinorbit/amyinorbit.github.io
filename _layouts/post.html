@@ -6,7 +6,7 @@ layout: default
         <header>
             <span class="post-meta gui">
                 {{ page.date | date: "%b %-d, %Y" }}
-                {% if page.series %}<span class="gui thin">| in {{ page.series }}</span>{% endif %}
+                {% if page.series %}<span class="gui thin">| in <a href="#series">{{ page.series }}</a></span>{% endif %}
             </span>
             <h1>{{ page.title }}</h1>
         </header>

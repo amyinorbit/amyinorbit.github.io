@@ -208,6 +208,10 @@ span.post-meta {
     color: #666;
 }
 
+span.post-meta a:not(:hover) {
+    color: #666;
+}
+
 aside {
 /*    border-top: 2px solid black;*/
     border-bottom: 1px solid #ccc;
