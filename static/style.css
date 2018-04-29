@@ -82,8 +82,13 @@ a.button:hover {
 }
 
 .padded {
-    padding-bottom: 5em;
-    padding-top: 5em;
+    padding-bottom: 4em;
+    padding-top: 4em;
+}
+
+.padded.lightly {
+    padding-bottom: 2em;
+    padding-top: 2em;
 }
 
 sup {
@@ -216,8 +221,16 @@ span.post-meta a:not(:hover) {
     color: #666;
 }
 
+article.archive header {
+    font-size: 90%;
+    margin-bottom: 0;
+}
+
+article.archive header h1 {
+    font-size: 1.5em;
+}
+
 aside {
-/*    border-top: 2px solid black;*/
     border-bottom: 1px solid #ddd;
     font-size: 0.9em;
 }

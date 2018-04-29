@@ -18,7 +18,7 @@ layout: default
 </article>
 {% if page.series %}
 <aside id="series">
-    <div class="container padded">
+    <div class="lightly padded container">
         <h2 class="gui"><span class="gui thin">Other Entries in </span>{{ page.series }}</h2>
         {% assign series = site.posts | where:"series", page.series %}
         <ol class="series-list">
@@ -36,7 +36,7 @@ layout: default
 </aside>
 {% endif %}
 <aside id="social">
-    <div class="container padded">
+    <div class="lightly padded container">
         <h2>Feedback</h2>
         <p>If you found this article interesting, you can <a href="http://twitter.com/share?text={{ page.title | url_encode }}&url={{ page.url | prepend: site.baseurl }}">share it on twitter</a>.<br />If you want to discuss it, feel free to <a href="https://twitter.com/{{ site.twitter_username }}">tweet at me</a> or send me a mail at <a href="mailto:{{ site.email }}">email me</a>.
     </div>
