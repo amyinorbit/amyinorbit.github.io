@@ -405,7 +405,8 @@ footer small {
     }
     
     .container {
-        padding: 1em 10%;
+        padding-left: 10%;
+        padding-right: 10%;
     }
     
     header#banner ul {
@@ -426,7 +427,7 @@ footer small {
 
 @media(max-width: 560px) {
     
-    .container {
+    .container: {
         padding: 1.5em;
     }
     
