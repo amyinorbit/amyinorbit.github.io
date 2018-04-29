@@ -21,6 +21,6 @@ It’s definitively an amazing Lego kit. It feels solid, sturdy, and very closel
 As I expected, the rocker bogie suspension system works like a charm, and its motion when the small robot is ran over obstacles is hypnotising. If you are even remotely interested in Space, grab one of those, it’s worth it.
 
 
-[1]: /static/media/2014/01/cesar-1390575538478-raw.jpg
-[2]: /static/media/2014/01/cesar-1390575326659-raw.jpg
-[3]: /static/media/2014/01/cesar-1390575651639-raw.jpg
+[1]: /static/media/2014/01/img-1390575538478-raw.jpg
+[2]: /static/media/2014/01/img-1390575326659-raw.jpg
+[3]: /static/media/2014/01/img-1390575651639-raw.jpg

@@ -4,11 +4,14 @@ tags: gamedev, engine, tools
 permalink: /post/caching-textures/
 layout: post
 title: SDL and Caching
+excerpt_separator: <!--more-->
 ---
 
 While I've not kept working on my [game-a-month project](http://amyparent.com/2014/04/one-game-a-month/), it has made me want to dive a bit deeper in Games Developement. Since I don't really want to re-write all the basics everytime I start a new project, I decided to write my own small engine, PixelKit.
 
 [SDL](https://www.libsdl.org), the library I use to draw on the screen, loads images as `SDL_Surfaces`, but the most efficient way to draw to one on the screen is to convert it to a [gpu-stored `SDL_Texture`](http://stackoverflow.com/questions/21392755/difference-between-surface-and-texture-sdl-general), which can be done easily. Once this is done, the temporary surface can be deleted from memory.
+
+<!--more-->
 
 {% highlight cpp %}
     // load the image

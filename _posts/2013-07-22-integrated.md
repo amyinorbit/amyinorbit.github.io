@@ -3,6 +3,7 @@ date: 2013-07-22 10:00:00
 title: Integrated
 permalink: /post/integrated/
 layout: post
+published: false
 ---
 
 Today, I'm switching back to iCloud to sync my contacts, agenda and reminders. For two month, I've used a self-hosted [OwnCloud][1].

@@ -50,7 +50,7 @@ them -- bear in mind, I'm neither a rocket scientist, nor a financial expert.
    supposed to convince everyone that there was indeed a plan to fund BFR/ITS. Yet, it was very
    vague: we know BFR is supposed to cost less per launches than Falcon&nbsp;1, but how much
    exactly? And if it does, how many launches per vehicles are required to get to that point? This
-   is important, because it's hard to compare cold hart costs between expandable launchers and one
+   is important, because it's hard to compare cold hard costs between expandable launchers and one
    that can potentially be reused tens of times. It seems obvious that to reach less than $6M per
    launch, each vehicle needs to launch a lot -- I'm willing to bet that the material cost for
    building a single booster and spaceship alone are far, far higher than that.

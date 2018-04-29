@@ -43,8 +43,8 @@ This month made me a bit more confident that I was able to make proper games. I 
 In the meantime, you can find the game (compiled for Windows and OS X) at [amyparent.com/ghosts][8], and the source code (which should compile for Linux, even tough I haven't tried) at [GitHub][9]
 
 
-[1]: /static/media/2014/06/cesar-1402247541886-raw.png
-[2]: /static/media/2014/06/cesar-1402247864579-raw.png
+[1]: /static/media/2014/06/img-1402247541886-raw.png
+[2]: /static/media/2014/06/img-1402247864579-raw.png
 [3]: http://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664
 [4]: http://amyparent.com/ghosts/
 [5]: http://amyparent.com/2014/05/game-a-month-month-1/

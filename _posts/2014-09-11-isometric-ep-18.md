@@ -20,5 +20,5 @@ Once you've listened to this, you might also want to watch:
 
 * The recording of _The F. Word_ panel, held this year's PAX Prime ([youtube](http://youtube.com/watch?v=3M4ay9d9758))
 
-[1]: /static/media/2014/09/cesar-1410442156079-raw.jpg
+[1]: /static/media/2014/09/img-1410442156079-raw.jpg
 [2]: http://5by5.tv/isometric/18

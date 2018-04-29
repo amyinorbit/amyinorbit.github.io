@@ -34,11 +34,11 @@ And since a picture is worth a thousand words, I though I'd share a few pictures
 *Satisfaction closes the show*
 
 
-[1]: /static/media/2014/02/cesar-1392340386741-raw.jpg
+[1]: /static/media/2014/02/img-1392340386741-raw.jpg
 [2]: https://www.youtube.com/watch?v=6WJJdn-Dz28
 [3]: https://www.youtube.com/watch?v=9CPRqd4vCyw
-[4]: /static/media/2014/02/cesar-1392340886166-raw.jpg
-[5]: /static/media/2014/02/cesar-1392340911603-raw.jpg
-[6]: /static/media/2014/02/cesar-1392340951822-raw.jpg
-[7]: /static/media/2014/02/cesar-1392340974754-raw.jpg
-[8]: /static/media/2014/02/cesar-1392340988593-raw.jpg
+[4]: /static/media/2014/02/img-1392340886166-raw.jpg
+[5]: /static/media/2014/02/img-1392340911603-raw.jpg
+[6]: /static/media/2014/02/img-1392340951822-raw.jpg
+[7]: /static/media/2014/02/img-1392340974754-raw.jpg
+[8]: /static/media/2014/02/img-1392340988593-raw.jpg

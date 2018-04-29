@@ -4,6 +4,7 @@ tags: spacex, commercial-space
 permalink: /post/spacex-barge/
 layout: post
 title: Rocket, Meet Boat
+excerpt_separator: ""
 ---
 
 ![Falcon 9 coming in][i-landing]

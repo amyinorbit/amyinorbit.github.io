@@ -6,7 +6,7 @@ date: 2013-11-23 00:00:00
 permalink: /post/doctor-who-/
 ---
 
-![Doctor Who.jpg](/static/media/2013/11/cesar-1385152538885-raw.jpg)
+![Doctor Who.jpg](/static/media/2013/11/img-1385152538885-raw.jpg)
 
 > You may be _a_ doctor, but I am _The_ Doctor. The definite article, you might say.
 >

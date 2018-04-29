@@ -2,6 +2,7 @@
 title: Automating Rocket Launches
 date: 2016-12-15 15:33:00
 layout: post
+excerpt_separator: <!--more-->
 ---
 
 A few months ago, I published [a video][1] of a completely automatic launch to
@@ -15,7 +16,9 @@ you access to the spaceship and most of the KSP world. My KSP save runs at twice
 the scale of the stock game, making it a bit more expensive to get to orbit,
 but makes single-burn to orbit launches closer to real-life launches.
 
-A launch is made of five main phases:
+A launch is made of five main phases.
+
+<!--more-->
 
  1. Liftoff and vertical ascent: the rocket holds a purely vertical altitude,
     to gain some vertical speed and clear the launch pad.

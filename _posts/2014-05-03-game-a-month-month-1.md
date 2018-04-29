@@ -42,8 +42,8 @@ Working with bare C and SDL, without any existing engine, was interesting, but I
 
 [The game][3] (Mac version only for the moment) and its code are [available on GitHub][4]. I'm waiting to get back to University to compile the Windows and Linux versions of the game.
 
-[1]: /static/media/2014/05/cesar-1398949031321-raw.png
-[2]: /static/media/2014/05/cesar-1399125578609-raw.png
+[1]: /static/media/2014/05/img-1398949031321-raw.png
+[2]: /static/media/2014/05/img-1399125578609-raw.png
 [3]: https://github.com/amyinorbit/GaM1-Scott-Pilgrim/releases/tag/v1
 [4]: https://github.com/amyinorbit/GaM1-Scott-Pilgrim
 

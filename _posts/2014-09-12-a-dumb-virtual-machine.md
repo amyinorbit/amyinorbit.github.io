@@ -4,6 +4,7 @@ title: A dumb virtual machine
 layout: post
 date: 2014-09-12 12:32:32
 permalink: /post/a-dumb-virtual-machine/
+excerpt_separator: <!--more-->
 ---
 
 ![DumbVM in action][1]{: .small}  
@@ -24,7 +25,7 @@ Programmes are written in a custom assembly language, and the assembler converts
 The [whole "documentation"][3] for the language can be found on [GitHub][4], along with the (probably awful) source code for the machine and the assembler. Feel free to fork it or send me pull request if you think I've done something horrible or simply want to make it better.
 
 
-[1]: /static/media/2014/09/cesar-1410520829504-raw.png
+[1]: /static/media/2014/09/img-1410520829504-raw.png
 [2]: http://amyparent.com/files/raw/virtual.asm
 [3]: https://github.com/amyinorbit/DumbVM#instruction-set
 [4]: https://github.com/amyinorbit/DumbVM

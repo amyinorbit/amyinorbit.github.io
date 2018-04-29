@@ -30,9 +30,9 @@ _photo [David James Swanson][4]_
 Interesting thing to note, the tour crew asked us not to take pictures during the show. A professional photographer follows the band instead, and all the pictures are made [available on Jack's website][6]. It was mostly respected, and the near absence of raised phones made an amazing concert even more enjoyable.
 
 
-[1]: /static/media/2014/08/cesar-1407781871912-raw.jpg
+[1]: /static/media/2014/08/img-1407781871912-raw.jpg
 [2]: http://www.feelnumb.com/2010/12/23/jack-whites-obsession-with-the-number-3-three-iii/
-[3]: /static/media/2014/08/cesar-1407782310406-raw.jpg
+[3]: /static/media/2014/08/img-1407782310406-raw.jpg
 [4]: http://www.davidswanson.com
-[5]: /static/media/2014/08/cesar-1407782293572-raw.jpg
+[5]: /static/media/2014/08/img-1407782293572-raw.jpg
 [6]: http://jackwhiteiii.com/shows/paris-4/

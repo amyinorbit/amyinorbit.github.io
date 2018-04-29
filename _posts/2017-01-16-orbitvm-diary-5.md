@@ -3,6 +3,7 @@ title: "Return of the Function Call"
 date: 2017-01-16 22:00:00
 layout: post
 series: "OrbitVM Diaries"
+excerpt_separator: <!--more-->
 ---
 
 I have discussed function invocation in Orbit before, but then it was all about
@@ -17,6 +18,8 @@ following a pointer to the function's bytecode ([code on github][3]).
 Something I need to think about now is how I do parameter passing and local
 variables. OrbitVM is stack-based, so parameters must be passed, well, on the
 stack.
+
+<!--more-->
 
 I want functions to behave exactly like opcodes, stack wise: after a function
 returns, all of its parameters must have been popped off the stack, and the

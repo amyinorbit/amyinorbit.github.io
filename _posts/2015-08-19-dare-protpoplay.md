@@ -15,6 +15,8 @@ _A few of the countless visitors._
 
 On Sunday alone, the least busy of the two days, 561 rounds of Ghosts were played. Some kids remembered the game from the [DCA event][2] in January. Some discovered it, some told me it was their favourite game. Many gave me tips on how I could make it better. Most played again and again to try and beat the high score. After two days of standing up, I was exhausted, but I still have a smile stuck on my face.
 
+<!--more-->
+
 ![Dare Protoplay - winners][im3]  
 _Ten minutes before closure, still trying to break the High Score._
 

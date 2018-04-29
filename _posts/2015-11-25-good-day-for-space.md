@@ -4,6 +4,7 @@ tags: blue-origin, commercial-space
 permalink: /post/good-day-for-space/
 layout: post
 title: A Good Day For Space
+excerpt_separator: ""
 ---
 
 YouTube video: [9pillaOxGCo](http://youtube.com/watch?v=9pillaOxGCo)

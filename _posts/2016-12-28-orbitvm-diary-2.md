@@ -3,6 +3,7 @@ title: "OrbitVM Dispatch"
 date: 2016-12-28 01:30:00
 layout: post
 series: "OrbitVM Diaries"
+excerpt_separator: <!--more-->
 ---
 
 I've made some progress on Orbit – well, I've setup the project directory and
@@ -13,6 +14,8 @@ I'm now getting to the point where I can write a simple interpreter loop, and
 start thinking about function dispatch. I really like full dynamic dispatch
 like Objective-C does – that is, message-based dispatch: each function call is
 done by name, followed by a dispatch table lookup before invocation.
+
+<!--more-->
 
 So I've built a [hash map][2]. It's a pretty simple implementation, without any
 support for deletion so far, and with linear probing. Strings in orbit are

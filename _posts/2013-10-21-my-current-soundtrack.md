@@ -10,16 +10,18 @@ I live on music. I don't —and I cannot— spend one single day without having 
 
 ## Marina & The Diamonds
 
-![Marina & The Diamonds](/static/media/2013/10/cesar-1382389265336-raw.jpg)  
+![Marina & The Diamonds](/static/media/2013/10/img-1382389265336-raw.jpg)  
 _image © [Pam Mayer](http://www.flickr.com/photos/pamnesiac/4962432630/) (Creative Commons by-nc-nd)_
 
 This was not really a surprise to see that pop up. I discovered Marina's music roughly two month ago, and I fell in love with it. Not love at first sight: that kind of love that comes slowly, as you try to listen again to that song, that had a passage you liked. And you end up listening to everything, almost all the time.
+
+<!--more-->
 
 If I had to pick three songs, I would choose _Oh No!_ for its energy, _Hermit the Frog_ for the leaps in the tone of her voice, and, above all, the acoustic version of _Homewrecker_, also for the oh–so–perfect voice.
 
 ## Franz Ferdinand (Right Thoughts, etc.)
 
-![Franz Ferdinand.jpg](/static/media/2013/10/cesar-1382390426417-raw.jpg)  
+![Franz Ferdinand.jpg](/static/media/2013/10/img-1382390426417-raw.jpg)  
 _image © [MTV Live](http://www.flickr.com/photos/32742618@N04/3101077006/) (Creative Commons by-nc-nd)_
 
 Not a big surprise either: I have known them for quite long, but the release of their new album also made me go back through their whole discography.
@@ -28,7 +30,7 @@ My three favourite songs from _Right Thoughts, Right Words, Right Action_ would 
 
 ## Vintage Trouble
 
-![Vintage Troube.jpg](/static/media/2013/10/cesar-1382389832430-raw.jpg)  
+![Vintage Troube.jpg](/static/media/2013/10/img-1382389832430-raw.jpg)  
 _image © [FrankieTeaseMagazine](http://www.flickr.com/photos/missfrankietease/8470677942/) (Creative Commons by)_
 
 I had never  heard of them until July, when they played a few hours before the Stones in Hyde Park. A great soul/funk/r&b concert, which made me buy the album. It stayed quite unplayed until a month ago, but I must admit it is now growing on me. Beautiful voice, a great guitar sound, nice melodies…

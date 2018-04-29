@@ -4,6 +4,7 @@ tags: gamedev, nintendo
 permalink: /post/nesasm-mac/
 layout: post
 title: NESASM for Mac
+excerpt_separator: ""
 ---
 
 I have (slowly) started to learn how to make game for the NES. I knew most of its processor's (6502) instruction set from working on processor design all semester, but it turns out coding in assembly means much more than knowing the language.

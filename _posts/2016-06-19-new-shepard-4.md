@@ -4,6 +4,7 @@ tags: commercial-space, blue-origin
 permalink: /post/new-shepard-4/
 layout: post
 title: New Shepard Flight 4
+excerpt_separator: <!--more-->
 ---
 
 ![New Shepard Flight 4 Landing][i-ns4]  

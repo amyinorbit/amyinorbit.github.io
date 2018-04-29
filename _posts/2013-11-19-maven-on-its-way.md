@@ -6,7 +6,7 @@ date: 2013-11-19 10:00:00
 permalink: /post/maven-on-its-way/
 ---
 
-![MAVEN launch.jpg](/static/media/2013/11/cesar-1384888280273-raw.jpg)
+![MAVEN launch.jpg](/static/media/2013/11/img-1384888280273-raw.jpg)
 *Atlas V lofts the MAVEN probe (image [NASA][1])*
 
 Yesterday, NASA successfully launched the [MAVEN][2] (for _Mars Atmosphere and Volatile EvolutioN_). After being sent on an interplanetary trajectory by the Centaur upper stage of the rocket, it will coast for a bit more than ten months, for a planned arrival on Mars orbit on the 22nd of September. Yay science!

@@ -34,7 +34,7 @@ In the meantime, I've done some new graphics for Scott and Ramona, twice as larg
 ![test.jpg][10]
 
 
-[1]: /static/media/2014/04/cesar-1396981012267-raw.png
+[1]: /static/media/2014/04/img-1396981012267-raw.png
 [2]: https://twitter.com/stroughtonsmith
 [3]: https://twitter.com/MsMinotaur
 [4]: http://en.wikipedia.org/wiki/Scott_Pilgrim
@@ -43,4 +43,4 @@ In the meantime, I've done some new graphics for Scott and Ramona, twice as larg
 [7]: http://cocos2d.org/index.html
 [8]: https://github.com/cocos2d/cocos2d-html5
 [9]: http://www.cocos2d-iphone.org
-[10]: /static/media/2014/04/cesar-1397056837700-raw.png
+[10]: /static/media/2014/04/img-1397056837700-raw.png

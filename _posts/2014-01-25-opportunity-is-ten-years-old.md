@@ -29,8 +29,8 @@ During this ten-year long mission, the rover had time to visit six craters, insp
 
 *The Jet Propulsion Laboratory uploaded [a video showing the rover's whole journey on Mars][5]*
 
-[1]: /static/media/2014/01/cesar-1390594299625-raw.jpg
+[1]: /static/media/2014/01/img-1390594299625-raw.jpg
 [2]: http://www.youtube.com/watch?v=XRCIzZHpFtY
-[3]: /static/media/2014/01/cesar-1390594653986-raw.jpg
+[3]: /static/media/2014/01/img-1390594653986-raw.jpg
 [4]: http://en.wikipedia.org/wiki/Opportunity_(rover)#Heat_Shield_Rock_and_stuck_in_sand
 [5]: https://www.youtube.com/watch?v=ha8GPZsMl8Y

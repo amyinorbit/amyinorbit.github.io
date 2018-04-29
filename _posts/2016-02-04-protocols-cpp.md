@@ -4,6 +4,7 @@ tags: programming, gamedev, c++
 permalink: /post/protocols-cpp/
 layout: post
 title: Protocol-Oriented C++ & Data Locality
+published: false
 ---
 
 I discovered what Apple calls _Protocol Oriented_ programming last summer, thanks to [one of the WWDC videos](https://developer.apple.com/videos/play/wwdc2015-408/) (great presentation). The whole thing is clearly aimed at Swift, but some of it can be applied to C++: it doesn’t have protocols but it does multiple inheritance and abstract classes, which is pretty close.

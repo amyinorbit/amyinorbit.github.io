@@ -6,11 +6,13 @@ layout: post
 title: Glitch Effects Without Shaders
 ---
 
-For [last weekend's game jam](/post/double-jam-postmortem/), I needed to create a CRT-style glitch effect. The proper way to do this would be to use shaders — Unity, SpriteKit & all let you add custom shaders to game objects — but my engine does not (at the moment) support shaders, because the current version uses SDL to draw to the screen. I found a way around that may not look as good as it would have with shaders, but still works.
-
 ![Glitch in Slow Motion](/static/media/2015/10/glitch-fullspeed.gif){: .right}
 
+For [last weekend's game jam](/post/double-jam-postmortem/), I needed to create a CRT-style glitch effect. The proper way to do this would be to use shaders — Unity, SpriteKit & all let you add custom shaders to game objects — but my engine does not (at the moment) support shaders, because the current version uses SDL to draw to the screen. I found a way around that may not look as good as it would have with shaders, but still works.
+
 _The code examples in the article use Meteor's API (C++), but they are simple enough that they could be translated for SpriteKit, Cocos2D or other 2D engines with very little work._
+
+<!--more-->
 
 The idea is to mix a colour overlay with fast screen shake to give the illusion that pixels are being drawn off-colour and slightly offset from their correct position. Most engines that I know of allow you to blend a scene's texture with a colour, which is overlaid on the scene's content.
 

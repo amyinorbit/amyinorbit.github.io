@@ -4,6 +4,7 @@ tags: gamedev, games
 permalink: /post/ghosts-dca-dundee/
 layout: post
 title: Ghosts in the wild
+published: false
 ---
 
 ![Ghosts at the DCA](/static/media/2015/01/ghosts_dca.jpg)

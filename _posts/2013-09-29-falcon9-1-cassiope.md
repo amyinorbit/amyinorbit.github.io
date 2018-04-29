@@ -14,6 +14,8 @@ Today was the first flight of the upgraded version of SpaceX's launch vehicle, F
 
 But it went well. *Very* well, actually.
 
+<!--more-->
+
 YouTube video: [PU7Li5rX_OQ](http://youtube.com/watch?v=PU7Li5rX_OQ)
 
 ## Primary goal: putting payloads on orbit

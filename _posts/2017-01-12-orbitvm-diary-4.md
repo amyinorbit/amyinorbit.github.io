@@ -3,6 +3,7 @@ title: "OrbitVM Execution"
 date: 2017-01-12 14:25:00
 layout: post
 series: "OrbitVM Diaries"
+excerpt_separator: <!--more-->
 ---
 
 So I now have the beginning of a [type system][1] (need to write about this) and
@@ -16,7 +17,9 @@ pool and user-defined type. That's step 1.
 Where it gets a bit less clear to me is what happens when I want to start
 running the newly loaded module (let's call it a module). Ideally, it's a call
 to `orbit_run(OrbitVM* vm, VMModule* module, const char* signature)`. So in
-order to have that, I have to:
+order to have that, I have to do a few things.
+
+<!--more-->
 
  1. Resolve the function that matches `signature` in the module.
  

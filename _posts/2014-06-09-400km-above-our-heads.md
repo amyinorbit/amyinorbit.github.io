@@ -26,11 +26,11 @@ _images under the [Creative Commons BY-NC][6] license_
 
 ![ISS on the 13th of June, 2][8]
 
-[1]: /static/media/2014/06/cesar-1402270722694-raw.jpg
-[2]: /static/media/2014/06/cesar-1402270728003-raw.jpg
+[1]: /static/media/2014/06/img-1402270722694-raw.jpg
+[2]: /static/media/2014/06/img-1402270728003-raw.jpg
 [3]: http://www.nasa.gov/mission_pages/station/main/
-[4]: /static/media/2014/06/cesar-1402270731732-raw.jpg
+[4]: /static/media/2014/06/img-1402270731732-raw.jpg
 [5]: https://www.flickr.com/photos/amyparent/sets/72157645068895551/
 [6]: http://creativecommons.org/licenses/by-nc/4.0/
-[7]: /static/media/2014/06/cesar-1402645713672-raw.jpg
-[8]: /static/media/2014/06/cesar-1402645734372-raw.jpg
+[7]: /static/media/2014/06/img-1402645713672-raw.jpg
+[8]: /static/media/2014/06/img-1402645734372-raw.jpg

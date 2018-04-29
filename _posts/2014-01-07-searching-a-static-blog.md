@@ -4,6 +4,7 @@ title: Searching a static blog
 layout: post
 date: 2014-01-07 00:00:00
 permalink: /post/searching-a-static-blog/
+published: false
 ---
 
 ![Search Form on the blog](/static/media/2014/01/search.png)

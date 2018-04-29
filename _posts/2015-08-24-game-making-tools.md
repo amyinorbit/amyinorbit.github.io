@@ -8,6 +8,8 @@ title: Game Making Tools
 
 [Last weekend](/post/dare-protpoplay), I got asked by a few visitors how to get started in game development, and what tools I use to make my games. I'm probably not that qualified to answer the former — I'll still try to make a longer article some time in the future — but I thought I'd make a quick list of my game making tools.
 
+<!--more-->
+
 ## Graphics
 
 I use [Photoshop CC](http://www.adobe.com/products/photoshop/features.html) for sprites, posters and everything that requires some image editing. I used to work with [Pixelmator](http://www.pixelmator.com), which is more than enough for my pixel art needs, but Photoshop is a bit better in a lot of small ways, and handles my Wacom tablet with less lag.

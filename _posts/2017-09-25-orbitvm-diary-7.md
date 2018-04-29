@@ -3,6 +3,7 @@ title: "Syntax Trees and C"
 date: 2017-09-25 15:45:00 BST
 layout: post
 series: "OrbitVM Diaries"
+excerpt_separator: <!--more-->
 ---
 
 So as I mentioned in the [last entry][1], I'm at the stage where the parser for
@@ -22,6 +23,8 @@ is generated as the parser goes down the file, you can't exactly play with the
 bytecode structure, so optimisation goes out of the window. It's also not
 extensible, since everything is called from the parser. So instead, I'm going
 to do it using an Abstract Syntax Tree (AST).
+
+<!--more-->
 
 The one thing I love about the AST is that It's a good interchange format.
 Instead of having each phase written as one huge block, I can split things into

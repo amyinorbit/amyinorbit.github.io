@@ -4,6 +4,7 @@ title: Orbital's successful Cygnus launch
 layout: post
 date: 2013-09-19 10:00:00
 permalink: /post/orbital-successful-cygnus-launch/
+excerpt_separator: ""
 ---
 
 ![Antares lifts off, headed to the ISS][1]

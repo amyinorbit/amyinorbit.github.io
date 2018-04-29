@@ -42,11 +42,11 @@ _If you want (forty-five years late) live tweets or news report of the mission, 
 
 [^2]: In 2011, [NASA budget was 18.72 billion dollars](http://en.wikipedia.org/wiki/Budget_of_NASA), against [680 billions for the Military](http://en.wikipedia.org/wiki/Military_budget_of_the_United_States#Budget_for_2011).
 
-[1]: /static/media/2014/07/cesar-1405586960877-raw.jpg
-[2]: /static/media/2014/07/cesar-1405878780314-raw.jpg
-[3]: /static/media/2014/07/cesar-1405879068727-raw.jpg
+[1]: /static/media/2014/07/img-1405586960877-raw.jpg
+[2]: /static/media/2014/07/img-1405878780314-raw.jpg
+[3]: /static/media/2014/07/img-1405879068727-raw.jpg
 [4]: http://twitter.com/astVintageSpace
 [5]: http://forum.nasaspaceflight.com/index.php?topic=35227.msg1229950#new
 [6]: https://twitter.com/search?q=#Apollo45&src=tyah
-[7]: /static/media/2014/07/cesar-1406307162878-raw.jpg
+[7]: /static/media/2014/07/img-1406307162878-raw.jpg
 [8]: http://en.wikipedia.org/wiki/Lunar_orbit_rendezvous

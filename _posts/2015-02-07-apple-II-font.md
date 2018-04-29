@@ -4,6 +4,7 @@ tags: programming, typography
 permalink: /post/apple-II-font/
 layout: post
 title: Making fonts like it’s ’77
+excerpt_separator: ""
 ---
 
 ![Apple II font](/static/media/2015/02/appleiifont.png)

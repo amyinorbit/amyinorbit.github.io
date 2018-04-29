@@ -14,6 +14,8 @@ In june, I will (hopefully) graduate from the IUT Cachan — the Technology Univ
 
 I’ve dreamed of becoming a pilot since I was ten. When we had to send applications for schools, a few month before sitting the French Baccalaureate, I sent some to *Preparatory Classes*. Although they are meant to prepare students to Engineering College (like the B-Eng in England), they are considered as the sacred way to sit the piloting schools exams — unless you want to join the *Armée de l’air*.
 
+<!--more-->
+
 My substantial lack of work played against me on that level. I wasn’t really a bad student, just the average one, much more interested by its friends and his computer than his homework. As an “insurance” choice, I added Cachan. The practical side of it, as well as my ever-going want to understand the way things work, drove me to it. Furthermore, the *ENAC* exam (which decides wether you can become a student pilot in the only public piloting school in France), was said to be “affordable” to Technology Universities student — at least in theory.
 
 As I thought, I didn’t get an offer to attend *preparatory classes*. I was admitted in Cachan though, and I was quite happy with it.
