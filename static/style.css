@@ -84,7 +84,8 @@ a.button:hover {
 
 .padded {
 /*    padding: 1em;*/
-    padding: 2em 0;
+    padding-bottom: 2em;
+    padding-top: 2em;
 }
 
 sup {
@@ -138,21 +139,6 @@ header#banner h1 a {
 header#banner h1 a:hover {
     color: #000;
 }
-
-/*header#banner ul.navbar a {
-    text-decoration: none;
-    color: #555;
-    display: inline-block;
-    border: 1px #666 solid;
-    padding: .4em .8em;
-    border-radius: 2em;
-}
-
-header#banner ul.navbar a:hover {
-    color: #fff;
-    background-color: #CE4C64;
-    border-color: #CE4C64;
-}*/
 
 
 header#banner ul {
@@ -288,9 +274,9 @@ article li, aside li {
 
 img {
 	display: block;
-/*    margin: 0 -5% 1em -5%;*/
-/*    max-width: 109.5%;*/
-    max-width: 100%;
+    margin: 0 -5% 1em -5%;
+    max-width: 109.5%;
+/*    max-width: 100%;*/
     height: auto;
 }
 
