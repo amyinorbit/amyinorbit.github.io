@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+tagline: true
 ---
 <section id="tagline">
     <div class="container">
@@ -34,7 +35,7 @@ layout: default
 {% endfor %}
 
 <section id="pagination">
-    <div class="container padded">
+    <div class="container">
         <!--<a class="button center" href="/archive">archive</a>-->
         {% if paginator.previous_page %}
         <a class="force left button" href="{{ paginator.previous_page_path }}">←&nbsp;prev</a>

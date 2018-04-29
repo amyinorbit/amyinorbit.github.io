@@ -4,7 +4,7 @@ timezone: Europe/London
 permalink: /post/:title/
 author: Amy Parent
 description: >
-  Hi, I'm Amy Parent! By day, I'm studying clouds evolution in brown dwarfs at Abertay University. By night, I get bruises skating with Dundee Roller Derby and make video games.
+  Hi, I'm Amy Parent! By day, I study cloud evolution in brown dwarfs at Abertay University. By night, I get bruises skating with Dundee Roller Derby and make video games.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amyparent.com"
 twitter_username: amyinorbit
