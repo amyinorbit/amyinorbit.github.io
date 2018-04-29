@@ -62,7 +62,7 @@ a.button {
     text-decoration: none;
     color: #999;
     display: inline-block;
-    border: 1px #ccc solid;
+    border: 1px #ddd solid;
     padding: .4em .8em;
     border-radius: 2em;
 }
@@ -78,7 +78,7 @@ a.button:hover {
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
-    padding: 1em;
+    padding: 1em 5%;
 }
 
 .padded {
@@ -117,7 +117,7 @@ sup {
 
 header#banner {
     overflow-y: hidden;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #ddd;
 }
 
 header#banner h1 {
@@ -159,7 +159,7 @@ header#banner li {
 
 section#tagline {
     font-size: 1.2rem;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #ddd;
     padding: 1em 0;
 }
 
@@ -184,7 +184,7 @@ section#tagline img#mug {
 /* individual posts */
 
 article.post {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #ddd;
 }
 
 article.post header {
@@ -218,7 +218,7 @@ span.post-meta a:not(:hover) {
 
 aside {
 /*    border-top: 2px solid black;*/
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #ddd;
     font-size: 0.9em;
 }
 
@@ -285,8 +285,7 @@ article li, aside li {
 img {
 	display: block;
     margin: 0 -5% 1em -5%;
-    max-width: 109.5%;
-/*    max-width: 100%;*/
+    max-width: 110%;
     height: auto;
 }
 
@@ -365,11 +364,8 @@ tr, td, th {
 
 hr {
     border: none;
-    border-bottom: 2px solid #000;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0;
-    margin-bottom: 1.5em;
+    border-bottom: 4px solid #ddd;
+    margin: 2em auto 3em auto;
     width: 60%;
 }
 
@@ -378,7 +374,6 @@ hr {
 section#pagination {
     overflow-y: hidden;
     text-align: center;
-/*    padding-bottom: 1em;*/
 }
 
 footer {
@@ -400,14 +395,17 @@ footer small {
         bottom: 0;
         width: 240px;
         border-bottom: none;
-        border-right: 1px solid #ccc;
-        overflow-y: scroll;
+        border-right: 1px solid #ddd;
     }
     
     #main-content, footer {
 /*        width: 740px;*/
         margin-left: 240px;
         margin-right: 0;
+    }
+    
+    .container {
+        padding: 1em 10%;
     }
     
     header#banner ul {
@@ -418,6 +416,11 @@ footer small {
         padding-left: 0;
         margin: .5em auto;
         display: block;
+    }
+    
+    img:not(.small):not(.right):not(.left) {
+        margin: 0 -10% 1em -10%;
+        max-width: 120%;
     }
 }
 
