@@ -21,7 +21,7 @@ I managed to get a game working: it launches, takes inputs from two players (usi
 
 I also enjoyed making it much more than I expected, especially the art part. I decided to go the pixel art way because it seemed easy, which it is absolutely not, but even while re-doing the same sprite image for the tenth time, I had fun.
 
-![Matthew Patel][2]  
+![Matthew Patel][2]{: .small}  
 _It is I, Matthew Patel!_
 
 Finally, the fact that I had a real project and goal gave me motivation to learn at least the basics of C properly, and I think I'll remember the concepts I learned this time way better than if I had just followed a step-by-step tutorial.

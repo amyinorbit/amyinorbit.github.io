@@ -9,7 +9,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 }
 
 body {
-    font-family: "Helvetica Neue", -apple-system, "Segoe UI", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, -apple-system, "Helvetica Neue", "Segoe UI", sans-serif;
     font-size: 13pt;
     font-weight: 400;
     line-height: 1;
@@ -439,6 +439,15 @@ footer small {
 }
 
 @media(max-width: 560px) {
+    
+    body { font-size: 12pt;}
+    
+    h1 { font-size: 1.8rem; }
+    h2 { font-size: 1.3rem; }
+    h3 { font-size: 1.2rem; }
+    h4 { font-size: 1.1rem; }
+    h5 { font-size: 1.05rem; }
+    h6 { font-size: 1.0rem; }
     
     .container: {
         padding: 1.5em;
