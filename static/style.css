@@ -159,7 +159,6 @@ header#banner li {
 
 section#tagline {
     font-size: 1.2rem;
-/*    border-top: 1px solid #ccc;*/
     border-bottom: 1px solid #ccc;
     padding: 1em 0;
 }
@@ -419,8 +418,20 @@ footer small {
 
 @media(max-width: 560px) {
     
-    .container, .padded {
-        padding: 2em;
+    .container {
+        padding: 1.5em;
+    }
+    
+    .padded {
+        padding: 3em 1.5em;
+    }
+    
+    header#banner h1 {
+        margin: .3em auto;
+    }
+    
+    header#banner nav {
+        padding: 1em 0;
     }
     
     header#banner ul {
@@ -430,6 +441,10 @@ footer small {
     header#banner ul li {
         padding-left: 0;
         display: block;
+    }
+    
+    section#tagline {
+        padding: 0;
     }
     
     img.left, img.right, img.small {
