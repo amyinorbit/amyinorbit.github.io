@@ -321,14 +321,14 @@ img.left, img.right {
 }
 
 code {
-    font-family: "Consolas", "Menlo", monospace;
+    font-family: "Fira Code", "Consolas", "Menlo", monospace;
     font-weight: normal;
     border-radius: 3px;
 }
 
 p code {
     color: #526d7a;
-    font-size: 14pt;
+    font-size: 13pt;
 }
 
 pre {
