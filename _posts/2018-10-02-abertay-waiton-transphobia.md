@@ -5,6 +5,8 @@ layout: post
 ---
 A few days ago, Dr. Waiton, lecturer at [Abertay University][uad], published a vile transphobic opinion piece in The Herald Scotland. Abertay's support was an important part of my early transition, and this goes against the university's stance of acceptance of LGBT+ students and staff. Here's the comments I've sent as a complaint to the university. If you are in any way touched by this issue, please send your comments as well to the [Abertay SA][uadsa], and take the time to sign the [LGBT+ society's petition][pet] asking the university to put in place a zero-tolerance policy on discriminatory speech.
 
+To Abertay leadership: while you may think a lecturer's opinion do not match your stance on inclusivity, this will reflect on the university, and this will impact transgender and gender non-conforming students and staff. Please do not let it wash over.
+
 **warning: this contains references to transphobic comments that might upset you. Please only click through if you feel up to dealing with such language**
 
 <!--more-->
