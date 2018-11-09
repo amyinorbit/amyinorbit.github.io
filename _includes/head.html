@@ -6,12 +6,12 @@
     <meta name="author" content="{{ site.author | escape }}">
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="{% if page.image %}summary_large_image{% else %}summary{% endif %}">
     <meta name="twitter:site" content="{{ site.twitter_username }}">
     <meta name="og:title" content="{% if page.title %}{{ page.title | escape }} // {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
     <meta name="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     {% if page.image %}
-    <meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
     <link rel="stylesheet" type="text/css" href="/static/style.css"/>
     <link rel="stylesheet" type="text/css" href="/static/code.css"/>
