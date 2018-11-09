@@ -24,7 +24,7 @@ tagline: true
             </span>
             <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
         </header>
-        {% if word_count > 250 and e_word_count > 0 %}
+        {% if e_word_count > 0 %}
         {{ post.excerpt }}
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">continue&nbsp;reading&nbsp;→</a>
         {% else %}
