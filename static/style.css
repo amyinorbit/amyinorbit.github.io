@@ -178,11 +178,11 @@ section#tagline p {
 section#tagline img#mug {
     float: left;
     width: 80%;
-    max-width: 64px;
+    max-width: 68px;
     border-radius: 50px;
     height: auto;
-    border: 5px solid #CE4C64;
-    padding: 5px;
+    border: 6px solid #CE4C64;
+    padding: 2px;
     margin: 0 1em .5em 0;
 }
 
