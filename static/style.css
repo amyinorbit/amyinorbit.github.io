@@ -44,6 +44,8 @@ h6 { font-size: 1.0rem; }
 
 /* Links style */
 
+/* #b76cce */
+
 a {
     text-decoration: underline;
     color: #000;
@@ -53,7 +55,7 @@ a {
 }
 
 a:hover, a:active {
-    color: #CE4C64;
+    color: #b76cce;
 }
 
 /* layout utils */
@@ -69,8 +71,8 @@ a.button {
 
 a.button:hover {
     color: #fff;
-    background-color: #CE4C64;
-    border-color: #CE4C64;
+    background-color: #b76cce;
+    border-color: #b76cce;
 }
 
 .container {
@@ -136,7 +138,7 @@ header#banner h1 {
 
 header#banner h1 a {
     text-decoration: none;
-    color: #CE4C64;
+    color: #b76cce;
 }
 
 header#banner h1 a:hover {
@@ -181,7 +183,7 @@ section#tagline img#mug {
     max-width: 68px;
     border-radius: 50px;
     height: auto;
-    border: 6px solid #CE4C64;
+    border: 6px solid #b76cce;
     padding: 2px;
     margin: 0 1em .5em 0;
 }
@@ -275,7 +277,7 @@ blockquote {
     margin: 2em 0 2em -.5em;
     color: #666;
     line-height: 1.8;
-    border-left: .8em solid #CE4C64;
+    border-left: .8em solid #b76cce;
 }
 
 article ul, article ol {
