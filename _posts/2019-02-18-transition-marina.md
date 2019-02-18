@@ -1,6 +1,6 @@
 ---
 title: "Transition & Marina"
-date: 2019-02-18 13:10:00+00
+date: 2019-02-18 13:05:00+00
 layout: post
 image: /static/media/2019/02/marina_love_fear.jpg
 excerpt_separator: <!--more-->
