@@ -18,7 +18,7 @@ I discovered Marina's music at a time where I think I was starting to know that 
 
 Back home, I started listening to Marina's then two albums (_Family Jewels_ and _Electra Heart_). It was the most stereotypically girly thing I'd done so far, and I must have known because I was almost scared of my family knowing, which seems fairly silly in hindsight unless I really knew what that meant and tried to ignore it.
 
-When _FROOT_ came out, I'd moved to Scotland, and I'd stopped being so secretive about listing to girly things. I waited every month for the next single to drop, and I was up in front of my laptop with my debit card clutched in my hand the second the tickets for the _Neon Nature_ Glasgow dates were available. To date, it's the best gig I've ever been to.
+When _FROOT_ came out, I'd moved to Scotland, and I'd stopped being so secretive about listening to girly things. I waited every month for the next single to drop, and I was up in front of my laptop with my debit card clutched in my hand the second the tickets for the _Neon Nature_ Glasgow dates were available. To date, it's the best gig I've ever been to.
 
 Even though it was a whole year before I finally admitted that I was, in fact, a girl, I think that night was the first time I presented and acted as myself, ever. I got a eyeliner heart drawn on my cheek and screamed, sung and danced with everyone in the pit. I was surrounded with girls and women and felt like I belonged. Looking back, it's hard to know how much of how good I felt that night was because I got to see my favourite singer on stage, and how much of it was because I got to be myself.
 
