@@ -1,6 +1,6 @@
 ---
 title: "Simulating Spacecraft Reentry"
-date: 2019-03-07
+date: 2019-03-07 19:05:00+00
 layout: post
 excerpt_separator: <!--more-->
 ---
