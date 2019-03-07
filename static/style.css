@@ -382,11 +382,25 @@ tr, td, th {
     vertical-align: middle
 }
 
-hr {
+/*hr {
     border: none;
     border-bottom: 4px solid #ddd;
     margin: 2em auto 3em auto;
     width: 60%;
+}*/
+
+hr {
+    border: none;
+}
+
+hr::before {
+    content: '***';
+    display: block;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #aaa;
+    margin: 1em auto 1em auto;
 }
 
 /* footer */
