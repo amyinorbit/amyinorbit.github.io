@@ -54,6 +54,12 @@ Curiosity's profile is probably the one that's further off, and it makes sense. 
 
 Realistically, these kind of simulations don't have a lot of value in terms of real-life applications -- you won't design a mission with one single dirty python script. But they're the kind of things I love spending some time doing once in a while, because they show that first principles are still a good way to get an idea of what a problem looks like. That, and saying that you can (sort of) simulate the next Crew Dragon reentry on your laptop gets you a bunch of cool points 🚶🏻‍♀️🚀
 
+## Source Code
+
+I coded all of this using Python 3, and Matplotlib for plotting. You can get the source from GitHub at [amyinorbit/reentry.py][source]. It's under the MIT license, so feel free to hack it and make changes to it! There's tonnes that could be done – adding more planets, using a more robust solver, etc.
+
+[source]: https://github.com/amyinorbit/reentry.py
+
 ## Papers I read & used
 
 1. Trevino, Loretta. [_SpaceX Dragon Re-Entry Vehicle: Aerodynamics and Aerothermodynamics with Application to Base Heat-Shield Design_][ref-1]. Georgia Institute of Technology, 2008.
