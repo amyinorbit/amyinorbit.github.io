@@ -1,5 +1,12 @@
-_site
-.sass-cache
-.jekyll-metadata
-.DS_Store
+# Ignore Jekyll output and temps
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
 
+# Ignore Bundler stuff
+.bundle/
+vendor/
+
+# Ignore macOS files
+.DS_Store
