@@ -1,45 +1,37 @@
 ---
 layout: default
 ---
-<article class="post">
-    <div class="container padded">
-        <header>
-            <span class="post-meta gui">
-                {{ page.date | date: "%b %-d, %Y" }}
-                {% if page.series %}<span class="gui thin">| in <a href="#series">{{ page.series }}</a></span>{% endif %}
-            </span>
-            <h1>{{ page.title }}</h1>
-        </header>
-        {%if page.link %}
-        <a class="button" href="{{ page.link }}">linked website</a>
-        {% endif %}
-        {{ content }}
-    </div>
+<article class="post padded container">
+    <header>
+        <span class="post-meta gui">
+            {{ page.date | date: "%b %-d, %Y" }}
+            {% if page.series %}<span class="gui thin">| in <a href="#series">{{ page.series }}</a></span>{% endif %}
+        </span>
+        <h1>{{ page.title }}</h1>
+    </header>
+    {%if page.link %}
+    <a class="button" href="{{ page.link }}">linked website</a>
+    {% endif %}
+    {{ content }}
 </article>
 {% if page.series %}
-<aside id="series">
-    <div class="lightly padded container">
-        <h2 class="gui"><span class="gui thin">Other Entries in </span>{{ page.series }}</h2>
-        {% assign series = site.posts | where:"series", page.series %}
-        <ol class="series-list">
-        {% for post in series reversed %}
-            <li class="post-link">
-                {% if post.url == page.url %}
-                {{ post.title }}
-                {% else %}
-                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                {% endif %}
-            </li>
-        {% endfor %}
-        </ol>
-    </div>
+<aside id="series" class="padded container">
+    <h2 class="gui"><span class="gui thin">Other Entries in </span>{{ page.series }}</h2>
+    {% assign series = site.posts | where:"series", page.series %}
+    <ol class="series-list">
+    {% for post in series reversed %}
+        <li class="post-link">
+            {% if post.url == page.url %}
+            {{ post.title }}
+            {% else %}
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            {% endif %}
+        </li>
+    {% endfor %}
+    </ol>
 </aside>
 {% endif %}
-<aside id="social">
-    <div class="lightly padded container">
-        <h2>Feedback</h2>
-        <p>If you found this article interesting, you can <a href="http://twitter.com/share?text={{ page.title | url_encode }}&url={{ page.url | prepend: site.baseurl }}">share it on twitter</a>.<br />If you want to discuss it, feel free to <a href="https://twitter.com/{{ site.twitter_username }}">tweet at me</a> or send me a mail at <a href="mailto:{{ site.email }}">email me</a>.
-    </div>
+<aside id="social" class="padded container">
+    <h2>Feedback</h2>
+    <p>If you found this interesting, you can <a href="http://twitter.com/share?text={{ page.title | url_encode }}&url={{ page.url | prepend: site.baseurl }}">share it on twitter</a>.<br />If you want to discuss it, feel free to <a href="https://twitter.com/{{ site.twitter_username }}">tweet at me</a> or send me a mail at <a href="mailto:{{ site.email }}">email me</a>.
 </aside>
-
-

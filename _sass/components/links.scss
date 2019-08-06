@@ -1,0 +1,28 @@
+@import "base/colors.scss";
+@import "base/fonts.scss";
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: $color-accent1-light;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: $color-primary-light;
+}
+
+@media (prefers-color-scheme: dark) {
+    a:link, a:visited {
+        color: $color-accent1-dark;
+    }
+
+    a:active {
+        color: $color-primary-dark;
+    }
+}

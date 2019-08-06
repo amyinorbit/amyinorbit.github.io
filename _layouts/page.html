@@ -1,24 +1,18 @@
 ---
 layout: default
 ---
-<article class="post">
-    <div class="padded container">
-        <header>
-            <span class="post-meta">{{ content | number_of_words | divided_by:180 | ceil }}&nbsp;min. read</span>
-            {% if page.link %}
-                <h1><a href="{{ page.link }}">{{ page.title }}</a> [www]</h1>
-            {% else %}
-                <h1>{{ page.title }}</h1>
-            {% endif %}
-        </header>
-        {{ content }}
-    </div>
+<article class="post page container">
+    <header>
+        <span class="post-meta">{{ content | number_of_words | divided_by:180 | ceil }}&nbsp;min. read</span>
+        {% if page.link %}
+            <h1><a href="{{ page.link }}">{{ page.title }}</a> [www]</h1>
+        {% else %}
+            <h1>{{ page.title }}</h1>
+        {% endif %}
+    </header>
+    {{ content }}
 </article>
-<aside id="social">
-    <div class="lightly padded container">
-        <h2>Feedback</h2>
-        <p>If you found this article interesting, you can <a href="http://twitter.com/share?text={{ page.title | url_encode }}&url={{ page.url | prepend: site.baseurl }}">share it on twitter</a>.<br />If you want to discuss it, feel free to <a href="https://twitter.com/{{ site.twitter_username }}">tweet at me</a> or send me a mail at <a href="mailto:{{ site.email }}">email me</a>.
-    </div>
+<aside id="social" class="container">
+    <h2>Feedback</h2>
+    <p>If you found this article interesting, you can <a href="http://twitter.com/share?text={{ page.title | url_encode }}&url={{ page.url | prepend: site.baseurl }}">share it on twitter</a>.<br />If you want to discuss it, feel free to <a href="https://twitter.com/{{ site.twitter_username }}">tweet at me</a> or send me a mail at <a href="mailto:{{ site.email }}">email me</a>.
 </aside>
-
-

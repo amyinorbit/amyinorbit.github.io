@@ -1,7 +1,7 @@
 title: Amy in Orbit
 email: amy@amyparent.com
 timezone: Europe/London
-permalink: /post/:title/
+permalink: /blog/:title/
 author: Amy Parent
 description: >
   Hi, I'm Amy Alex Parent! By day, I study cloud evolution in brown dwarfs at Abertay University. By night, I get bruises skating with Dundee Roller Derby, tell computers what to do and make video games 👩🏼‍🚀👩🏼‍💻
@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amyparent.com"
 twitter_username: amyinorbit
 github_username:  amyinorbit
-googleplus_uid:   116701126192141560817 
+googleplus_uid:   116701126192141560817
 
 # Build settings
 markdown: kramdown
@@ -18,7 +18,7 @@ highlighter: rouge
 # Pagination
 excerpt_separator: <!--more-->
 paginate: 8
-paginate_path: "/page/:num"
+paginate_path: "/blog/:num"
 
 plugins:
   - jekyll-paginate

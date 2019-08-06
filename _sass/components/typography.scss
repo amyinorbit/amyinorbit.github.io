@@ -1,0 +1,53 @@
+@import "base/fonts.scss";
+@import "base/colors.scss";
+
+html {
+    background: $color-background-light;
+    color: $color-primary-light;
+    font-family: $font-body;
+    
+    font-size: 13pt;
+}
+
+body {
+    line-height: 1.5rem;
+    font-weight: normal;
+    
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
+	-moz-font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
+	font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    margin-left: 1rem 0 1rem 0;
+}
+
+h1 { font-size: $size-title-1; }
+h1.large-title { font-size: $size-large-title; }
+h2 { font-size: $size-title-2; }
+h3 { font-size: $size-title-3; }
+h4 { font-size: $size-headline; }
+h5 { font-size: $size-headline; }
+h6 { font-size: $size-headline; }
+
+pre, code {
+    font-family: $font-mono;
+}
+
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: 600;
+}
+
+@media (prefers-color-scheme: dark) {
+    html {
+        background: $color-background-dark;
+        color: $color-primary-dark;
+    }
+}

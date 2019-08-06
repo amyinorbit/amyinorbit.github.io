@@ -1,0 +1,12 @@
+$main-width: 800px;
+
+.container {
+    max-width: $main-width;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.padded {
+    padding: 1em;
+}
