@@ -2,7 +2,7 @@ $color-background-light: rgb(255, 255, 255);
 $color-primary-light: rgb(10, 10, 10);
 $color-secondary-light: rgb(128, 128, 128);
 $color-accent1-light: rgb(183, 108, 206);
-$color-accent2-light: adjust-hue($color-accent1-light, -120deg);
+$color-accent2-light: adjust-hue($color-accent1-light, 120deg);
 // TODO: change that to something better
 
 $color-background-dark: mix(rgb(32, 32, 32), $color-accent1-light, 97%);
@@ -10,3 +10,9 @@ $color-primary-dark: rgb(240, 240, 240);
 $color-secondary-dark: rgb(128, 128, 128);
 $color-accent1-dark: $color-accent1-light;
 $color-accent2-dark: $color-accent2-light;
+
+@mixin linear-gradient($direction, $color-stops...) {
+  background: nth(nth($color-stops, 1), 1);
+  background: -webkit-linear-gradient(legacy-direction($direction), $color-stops);
+  background: linear-gradient($direction, $color-stops);
+}

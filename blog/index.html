@@ -2,12 +2,6 @@
 layout: default
 tagline: true
 ---
-<section id="tagline">
-    <div class="container">
-        <img id="mug" alt="Amy Parent" src="/static/media/amy.jpg"/>
-        {{ site.description | markdownify }}
-    </div>
-</section>
 
 {% for post in paginator.posts %}
 {% assign word_count = post.content | number_of_words %}
