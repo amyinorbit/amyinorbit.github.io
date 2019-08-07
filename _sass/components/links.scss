@@ -1,12 +1,10 @@
-@import "base/colors.scss";
-@import "base/fonts.scss";
 
 a {
     text-decoration: none;
 }
 
 a:link, a:visited {
-    color: $color-accent1-light;
+    color: $color-accent1;
 }
 
 a:hover {
@@ -14,15 +12,5 @@ a:hover {
 }
 
 a:active {
-    color: $color-primary-light;
-}
-
-@media (prefers-color-scheme: dark) {
-    a:link, a:visited {
-        color: $color-accent1-dark;
-    }
-
-    a:active {
-        color: $color-primary-dark;
-    }
+    color: var(--color-primary);
 }

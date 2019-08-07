@@ -1,18 +1,16 @@
-@import "base/fonts.scss";
-@import "base/colors.scss";
 
 html {
-    background: $color-background-light;
-    color: $color-primary-light;
+    background: var(--color-background);
+    color: var(--color-primary);
     font-family: $font-body;
-    
+
     font-size: 13pt;
 }
 
 body {
     line-height: 1.5rem;
     font-weight: normal;
-    
+
     -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
@@ -38,17 +36,36 @@ pre, code {
     font-family: $font-mono;
 }
 
-em {
-    font-style: italic;
-}
+article {
+    em {
+        font-style: italic;
+    }
 
-strong {
-    font-weight: 600;
-}
+    strong {
+        font-weight: 600;
+    }
 
-@media (prefers-color-scheme: dark) {
-    html {
-        background: $color-background-dark;
-        color: $color-primary-dark;
+    p {
+        margin-top: .6em;
+        margin-bottom: 1em;
+        line-height: 1.5em;
+    }
+
+    ul, ol {
+        margin-top: .5em;
+        list-style-position: outside;
+        margin-bottom: 1.75em;
+        line-height: 150%;
+        // margin-left: 2.1em;
+        padding: 0 0 0 2em;
+    }
+
+    ul {
+        list-style-type: square;
+    }
+
+    ul li {
+        display: list-item;
+        margin-bottom: .5em;
     }
 }
