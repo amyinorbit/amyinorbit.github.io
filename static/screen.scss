@@ -9,7 +9,27 @@
 @import "components/nav.scss";
 @import "components/objects.scss";
 
+:root {
+    --color-primary: #{$color-primary-light};
+    --color-secondary: #{$color-secondary-light};
+    --color-background: #{$color-background-light};
+    --color-background-sec: #{$color-background-sec-light};
+}
 
-header.about {
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-primary: #{$color-primary-dark};
+        --color-secondary: #{$color-secondary-dark};
+        --color-background: #{$color-background-dark};
+        --color-background-sec: #{$color-background-sec-dark};
+    }
+}
 
+.gui.thin {
+    font-weight: 500;
+}
+
+.blurb {
+    font-size: 130%;
+    line-height: 130%;
 }

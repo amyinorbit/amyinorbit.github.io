@@ -1,11 +1,4 @@
-$main-width: 800px;
-
-.container {
-    max-width: $main-width;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-}
+$main-width: 740px;
 
 .padded {
     padding: 1em;
@@ -17,4 +10,75 @@ $main-width: 800px;
 
 .left {
     float: left;
+}
+
+.container {
+    max-width: $main-width;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+aside {
+    background: var(--color-background-sec);
+    border-radius: 5pt;
+    font-size: 80%;
+    line-height: 1.2em;
+    margin: 1em;
+    
+    ol {
+        padding: 0 0 0 1.5em;
+    }
+}
+
+@media (max-width: 760px) {
+    .right, .left {
+        float: none;
+    }
+}
+
+@media (min-width: 1024px) {
+    aside {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        margin: 0;
+    }
+
+    aside > div:not(:last-child) {
+        border-bottom: 1px solid var(--color-secondary);
+    }
+}
+
+@media(min-width: 1024px) and (max-width: 1280px) {
+    .container {
+        max-width: 700px;
+        margin-left: 5%;
+        margin-right: auto;
+    }
+    
+    aside {
+        min-width: 250px;
+        max-width: 350px;
+        width: 20%;
+    }
+}
+
+@media(min-width: 1280px) and (max-width: 1400px) {
+    
+    .container {
+        margin-left: 18%;
+    }
+    
+    aside {
+        width: 250px;
+    }
+}
+
+@media (min-width: 1400px) {
+    aside {
+        min-width: 250px;
+        max-width: 350px;
+        width: 18%;
+    }
 }

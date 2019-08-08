@@ -1,38 +1,35 @@
 ---
 layout: default
 tagline: true
+title: amyinorbit
+prefersLargeTitle: true
 ---
-
 {% for post in paginator.posts %}
 {% assign word_count = post.content | number_of_words %}
 {% assign e_word_count = post.excerpt | number_of_words %}
-<article class="post">
-    <div class="container padded">
-        <header>
-            <span class="post-meta gui">
-                {{ post.date | date: "%b %-d, %Y" }}
-                {% if post.series %}<span class="gui thin">| in {{ post.series }}</span>{% endif %}
-            </span>
-            <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-        </header>
-        {% if e_word_count > 0 %}
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">continue&nbsp;reading&nbsp;→</a>
-        {% else %}
-        {{ post.content }}
-        {% endif %}
-    </div>
+<article class="post padded">
+    <header>
+        <span class="post-meta gui">
+            {{ post.date | date: "%b %-d, %Y" }}
+            {% if post.series %}<span class="gui thin">| in {{ post.series }}</span>{% endif %}
+        </span>
+        <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+    </header>
+    {% if e_word_count > 0 %}
+    {{ post.excerpt }}
+    <a class="button" href="{{ post.url | prepend: site.baseurl }}">continue&nbsp;reading&nbsp;→</a>
+    {% else %}
+    {{ post.content }}
+    {% endif %}
 </article>
 {% endfor %}
 
 <section id="pagination">
-    <div class="container">
 <!--        <a class="button center" href="/archive">archive</a> -->
-        {% if paginator.previous_page %}
-        <a class="force left button" href="{{ paginator.previous_page_path }}">←&nbsp;prev</a>
-        {% endif %}
-        {% if paginator.next_page %}
-        <a class="force right button" href="{{ paginator.next_page_path }}">next&nbsp;→</a>
-        {% endif %}
-    </div>
+    {% if paginator.previous_page %}
+    <a class="force left button" href="{{ paginator.previous_page_path }}">←&nbsp;prev</a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a class="force right button" href="{{ paginator.next_page_path }}">next&nbsp;→</a>
+    {% endif %}
 </section>

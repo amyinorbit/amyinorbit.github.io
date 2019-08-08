@@ -1,20 +1,26 @@
 
 img {
-	display: block;
-    margin: 1em auto;
-    max-width: 100%;
+    display: block;
+    margin: 1em -5% 2em -5%;
+    max-width: 110%;
     height: auto;
 }
 
 img + br + em, img + em {
     display: block;
+    margin-top: -2em;
     text-align: center !important;
     font-size: $size-caption;
 }
 
+img + br {
+    display: none;
+}
+
 img.small {
-    max-width: 80%;
-    margin: 0 auto 1em auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 img.left {
@@ -26,12 +32,12 @@ img.right {
 }
 
 img.left, img.right {
-    max-width: 45%;
+    max-width: 55%;
+    margin-top: 0;
     margin-bottom: .2em;
 }
 
 blockquote {
-    font-style: italic;
     padding: .5em 0 .5em 1em;
     margin: 2em 0 2em -.5em;
     line-height: 1.8;
@@ -54,17 +60,24 @@ p code {
     font-size: 13pt;
 }
 
+figure {
+    padding: 0;
+    margin: 0;
+}
+
 pre {
     text-indent: none;
 	display: block;
 	width: 100%;
     font-size: 11pt;
     line-height: 1.5;
-    border-radius: 3pt;
     overflow: auto;
     padding: 1em;
     margin: 2em auto;
+    
+    border-left: .5em solid $color-accent1;
     background: var(--color-background-sec);
+    border-radius: 3pt;
 }
 
 pre code {
@@ -95,4 +108,32 @@ td {
 
 tr, td, th {
     vertical-align: middle
+}
+
+a.button {
+    display: inline-block;
+    font-weight: bold;
+    background: var(--color-background-sec);
+    color: white;//var(--color-background);
+    padding: .3em 1em;
+    border-radius: 10pt;
+}
+
+a.button:hover {
+    background: $color-accent1;
+    text-decoration: none;
+}
+
+hr {
+    border: none;
+    margin: 2em auto 2em auto;
+}
+
+hr::before {
+    content: '***';
+    display: block;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #aaa;
 }

@@ -46,9 +46,11 @@ article {
     }
 
     p {
-        margin-top: .6em;
-        margin-bottom: 1em;
+        margin: 0 0 .8em;
         line-height: 1.5em;
+        -webkit-hyphens: auto;
+        -moz-hyphens: auto;
+        hyphens: auto;
     }
 
     ul, ol {
@@ -56,7 +58,6 @@ article {
         list-style-position: outside;
         margin-bottom: 1.75em;
         line-height: 150%;
-        // margin-left: 2.1em;
         padding: 0 0 0 2em;
     }
 

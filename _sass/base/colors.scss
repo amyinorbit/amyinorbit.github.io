@@ -2,31 +2,14 @@ $color-accent1: rgb(183, 108, 206);
 $color-accent2: adjust-hue($color-accent1, 120deg);
 
 $color-background-light: rgb(255, 255, 255);
-$color-background-sec-light: mix($color-background-light, $color-accent1, 90%);
+$color-background-sec-light: mix($color-background-light, $color-accent1, 93%);
 $color-primary-light: rgb(10, 10, 10);
 $color-secondary-light: rgb(128, 128, 128);
 
 $color-background-dark: mix(rgb(32, 32, 32), $color-accent1, 95%);
-$color-background-sec-dark: mix($color-background-dark, $color-accent1, 90%);
+$color-background-sec-dark: mix($color-background-dark, $color-accent1, 93%);
 $color-primary-dark: rgb(240, 240, 240);
 $color-secondary-dark: rgb(128, 128, 128);
-
-
-:root {
-    --color-primary: #{$color-primary-light};
-    --color-secondary: #{$color-secondary-light};
-    --color-background: #{$color-background-light};
-    --color-background-sec: #{$color-background-sec-light};
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --color-primary: #{$color-primary-dark};
-        --color-secondary: #{$color-secondary-dark};
-        --color-background: #{$color-background-dark};
-        --color-background-sec: #{$color-background-sec-dark};
-    }
-}
 
 // TODO: provide a mixin to do some colors fallback magic here
 

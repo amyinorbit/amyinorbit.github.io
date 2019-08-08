@@ -1,9 +1,20 @@
 nav {
-    border-bottom: 3px solid $color-accent2;
+    // border-bottom: 3px solid $color-accent2;
+    font-size: 90%;
+    padding: .4em 1em;
 
     ul li {
+        font-family: $font-mono;
         display: inline;
         margin-right: 1rem;
         font-weight: 600;
+    }
+    
+    ul li:before {
+        content: "[";
+    }
+    
+    ul li:after {
+        content: "]";
     }
 }
