@@ -1,15 +1,15 @@
 $color-accent1: rgb(183, 108, 206);
-$color-accent2: adjust-hue($color-accent1, 120deg);
+$color-accent2: rgb(206, 183, 108);
 
 $color-background-light: rgb(255, 255, 255);
-$color-background-sec-light: mix($color-background-light, $color-accent1, 93%);
+$color-background-sec-light: mix($color-background-light, $color-accent1, 85%);
 $color-primary-light: rgb(10, 10, 10);
 $color-secondary-light: rgb(128, 128, 128);
 
 $color-background-dark: mix(rgb(32, 32, 32), $color-accent1, 95%);
-$color-background-sec-dark: mix($color-background-dark, $color-accent1, 93%);
+$color-background-sec-dark: mix($color-background-dark, $color-accent1, 85%);
 $color-primary-dark: rgb(240, 240, 240);
-$color-secondary-dark: rgb(128, 128, 128);
+$color-secondary-dark: rgb(160, 160, 160);
 
 // TODO: provide a mixin to do some colors fallback magic here
 

@@ -19,18 +19,27 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: $font-heading;
     font-weight: 700;
     margin: 0 0 0.5rem 0;
     line-height: 1.5em;
 }
 
 h1 { font-size: $size-title-1; }
-h1.large-title { font-size: $size-large-title; color: $color-accent2; }
+h1.large-title { font-size: $size-large-title; }
 h2 { font-size: $size-title-2; }
 h3 { font-size: $size-title-3; }
 h4 { font-size: $size-headline; }
 h5 { font-size: $size-headline; }
 h6 { font-size: $size-headline; }
+
+.gui, .gui * {
+    font-family: $font-heading;
+}
+
+.thin {
+    font-weight: 300;
+}
 
 pre, code {
     font-family: $font-mono;

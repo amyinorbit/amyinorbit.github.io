@@ -10,6 +10,7 @@
 @import "components/post.scss";
 @import "components/archive.scss";
 @import "components/objects.scss";
+@import "components/footer.scss";
 
 :root {
     --color-primary: #{$color-primary-light};
@@ -25,12 +26,6 @@
         --color-background: #{$color-background-dark};
         --color-background-sec: #{$color-background-sec-dark};
     }
-}
-
-
-
-.gui.thin {
-    font-weight: 400;
 }
 
 .blurb {

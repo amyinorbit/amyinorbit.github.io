@@ -17,7 +17,7 @@ $sc-wide-3: 1280px;
     float: left;
 }
 
-body {
+main, .container {
     max-width: $main-width;
     width: 90%;
     margin: 1em auto;
@@ -28,7 +28,7 @@ body {
 }
 
 @media (min-width: $sc-normal) {
-    body {
+    main, .container {
         margin: 1em auto 1em 5%;
     }
     
@@ -46,19 +46,19 @@ body {
 }
 
 @media (min-width: $sc-wide-1) and (max-width: $sc-wide-2) {
-    body {
+    main, .container {
         margin: 1em auto 1em 10%;
     }
 }
 
 @media (min-width: $sc-wide-2) and (max-width: $sc-wide-3) {
-    body {
+    main, .container {
         margin: 1em auto 1em 15%;
     }
 }
 
 @media (min-width: $sc-wide-3) {
-    body {
+    main, .container {
         margin: 1em auto 1em 20%;
     }
 }

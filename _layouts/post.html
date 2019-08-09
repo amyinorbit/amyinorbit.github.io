@@ -4,7 +4,7 @@ layout: default
 <article>
     <header>
         <h1 class="large-title">{{ page.title }}</h1>
-        <div class="post-meta">
+        <div class="post-meta gui">
             <time class="post-date" datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ page.date | date: "%b %-d, %Y" }}</time>
             {% if page.author %}
             <span class="post-author">by {{ page.author }}</span>
@@ -18,8 +18,8 @@ layout: default
         </div>
     </header>
     {% if page.series %}
-    <aside class="series right-float">
-        <h2 class="gui"><span class="gui thin">In Series<br /></span>{{ page.series }}</h2>
+    <aside class="series right-float gui">
+        <h2 class="gui"><span class="thin">in series<br /></span>{{ page.series }}</h2>
         {% assign series = site.posts | where:"series", page.series %}
         <ol class="series-list">
         {% for post in series reversed %}

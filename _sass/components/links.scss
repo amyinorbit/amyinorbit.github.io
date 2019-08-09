@@ -1,13 +1,22 @@
 
 a {
-    color: $color-accent1;
-    text-decoration: underline;
     transition: all .3s ease;
 }
 
 a:link, a:visited {
     color: $color-accent1;
+    text-decoration-color: $color-accent1;
     text-decoration: underline;
+}
+
+a.gui, .gui a {
+    color: $color-accent2;
+    text-decoration-color: $color-accent2;
+    text-decoration: none;
+}
+
+a.gui:hover, .gui a:hover {
+    background: $color-accent2;
 }
 
 a:hover {
@@ -30,7 +39,7 @@ a.button {
 }
 
 a.button:hover {
-    background: $color-accent1;
+    background: $color-accent2;
     color: $color-primary-dark;
     text-decoration: none;
 }

@@ -1,4 +1,5 @@
-$font-body: -apple-system, BlinkMacSystemFont, "Helvetica", Ubuntu, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-heading: -apple-system, BlinkMacSystemFont, "Helvetica", Ubuntu, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-body: $font-heading;
 $font-mono:  "SFMono-Regular", "Consolas", "Liberation Mono", "Menlo", monospace;
 
 // TODO: this is lifted from the iOS HIG and might need tweaking for the web

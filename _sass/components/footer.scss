@@ -1,0 +1,13 @@
+@import "base/colors.scss";
+@import "base/fonts.scss";
+
+footer {
+    background: linear-gradient(45deg, $color-accent1, $color-accent2);
+    padding: 1em 0;
+    
+    .container {
+        background: var(--color-background-sec);
+        padding: 1em;
+        border-radius: 5pt;
+    }
+}
