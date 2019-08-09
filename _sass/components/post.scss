@@ -11,13 +11,27 @@ article {
             line-height: 1em;
             margin-bottom: .3em;
         }
-        
-        time {
-            font-weight: 900;
-        }
     }
     
     div.post-content {
         // margin: 3em 0;
     }
+}
+
+aside.series {
+    background: var(--color-background-sec);
+    border-radius: 5pt;
+    font-size: 80%;
+    line-height: 1.2em;
+    margin-bottom: 2em;
+    padding: .5em;
+    
+    ol {
+        padding: 0 0 0 1.5em;
+        margin: .4em 0;
+    }
+}
+
+div.post-meta time {
+    font-weight: 700;
 }

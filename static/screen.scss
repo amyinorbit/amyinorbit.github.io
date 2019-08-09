@@ -8,6 +8,7 @@
 @import "components/layout.scss";
 @import "components/nav.scss";
 @import "components/post.scss";
+@import "components/archive.scss";
 @import "components/objects.scss";
 
 :root {
@@ -25,6 +26,8 @@
         --color-background-sec: #{$color-background-sec-dark};
     }
 }
+
+
 
 .gui.thin {
     font-weight: 400;
