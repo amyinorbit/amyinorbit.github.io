@@ -1,20 +1,11 @@
 ---
 layout: default
 ---
-<article class="post page">
+<article>
     <header>
-        <span class="post-meta">{{ content | number_of_words | divided_by:180 | ceil }}&nbsp;min. read</span>
-        {% if page.link %}
-            <h1><a href="{{ page.link }}">{{ page.title }}</a> [www]</h1>
-        {% else %}
-            <h1>{{ page.title }}</h1>
-        {% endif %}
+        <h1 class="large-title">{{ page.title }}</h1>
     </header>
-    {{ content }}
-</article>
-<aside class="padded">
-    <div id="social">
-        <h2>Feedback</h2>
-        <p>If you found this interesting, you can <a href="http://twitter.com/share?text={{ page.title | url_encode }}&url={{ page.url | prepend: site.baseurl }}">share it on twitter</a>.<br />If you want to discuss it, feel free to <a href="https://twitter.com/{{ site.twitter_username }}">tweet at me</a> or send me a mail at <a href="mailto:{{ site.email }}">email me</a>.
+    <div class="post-content">
+        {{ content }}
     </div>
-</aside>
+</article>

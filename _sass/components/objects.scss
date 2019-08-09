@@ -110,20 +110,6 @@ tr, td, th {
     vertical-align: middle
 }
 
-a.button {
-    display: inline-block;
-    font-weight: bold;
-    background: var(--color-background-sec);
-    color: white;//var(--color-background);
-    padding: .3em 1em;
-    border-radius: 10pt;
-}
-
-a.button:hover {
-    background: $color-accent1;
-    text-decoration: none;
-}
-
 hr {
     border: none;
     margin: 2em auto 2em auto;

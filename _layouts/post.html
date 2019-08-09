@@ -1,23 +1,25 @@
 ---
 layout: default
 ---
-<article class="post padded">
-    <!-- <header>
-        <span class="post-meta gui">
-            {{ page.date | date: "%b %-d, %Y" }}
-            {% if page.series %}<span class="gui thin">| in <a href="#series">{{ page.series }}</a></span>{% endif %}
-        </span>
-        <h1>{{ page.title }}</h1>
-    </header> -->
-    {%if page.link %}
-    <a class="button" href="{{ page.link }}">linked website</a>
-    {% endif %}
-    {{ content }}
-</article>
-<aside class="padded">
+<article>
+    <header>
+        <h1 class="large-title">{{ page.title }}</h1>
+        <div class="post-meta">
+            <time class="post-date" datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+            {% if page.author %}
+            <span class="post-author">by {{ page.author }}</span>
+            {% else %}
+            <span class="post-author">by {{ site.author }}</span>
+            {% endif %}
+            
+            {%if page.link %}
+            <p><a class="button" href="{{ page.link }}">linked website</a></p>
+            {% endif %}
+        </div>
+    </header>
     {% if page.series %}
-    <div id="series">
-        <h2 class="gui"><span class="gui thin">Other Entries in </span>{{ page.series }}</h2>
+    <aside class="series">
+        <h2 class="gui"><span class="gui thin">In Series<br /></span>{{ page.series }}</h2>
         {% assign series = site.posts | where:"series", page.series %}
         <ol class="series-list">
         {% for post in series reversed %}
@@ -30,10 +32,9 @@ layout: default
             </li>
         {% endfor %}
         </ol>
-    </div>
+    </aside>
     {% endif %}
-    <div id="social">
-        <h2>Feedback</h2>
-        <p>If you found this interesting, you can <a href="http://twitter.com/share?text={{ page.title | url_encode }}&url={{ page.url | prepend: site.baseurl }}">share it on twitter</a>.<br />If you want to discuss it, feel free to <a href="https://twitter.com/{{ site.twitter_username }}">tweet at me</a> or send me a mail at <a href="mailto:{{ site.email }}">email me</a>.
+    <div class="post-content">
+        {{ content }}
     </div>
-</aside>
+</article>

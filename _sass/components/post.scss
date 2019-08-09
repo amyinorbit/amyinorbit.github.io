@@ -1,0 +1,23 @@
+@import "base/colors.scss";
+@import "base/fonts.scss";
+
+article {
+    margin-bottom: 3rem;
+    
+    header {
+        margin-bottom: 1.5rem;
+        
+        h1 {
+            line-height: 1em;
+            margin-bottom: .3em;
+        }
+        
+        time {
+            font-weight: 900;
+        }
+    }
+    
+    div.post-content {
+        // margin: 3em 0;
+    }
+}

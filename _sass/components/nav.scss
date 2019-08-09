@@ -1,7 +1,7 @@
 nav {
     // border-bottom: 3px solid $color-accent2;
     font-size: 90%;
-    padding: .4em 1em;
+    padding: .4em 0;
 
     ul li {
         font-family: $font-mono;
@@ -16,5 +16,18 @@ nav {
     
     ul li:after {
         content: "]";
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    a:link, a:visited {
+        color: $color-accent1;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: $color-primary-dark;
     }
 }

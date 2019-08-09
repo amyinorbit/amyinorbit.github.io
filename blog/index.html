@@ -1,19 +1,27 @@
 ---
 layout: default
 tagline: true
-title: amyinorbit
-prefersLargeTitle: true
+title: Amy's orbit
 ---
+<h1 class="large-title">{{ page.title }}</h1>
 {% for post in paginator.posts %}
 {% assign word_count = post.content | number_of_words %}
 {% assign e_word_count = post.excerpt | number_of_words %}
-<article class="post padded">
+<article class="post">
     <header>
-        <span class="post-meta gui">
-            {{ post.date | date: "%b %-d, %Y" }}
-            {% if post.series %}<span class="gui thin">| in {{ post.series }}</span>{% endif %}
-        </span>
         <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+        <div class="post-meta">
+            <time class="post-date" datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+            {% if post.author %}
+            <span class="post-author">by {{ post.author }}</span>
+            {% else %}
+            <span class="post-author">by {{ site.author }}</span>
+            {% endif %}
+            
+            {%if page.link %}
+            <p><a class="button" href="{{ page.link }}">linked website</a></p>
+            {% endif %}
+        </div>
     </header>
     {% if e_word_count > 0 %}
     {{ post.excerpt }}
