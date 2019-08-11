@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Hiya! I'm Amy Parent.
 ---
 
 *I'm working on adding more fleshed-out pages for research and projects. This should be done in the next few weeks!*

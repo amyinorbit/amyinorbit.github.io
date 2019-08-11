@@ -1,9 +1,11 @@
-title: Amy in Orbit
+title: Amy Parent
 email: amy@amyparent.com
 timezone: Europe/London
 permalink: /blog/:title/
 author: Amy Parent
+
 avatar: /static/media/amy.jpg
+greeting: Hyia! I'm Amy Parent.
 description: >
   By day, I study cloud evolution in brown dwarfs at Abertay University. By night, I get bruises skating with Dundee Roller Derby, tell computers what to do and make video games 👩🏼‍🚀👩🏼‍💻
 baseurl: "" # the subpath of your site, e.g. /blog
