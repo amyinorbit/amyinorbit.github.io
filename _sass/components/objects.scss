@@ -1,16 +1,29 @@
 
 img {
     display: block;
-    margin: 1em -5% 2em -5%;
-    max-width: 110%;
+    margin: 1em -10% 2em -10%;
+    max-width: 120%;
     height: auto;
 }
 
 img + br + em, img + em {
     display: block;
-    margin-top: -2em;
     text-align: center !important;
     font-size: $size-caption;
+    background: var(--color-background-sec);
+    border-radius: 5pt;
+}
+
+img:not(.left):not(.right) + br + em, img:not(.left):not(.right) + em {
+    margin-top: -2em;
+}
+
+img.left + br + em, img.left + em {
+    text-align: left !important;
+}
+
+img.right + br + em, img.right + em {
+    text-align: right !important;
 }
 
 img + br {
@@ -37,17 +50,23 @@ img.left, img.right {
     margin-bottom: .2em;
 }
 
+@media (max-width: $sc-narrow) {
+    
+    img.left, img.right {
+        display: block;
+        margin: 1em auto 2em auto;
+        max-width: 100%;
+        width: auto;
+        height: auto;
+    }
+}
+
 blockquote {
     padding: .5em 0 .5em 1em;
     margin: 2em 0 2em -.5em;
     line-height: 1.8;
     border-left: .5em solid $color-accent1;
-    background: var(--color-background-sec);
-    border-radius: 3pt;
-
-    em {
-        font-style: normal;
-    }
+    color: var(--color-secondary);
 }
 
 code {

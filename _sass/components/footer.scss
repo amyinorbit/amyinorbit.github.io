@@ -2,6 +2,7 @@
 @import "base/fonts.scss";
 
 footer {
+    text-align: center;
     background: linear-gradient(45deg, $color-accent1, $color-accent2);
     padding: 1em 0;
     
@@ -9,5 +10,15 @@ footer {
         background: var(--color-background-sec);
         padding: 1em;
         border-radius: 5pt;
+    }
+    
+    p {
+        font-size: $size-caption;
+    }
+    
+    small {
+        font-size: 0.8 * $size-caption;
+        display: block;
+        line-height: 1.1em;
     }
 }
