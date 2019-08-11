@@ -18,7 +18,7 @@ layout: default
         </div>
     </header>
     {% if page.series %}
-    <aside class="series right-float gui">
+    <aside class="series right-float pad gui">
         <h2 class="gui"><span class="thin">in series<br /></span>{{ page.series }}</h2>
         {% assign series = site.posts | where:"series", page.series %}
         <ol class="series-list">

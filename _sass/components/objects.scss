@@ -142,3 +142,17 @@ hr::before {
     font-weight: bold;
     color: #aaa;
 }
+
+.pad {
+    background: var(--color-background-sec);
+    border-radius: 5pt;
+    font-size: 80%;
+    line-height: 1.2em;
+    margin-bottom: 2em;
+    padding: .8em;
+    
+    ol, ul {
+        padding: 0 0 0 1.5em;
+        margin: .4em 0;
+    }
+}

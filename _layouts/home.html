@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-<div class="blurb">
-    <h1 class="large-title">{{ page.title }}</h1>
+<article>
+    <header>
+        <h1 class="large-title">{{ page.title }}</h1>
+    </header>
+    <div class="blurb">
+        {{ site.description }}
+        <img class="mug" alt="{{ site.author }}" src="{{ site.avatar }}" />
+    </div>
     {{ content }}
-</div>
+</article>

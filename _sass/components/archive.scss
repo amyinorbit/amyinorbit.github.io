@@ -2,7 +2,6 @@
 @import "base/fonts.scss";
 
 div.post-list {
-    border-top: 1px solid $color-accent1;
     display: block;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -11,16 +10,32 @@ div.post-list {
     grid-row-gap: 1em;
 }
 
+div.year-list {
+    font-weight: 700;
+    // font-size: $size-body;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+    
+    a {
+        display: inline-block;
+    }
+}
+
 div.year-marker {
+    // position: -webkit-sticky;
+    // top: 0;
     background: var(--color-background);
     margin-bottom: 0;
+    border-bottom: 1px solid $color-accent1;
 }
 
 div.post-tile {
     padding: .5em;
     min-height: 5rem;
 }
-
 
 a.post-link {
     text-decoration: none;

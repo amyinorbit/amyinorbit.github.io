@@ -3,8 +3,9 @@ email: amy@amyparent.com
 timezone: Europe/London
 permalink: /blog/:title/
 author: Amy Parent
+avatar: /static/media/amy.jpg
 description: >
-  Hi, I'm Amy Alex Parent! By day, I study cloud evolution in brown dwarfs at Abertay University. By night, I get bruises skating with Dundee Roller Derby, tell computers what to do and make video games 👩🏼‍🚀👩🏼‍💻
+  By day, I study cloud evolution in brown dwarfs at Abertay University. By night, I get bruises skating with Dundee Roller Derby, tell computers what to do and make video games 👩🏼‍🚀👩🏼‍💻
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amyparent.com"
 twitter_username: amyinorbit

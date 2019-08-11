@@ -1,16 +1,18 @@
 @import "base/colors.scss";
 @import "base/fonts.scss";
 
+h1.large-title {
+    // line-height: 1em;
+    margin-bottom: .8em;
+}
+
 article {
     margin-bottom: 3rem;
     
     header {
         margin-bottom: 1.5rem;
         
-        h1 {
-            line-height: 1em;
-            margin-bottom: .3em;
-        }
+        
     }
     
     div.post-content {
@@ -19,17 +21,8 @@ article {
 }
 
 aside.series {
-    background: var(--color-background-sec);
-    border-radius: 5pt;
     font-size: 80%;
     line-height: 1.2em;
-    margin-bottom: 2em;
-    padding: .5em;
-    
-    ol {
-        padding: 0 0 0 1.5em;
-        margin: .4em 0;
-    }
 }
 
 div.post-meta time {
