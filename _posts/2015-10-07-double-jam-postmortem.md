@@ -1,7 +1,7 @@
 ---
 date: 2015-10-07 09:25:00
 tags: gamedev, gamejam
-permalink: /post/double-jam-postmortem/
+permalink: /blog/double-jam-postmortem/
 layout: post
 title: Double Jam Postmortem
 ---

@@ -3,7 +3,7 @@ tags: commercial-space, orbital
 title: Orbital's successful Cygnus launch
 layout: post
 date: 2013-09-19 10:00:00
-permalink: /post/orbital-successful-cygnus-launch/
+permalink: /blog/orbital-successful-cygnus-launch/
 excerpt_separator: ""
 ---
 

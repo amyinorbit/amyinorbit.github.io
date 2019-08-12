@@ -3,7 +3,7 @@ tags: music, personal
 title: My current soundtrack
 layout: post
 date: 2013-10-21 00:00:00
-permalink: /post/my-current-soundtrack/
+permalink: /blog/my-current-soundtrack/
 ---
 
 I live on music. I don't —and I cannot— spend one single day without having music around me. While coding, working, playing, walking, whether it is my iTunes library or a crappy live recording on YouTube, through speakers or headphones, it doesn't matter. I though I'd have a look at what has been playing on my iTunes the most often for the last few weeks[^1].

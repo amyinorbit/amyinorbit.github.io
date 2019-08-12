@@ -1,7 +1,7 @@
 ---
 date: 2016-06-19 21:15:00
 tags: commercial-space, blue-origin
-permalink: /post/new-shepard-4/
+permalink: /blog/new-shepard-4/
 layout: post
 title: New Shepard Flight 4
 excerpt_separator: <!--more-->

@@ -1,7 +1,7 @@
 ---
 date: 2015-11-25 10:06:00
 tags: blue-origin, commercial-space
-permalink: /post/good-day-for-space/
+permalink: /blog/good-day-for-space/
 layout: post
 title: A Good Day For Space
 excerpt_separator: ""

@@ -3,7 +3,7 @@ tags: space, space-station
 title: 400km above our heads
 layout: post
 date: 2014-06-09 00:46:13
-permalink: /post/400km-above-our-heads/
+permalink: /blog/400km-above-our-heads/
 ---
 
 ![iss_1.jpg][1]

@@ -1,7 +1,7 @@
 ---
 date: 2015-01-07 21:00:00
 tags: gamedev, engine, tools
-permalink: /post/caching-textures/
+permalink: /blog/caching-textures/
 layout: post
 title: SDL and Caching
 excerpt_separator: <!--more-->

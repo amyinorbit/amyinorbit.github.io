@@ -3,7 +3,7 @@ tags: underground, models
 title: Tube Models
 layout: post
 date: 2014-03-13 10:10:33
-permalink: /post/tube-models/
+permalink: /blog/tube-models/
 ---
 
 For the past couple of years, I've been designing 3D models of London Underground trains. When I started, I was just hoping to have one or two printed by Shapeways, paint them, maybe make a small layout. Those first models were, in hindsight, quite basic and not very detailed.

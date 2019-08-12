@@ -3,7 +3,7 @@ tags: music, concert, jack-white
 title: Jack White III, live in Paris
 layout: post
 date: 2014-08-12 02:58:00
-permalink: /post/jack-white-live-in-paris/
+permalink: /blog/jack-white-live-in-paris/
 ---
 
 ![jackwhite.jpg][1]  

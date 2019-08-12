@@ -3,7 +3,7 @@ tags: programming, php
 title: JSONStorage's performance
 layout: post
 date: 2014-03-11 11:58:51
-permalink: /post/jsonstorage-and-performance/
+permalink: /blog/jsonstorage-and-performance/
 ---
 
 It turns out my trivial [object-to-json-and-back library][1] might not be so trivial after all.

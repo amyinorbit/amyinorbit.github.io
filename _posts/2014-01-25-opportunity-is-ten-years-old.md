@@ -3,7 +3,7 @@ tags: space, mars
 title: Opportunity is ten years old
 layout: post
 date: 2014-01-25 00:00:00
-permalink: /post/opportunity-is-ten-years-old/
+permalink: /blog/opportunity-is-ten-years-old/
 ---
 
 ![Mars Exploration Rover][1]

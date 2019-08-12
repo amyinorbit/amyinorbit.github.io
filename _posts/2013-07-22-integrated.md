@@ -1,7 +1,7 @@
 ---
 date: 2013-07-22 10:00:00
 title: Integrated
-permalink: /post/integrated/
+permalink: /blog/integrated/
 layout: post
 published: false
 ---

@@ -1,14 +1,14 @@
 ---
 date: 2015-10-10 22:55:00
 tags: gamedev, graphics
-permalink: /post/glitch-effect-without-shaders/
+permalink: /blog/glitch-effect-without-shaders/
 layout: post
 title: Glitch Effects Without Shaders
 ---
 
 ![Glitch in Slow Motion](/static/media/2015/10/glitch-fullspeed.gif){: .right}
 
-For [last weekend's game jam](/post/double-jam-postmortem/), I needed to create a CRT-style glitch effect. The proper way to do this would be to use shaders — Unity, SpriteKit & all let you add custom shaders to game objects — but my engine does not (at the moment) support shaders, because the current version uses SDL to draw to the screen. I found a way around that may not look as good as it would have with shaders, but still works.
+For [last weekend's game jam](/blog/double-jam-postmortem/), I needed to create a CRT-style glitch effect. The proper way to do this would be to use shaders — Unity, SpriteKit & all let you add custom shaders to game objects — but my engine does not (at the moment) support shaders, because the current version uses SDL to draw to the screen. I found a way around that may not look as good as it would have with shaders, but still works.
 
 _The code examples in the article use Meteor's API (C++), but they are simple enough that they could be translated for SpriteKit, Cocos2D or other 2D engines with very little work._
 

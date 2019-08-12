@@ -3,7 +3,7 @@ tags: programming, hardware
 title: A dumb virtual machine
 layout: post
 date: 2014-09-12 12:32:32
-permalink: /post/a-dumb-virtual-machine/
+permalink: /blog/a-dumb-virtual-machine/
 excerpt_separator: <!--more-->
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2015-04-22 14:10:00
 tags: games, nintendo
-permalink: /post/retro-gaming-nes/
+permalink: /blog/retro-gaming-nes/
 layout: post
 title: "Retro Gaming: NES"
 ---

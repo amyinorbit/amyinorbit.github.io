@@ -1,7 +1,7 @@
 ---
 date: 2016-04-22 02:00:00
 tags: personal, work
-permalink: /post/work-passion/
+permalink: /blog/work-passion/
 layout: post
 title: Work & Passion
 excerpt_separator: <!--more-->

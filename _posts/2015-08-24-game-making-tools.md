@@ -1,12 +1,12 @@
 ---
 date: 2015-08-24 23:25:00
 tags: gamedev, tools
-permalink: /post/game-making-tools/
+permalink: /blog/game-making-tools/
 layout: post
 title: Game Making Tools
 ---
 
-[Last weekend](/post/dare-protpoplay), I got asked by a few visitors how to get started in game development, and what tools I use to make my games. I'm probably not that qualified to answer the former — I'll still try to make a longer article some time in the future — but I thought I'd make a quick list of my game making tools.
+[Last weekend](/blog/dare-protpoplay), I got asked by a few visitors how to get started in game development, and what tools I use to make my games. I'm probably not that qualified to answer the former — I'll still try to make a longer article some time in the future — but I thought I'd make a quick list of my game making tools.
 
 <!--more-->
 

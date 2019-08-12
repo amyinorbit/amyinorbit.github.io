@@ -1,7 +1,7 @@
 ---
 date: 2015-12-25 10:00:00
 tags: music, concert, marina-and-the-diamonds
-permalink: /post/neon-nature-marina/
+permalink: /blog/neon-nature-marina/
 layout: post
 title: Neon Nature - Marina And The Diamonds
 ---

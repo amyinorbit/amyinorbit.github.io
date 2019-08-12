@@ -1,7 +1,7 @@
 ---
 date: 2016-02-04 10:00:00
 tags: programming, gamedev, c++
-permalink: /post/protocols-cpp/
+permalink: /blog/protocols-cpp/
 layout: post
 title: Protocol-Oriented C++ & Data Locality
 published: false

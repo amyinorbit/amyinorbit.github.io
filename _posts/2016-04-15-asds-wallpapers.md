@@ -1,7 +1,7 @@
 ---
 date: 2016-04-15 01:25:00
 tags: spacex, droneship
-permalink: /post/asds-wallpapers/
+permalink: /blog/asds-wallpapers/
 layout: post
 title: SpaceX Wallpapers
 excerpt_separator: <!--more-->

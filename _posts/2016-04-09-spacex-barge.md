@@ -1,7 +1,7 @@
 ---
 date: 2016-04-09 21:00:00
 tags: spacex, commercial-space
-permalink: /post/spacex-barge/
+permalink: /blog/spacex-barge/
 layout: post
 title: Rocket, Meet Boat
 excerpt_separator: ""

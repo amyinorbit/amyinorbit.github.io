@@ -3,7 +3,7 @@ tags: space, mars
 title: MAVEN is on its way
 layout: post
 date: 2013-11-19 10:00:00
-permalink: /post/maven-on-its-way/
+permalink: /blog/maven-on-its-way/
 ---
 
 ![MAVEN launch.jpg](/static/media/2013/11/img-1384888280273-raw.jpg)

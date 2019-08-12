@@ -3,7 +3,7 @@ tags: lego, space
 title: (Lego) Mars Science Laboratory
 layout: post
 date: 2014-01-02 00:00:00
-permalink: /post/-lego-mars-science-laboratory/
+permalink: /blog/-lego-mars-science-laboratory/
 excerpt_separator: ""
 ---
 

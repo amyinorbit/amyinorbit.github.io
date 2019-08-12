@@ -3,7 +3,7 @@ tags: blogging, programming
 title: Searching a static blog
 layout: post
 date: 2014-01-07 00:00:00
-permalink: /post/searching-a-static-blog/
+permalink: /blog/searching-a-static-blog/
 published: false
 ---
 

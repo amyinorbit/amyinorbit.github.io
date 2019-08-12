@@ -1,7 +1,7 @@
 ---
 date: 2015-08-19 11:15:00
 tags: gamedev, games
-permalink: /post/dare-protpoplay/
+permalink: /blog/dare-protpoplay/
 layout: post
 title: Why I make games
 ---
@@ -32,8 +32,8 @@ A massive thank-you to everyone involved in Dare for making this week-end possib
 [im3]: /static/media/2015/08/protoplay-3.jpg
 
 [1]: http://www.daretobedigital.com/284_Dare-ProtoPlay-2015.html
-[2]: /post/post/ghosts-dca-dundee
-[3]: /post/global-game-jam
+[2]: /blog/post/ghosts-dca-dundee
+[3]: /blog/global-game-jam
 [4]: http://twitter.com/glyph_games
 [5]: http://lightspeedgames.co.uk
 [6]: http://msminotaur.com
