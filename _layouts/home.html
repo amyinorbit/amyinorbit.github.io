@@ -5,9 +5,7 @@ layout: default
     <header>
         <h1 class="large-title">{{ site.greeting }}</h1>
     </header>
-    <div class="blurb">
-        {{ site.description }}
-        <img class="mug" alt="{{ site.author }}" src="{{ site.avatar }}" />
+    <div class="post-content blurb">
+        {{ content }}
     </div>
-    {{ content }}
 </article>

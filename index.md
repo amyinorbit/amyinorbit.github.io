@@ -1,19 +1,22 @@
 ---
 layout: home
 ---
+![A photo of Amy Parent (she/her)]({{ site.avatar }}){:.mug .right}
 
-*I'm working on adding more fleshed-out pages for research and projects. This should be done in the next few weeks!*
+I'm an astrophysics & computer science PhD student based in Dundee. I'm a queer trans woman (my pronouns are she/her) and I've been fascinated by space since I was a kid 🚀
 
-## Research
+For my PhD, I study how dust clouds evolve in the atmosphere of brown dwarfs using modern computing technologies. <!--You can find out more about that on the [research page](/research)-->
 
-I'm currently doing a PhD in astrophysics and Computer Science. I model how weather and magnetic fields shape the formation and evolution of dust clouds in brown dwarfs, using modern computing technologies.
+In my spare time, I play video games, make programming languages, and record bad covers of Marina & The Diamonds and Garbage songs. I'm also a roller derby player for Dundee Roller Derby's B team, the Bonnie Colliders, with whom I collect bruises, sore legs and amazing friends.
 
-For my undergraduate dissertation, I developed a hardware and software platform for modular high-altitude balloon missions, inspired by the common buses that commercial satellites use. I designed and tested the hardware bus around a micro-controller, defined protocols for radio and internal communications, and wrote the flight software using a real time OS.
+***
 
-## Projects
+You can find me [github][gh], [instagram][ig], and [twitter][tw].
+{:.center}
 
-I have a saying that my projects have side projects have side projects have side projects... and it's fairly accurate. Currently, the projects (outside of my research) that I've been working on the most are:
+*If you're part of an underrepresented minority in science and want to chat or ask any questions, I'd love to help as much as I can -- drop me a line on either of these services, or at amy [at] amyparent [dot] com.*
+{:.center}
 
- * Orbit, a small programming language. I'm fascinated by programming languages and by tools people use to make things in general, and I *love* reinventing the wheel, so writing my own language from scratch (VM runtime and compiler) in C is a kind of heaven for me.
- 
- * Various game engines in various states of abandon. I wrote Meteor years ago, a thing C++ layer around SDL2 that powered a handful of game jam games, and I'm currently (very slowly) trying to build a more modern, more flexible, ECS-based engine.
+ [gh]: https://github.com/{{ site.github_username }}
+ [tw]: https://twitter.com/{{ site.twitter_username }}
+ [ig]: https://instagram.com/{{ site.instagram_username }}
