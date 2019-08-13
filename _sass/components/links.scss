@@ -29,21 +29,16 @@ a:active {
 }
 
 a.button {
-    display: inline-block;
-    font-weight: bold;
-    background: var(--color-background-sec);
+    font-weight: 700;
+    text-decoration: none;
+}
+
+a.button:before {
+    content: "[";
     color: var(--color-primary);
-    padding: .3em 1em;
-    border-radius: 10pt;
-    text-decoration: none;
 }
 
-a.button:hover {
-    background: $color-accent2;
-    color: $color-primary-dark;
-    text-decoration: none;
-}
-
-h1 a:link, h1 a:visited {
-    text-decoration: none;
+a.button:after {
+    content: "]";
+    color: var(--color-primary);
 }

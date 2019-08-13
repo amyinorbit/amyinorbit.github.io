@@ -19,16 +19,19 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-excerpt_separator: <!--more-->
-paginate: 8
-paginate_path: "/blog/:num"
+# excerpt_separator: <!--more-->
+# paginate: 8
+# paginate_path: "/blog/:num"
 
 plugins:
-  - jekyll-paginate
   - jekyll-feed
 
 include:
   - .htaccess
+
+collections:
+  papers:
+    output: false
 
 exclude:
   - vendor/bundle
