@@ -3,8 +3,6 @@ layout: research
 title: Research
 prefersLargeTitle: true
 ---
-I am currently doing a PhD in astrophysics and computer science. I research the way dust clouds evolve in the atmosphere of brown dwarfs, and how computing and video games technologies can be used to study these.
+My PhD is in theoretical astrophysics and modelling, which means I spend most of my day either scribbling maths in a notebook, debugging code, or chasing down data files.
 
-## Brown Dwarfs
-
-## High-Altitude Balloon Systems
+Brown dwarfs

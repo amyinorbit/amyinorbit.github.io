@@ -9,6 +9,10 @@ a:link, a:visited {
     text-decoration: underline;
 }
 
+a#logo:link, a#logo:visited {
+    color: $color-accent2;
+}
+
 a.gui, .gui a {
     color: $color-accent2;
     text-decoration-color: $color-accent2;
@@ -21,6 +25,11 @@ a.gui:hover, .gui a:hover {
 
 a:hover {
     background: $color-accent1;
+    color: white;
+}
+
+a#logo:hover {
+    background: $color-accent2;
     color: white;
 }
 
