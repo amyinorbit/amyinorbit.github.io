@@ -11,7 +11,7 @@ In my spare time, I play video games, make programming languages, and record bad
 
 ***
 
-You can find me [github][gh], [instagram][ig], and [twitter][tw].
+You can find me on [github][gh], [instagram][ig], and [twitter][tw].
 {:.center}
 
 *If you're part of an underrepresented minority in science and want to chat or ask any questions, I'd love to help as much as I can -- drop me a line on either of these services, or at amy [at] amyparent [dot] com.*
