@@ -62,11 +62,19 @@ img.left, img.right {
 }
 
 blockquote {
-    padding: .5em 0 .5em 1em;
+    padding: .3em 0 .3em 1em;
     margin: 2em 0 2em -.5em;
     line-height: 1.8;
     border-left: .5em solid $color-accent1;
     color: var(--color-secondary);
+    
+    :first-child {
+        margin-top: 0;
+    }
+    
+    :last-child {
+        margin-bottom: 0;
+    }
 }
 
 code {
