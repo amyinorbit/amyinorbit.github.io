@@ -41,7 +41,7 @@ a.button {
     display: inline-block;
     font-weight: bold;
     background: $color-accent1;
-    color: var(--color-primary);
+    color: $color-primary-dark;
     padding: .3em 1em;
     border-radius: 2em;
     text-decoration: none;
