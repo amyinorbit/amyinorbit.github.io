@@ -19,21 +19,21 @@ googleplus_uid:   116701126192141560817
 markdown: kramdown
 highlighter: rouge
 
-# Pagination
-# excerpt_separator: <!--more-->
-# paginate: 8
-# paginate_path: "/blog/:num"
-
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-
-include:
-  - .htaccess
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
 
 collections:
   papers:
     output: false
+    
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
 
 exclude:
   - vendor/bundle

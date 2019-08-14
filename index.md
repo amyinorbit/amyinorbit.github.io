@@ -1,6 +1,6 @@
----
-layout: home
----
+Hiya! I'm Amy Parent
+====================
+
 ![A photo of Amy Parent (she/her)]({{ site.avatar }}){:.mug .right}
 
 I'm an astrophysics & computer science PhD student based in Dundee. I'm a queer trans woman (my pronouns are she/her) and I've been fascinated by space since I was a kid 🚀

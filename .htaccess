@@ -1,7 +1,0 @@
-ErrorDocument 404 /404/index.html
-AddOutputFilterByType DEFLATE text/html text/xml application/xhtml+xml text/plain application/javascript text/css
-Redirect 302 /feed/ /rss.xml
-Redirect 302 /feed /rss.xml
-
-RewriteEngine on
-RewriteRule ^\d{4,}/\d{2,}(/.*)$ /post$1 [R=301,L]

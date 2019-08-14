@@ -1,7 +1,6 @@
----
-title: "Hi! I'm Amy"
-layout: page
----
+My name is Amy, and I'm trans
+=============================
+
 
 I know, the change in name and URL of the blog might've been a bit of a giveaway. I've gone by by another name for the first twenty-three years of my life, but this is who I am, and this is who I've always been. It's just taken me a while to figure it out.
 
