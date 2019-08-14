@@ -35,3 +35,10 @@ nav {
         color: $color-primary-dark;
     }
 }
+
+@media (max-width: $sc-narrow) {
+    nav ul li {
+        margin-right: 0;
+        display: block;
+    }
+}
