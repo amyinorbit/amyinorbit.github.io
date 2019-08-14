@@ -26,6 +26,15 @@
         --color-background: #{$color-background-dark};
         --color-background-sec: #{$color-background-sec-dark};
     }
+    
+    img {
+        filter: brightness(75%);
+        transition: filter .3s;
+    }
+    
+    img:hover {
+        filter: brightness(100%);
+    }
 }
 
 .blurb {
