@@ -5,7 +5,7 @@ permalink: /blog/:title/
 author: Amy Parent
 
 avatar: /static/media/amy.jpg
-greeting: Hiya! I'm Amy Parent.
+greeting: Hiya! I'm Amy Parent.
 description: >
   By day, I study cloud evolution in brown dwarfs at Abertay University. By night, I get bruises skating with Dundee Roller Derby, tell computers what to do and make video games 👩🏼‍🚀👩🏼‍💻
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -20,16 +20,19 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-excerpt_separator: <!--more-->
-paginate: 8
-paginate_path: "/blog/:num"
+# excerpt_separator: <!--more-->
+# paginate: 8
+# paginate_path: "/blog/:num"
 
 plugins:
-  - jekyll-paginate
   - jekyll-feed
 
 include:
   - .htaccess
+
+collections:
+  papers:
+    output: false
 
 exclude:
   - vendor/bundle

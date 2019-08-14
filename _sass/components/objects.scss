@@ -8,10 +8,11 @@ img {
 
 img + br + em, img + em {
     display: block;
-    text-align: center !important;
+    text-align: center;
     font-size: $size-caption;
     background: var(--color-background-sec);
     border-radius: 5pt;
+    padding: .5em;
 }
 
 img:not(.left):not(.right) + br + em, img:not(.left):not(.right) + em {
@@ -52,6 +53,14 @@ img.left, img.right {
 
 @media (max-width: $sc-narrow) {
     
+    img.left + br + em,
+    img.left + em,
+    img.right + br + em,
+    img.right + em {
+        text-align: center !important;
+        margin-top: -2em;
+    }
+    
     img.left, img.right {
         display: block;
         margin: 1em auto 2em auto;
@@ -62,11 +71,19 @@ img.left, img.right {
 }
 
 blockquote {
-    padding: .5em 0 .5em 1em;
+    padding: .3em 0 .3em 1em;
     margin: 2em 0 2em -.5em;
     line-height: 1.8;
     border-left: .5em solid $color-accent1;
     color: var(--color-secondary);
+    
+    :first-child {
+        margin-top: 0;
+    }
+    
+    :last-child {
+        margin-bottom: 0;
+    }
 }
 
 code {
@@ -134,7 +151,7 @@ hr {
     margin: 2em auto 2em auto;
 }
 
-hr::before {
+hr:before {
     content: '***';
     display: block;
     text-align: center;
@@ -146,8 +163,6 @@ hr::before {
 .pad {
     background: var(--color-background-sec);
     border-radius: 5pt;
-    font-size: 80%;
-    line-height: 1.2em;
     margin-bottom: 2em;
     padding: .8em;
     

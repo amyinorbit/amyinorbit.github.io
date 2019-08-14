@@ -5,7 +5,7 @@ layout: home
 
 I'm an astrophysics & computer science PhD student based in Dundee. I'm a queer trans woman (my pronouns are she/her) and I've been fascinated by space since I was a kid 🚀
 
-For my PhD, I study how dust clouds evolve in the atmosphere of brown dwarfs using modern computing technologies. <!--You can find out more about that on the [research page](/research)-->
+For my PhD, I study how dust clouds evolve in the atmosphere of brown dwarfs using modern computing technologies. You can find out more about that on the [research page](/research)
 
 In my spare time, I play video games, make programming languages, and record bad covers of Marina & The Diamonds and Garbage songs. I'm also a roller derby player for Dundee Roller Derby's B team, the Bonnie Colliders, with whom I collect bruises, sore legs and amazing friends.
 

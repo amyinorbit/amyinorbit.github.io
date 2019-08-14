@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<article>
+    <header>
+        <h1 class="large-title">{{ page.title }}</h1>
+    </header>
+    <div class="post-content">
+        {{ content }}
+    </div>
+</article>
+<aside class="paper-list">
+    <h2>Papers & Posters</h2>
+    {% for paper in site.papers %}
+    <div class="paper-tile pad gui">
+        <h3 class="paper-title" id="{{ paper.key }}">{{ paper.title }}</h3>
+        <div class="paper-meta">
+            <span class="paper-authors">{{ paper.authors | join: ", " }}</span>
+            <time class="post-date" datetime="{{ paper.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ paper.date | date_to_string: "ordinal", "UK" }}</time>
+            <span class="paper-info">{{ paper.journal }} ({{ paper.type | default: "paper" }})</span>
+        </div>
+        <!-- <div class="paper-details">
+            {{ paper.content | markdownify }}
+        </div> -->
+        <a class="button" href="{{ paper.file | prepend: "/static/pub/" | prepend: site.baseurl }}">download</a>
+    </div>
+
+    {% endfor %}
+</aside>

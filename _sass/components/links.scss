@@ -9,6 +9,10 @@ a:link, a:visited {
     text-decoration: underline;
 }
 
+a#logo:link, a#logo:visited {
+    color: $color-accent2;
+}
+
 a.gui, .gui a {
     color: $color-accent2;
     text-decoration-color: $color-accent2;
@@ -24,6 +28,11 @@ a:hover {
     color: white;
 }
 
+a#logo:hover {
+    background: $color-accent2;
+    color: white;
+}
+
 a:active {
     color: var(--color-primary);
 }
@@ -31,19 +40,15 @@ a:active {
 a.button {
     display: inline-block;
     font-weight: bold;
-    background: var(--color-background-sec);
+    background: $color-accent1;
     color: var(--color-primary);
     padding: .3em 1em;
-    border-radius: 10pt;
+    border-radius: 2em;
     text-decoration: none;
 }
 
 a.button:hover {
     background: $color-accent2;
     color: $color-primary-dark;
-    text-decoration: none;
-}
-
-h1 a:link, h1 a:visited {
     text-decoration: none;
 }

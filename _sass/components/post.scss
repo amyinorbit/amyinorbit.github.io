@@ -2,7 +2,6 @@
 @import "base/fonts.scss";
 
 h1.large-title {
-    // line-height: 1em;
     margin-bottom: .8em;
 }
 
@@ -17,17 +16,13 @@ article {
         }
         
     }
-    
-    div.post-content {
-        // margin: 3em 0;
-    }
 }
 
-aside.series {
+aside.series, aside.paper-list {
     font-size: 80%;
     line-height: 1.2em;
 }
 
-div.post-meta time {
+div.post-meta time, div.paper-meta time {
     font-weight: 700;
 }
