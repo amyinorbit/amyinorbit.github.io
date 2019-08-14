@@ -3,7 +3,7 @@ title: "Simulating Spacecraft Reentry"
 date: 2019-03-07 19:00:00+00
 layout: post
 image: /static/media/2019/03/mars-traj.png
-excerpt_separator: <!--more-->
+redirect_from: /post/crew-dragon-reentry/
 ---
 After years of development, the first Crew Dragon [reached the International Space Station][verge-dragon-docking] on Sunday (this spacecraft is gorgeous!) and is [coming back][verge-dragon-entry] to land tomorrow, off the coast of Florida. Discussing the reentry on twitter with a couple of folks yesterday, I came across an interesting question: do we know how long before splashdown Dragon will fly over which parts of the world?
 

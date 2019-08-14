@@ -3,7 +3,7 @@ tags: tv-show, science-fiction
 title: Doctor Who?
 layout: post
 date: 2013-11-23 00:00:00
-permalink: /blog/doctor-who-/
+redirect_from: /post/doctor-who-/
 ---
 
 ![Doctor Who.jpg](/static/media/2013/11/img-1385152538885-raw.jpg)

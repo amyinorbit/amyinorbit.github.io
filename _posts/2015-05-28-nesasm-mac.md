@@ -1,7 +1,7 @@
 ---
 date: 2015-05-28 11:30:00
 tags: gamedev, nintendo
-permalink: /blog/nesasm-mac/
+redirect_from: /post/nesasm-mac/
 layout: post
 title: NESASM for Mac
 excerpt_separator: ""

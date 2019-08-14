@@ -1,7 +1,7 @@
 ---
 date: 2015-01-26 18:10:00
 tags: gamedev, gamejam
-permalink: /blog/global-game-jam/
+redirect_from: /post/global-game-jam/
 layout: post
 title: Global Game Jam
 excerpt_separator: ""

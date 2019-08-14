@@ -2,6 +2,7 @@
 title: Automating Rocket Launches
 date: 2016-12-15 15:33:00
 layout: post
+redirect_from: /post/automating-rocket-launches/
 excerpt_separator: <!--more-->
 ---
 

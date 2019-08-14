@@ -3,7 +3,7 @@ tags: personal
 title: At the crossroads
 layout: post
 date: 2013-06-30 00:00:00
-permalink: /blog/at-the-crossroads/
+redirect_from: /post/at-the-crossroads/
 ---
 
 When I told my Mechanical Engineering classmates I sent an application to study Computer Science in Dundee next year, they all stared at me quite confused. Many discussions derived from that point. One question, though, came back as a refrain: “Aren’t you disappointed to have lost two years of study ?”

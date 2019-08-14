@@ -1,7 +1,7 @@
 ---
 date: 2015-06-03 21:00:00
 tags: gamedev, gamejam
-permalink: /blog/weekly-gamejam-1-gravity-pong/
+redirect_from: /post/weekly-gamejam-1-gravity-pong/
 layout: post
 title: "Weekly Game Jam 1: Gravity Pong"
 ---

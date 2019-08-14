@@ -3,6 +3,7 @@ title: "OrbitVM Execution"
 date: 2017-01-12 14:25:00
 layout: post
 series: "OrbitVM Diaries"
+redirect_from: /post/orbitvm-diary-4/
 excerpt_separator: <!--more-->
 ---
 

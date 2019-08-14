@@ -1,7 +1,7 @@
 ---
 date: 2015-01-31 21:15:00
 tags: gamedev, games
-permalink: /blog/ghosts-dca-dundee/
+redirect_from: /post/ghosts-dca-dundee/
 layout: post
 title: Ghosts in the wild
 published: false

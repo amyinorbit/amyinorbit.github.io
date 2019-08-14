@@ -3,6 +3,7 @@ title: "Adventures in Language Design"
 date: 2016-12-19 12:00:00
 layout: post
 series: "OrbitVM Diaries"
+redirect_from: /post/orbitvm-diary-1/
 excerpt_separator: <!--more-->
 ---
 
@@ -74,4 +75,3 @@ like talking about nerdy things like compilers, VMs and programming languages.
  [1]: https://www.mikeash.com/pyblog/friday-qa-2012-11-16-lets-build-objc_msgsend.html
  [2]: https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-6.html#jvms-6.5.invokedynamic
  [3]: http://inessential.com/vespersyncdiary
-

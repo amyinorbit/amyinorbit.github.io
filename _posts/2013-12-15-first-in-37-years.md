@@ -2,7 +2,7 @@
 title: First in 37 years
 layout: post
 date: 2013-12-15 10:00:00
-permalink: /blog/first-in-37-years/
+redirect_from: /post/first-in-37-years/
 tags: space, moon, china
 ---
 

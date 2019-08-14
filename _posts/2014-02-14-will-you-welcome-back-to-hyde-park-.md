@@ -3,7 +3,7 @@ tags: music, concert, rolling-stones
 title: Will you welcome back to Hyde Park
 layout: post
 date: 2014-02-14 00:00:00
-permalink: /blog/will-you-welcome-back-to-hyde-park-/
+redirect_from: /post/will-you-welcome-back-to-hyde-park-/
 ---
 
 ![Ladies and Gentlemen…][1]

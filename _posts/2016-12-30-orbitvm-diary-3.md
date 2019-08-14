@@ -3,6 +3,7 @@ title: "More OrbitVM Dispatch"
 date: 2016-12-30 20:00:00
 layout: post
 series: "OrbitVM Diaries"
+redirect_from: /post/orbitvm-diary-3/
 excerpt_separator: <!--more-->
 ---
 
@@ -59,7 +60,7 @@ case opcode_invoke:
 
 I'm not sure which of the two solutions I prefer. Provided I don't have plans
 for a complex object model with inheritance, I'm thinking full dynamic dispatch
-might be overkill, though that doesn't mean the string pool isn't a good idea. 
+might be overkill, though that doesn't mean the string pool isn't a good idea.
 
    [1]: https://amyparent.com/blog/orbitvm-diary-2/
    [2]: http://www.artima.com/insidejvm/ed2/linkmod12.html

@@ -3,7 +3,7 @@ tags: lego, space
 title: Lego Curiosity has landed
 layout: post
 date: 2014-01-24 00:00:00
-permalink: /blog/curiosity-has-landed/
+redirect_from: /post/curiosity-has-landed/
 ---
 
 ![lego_curiosity_3.jpg][1]

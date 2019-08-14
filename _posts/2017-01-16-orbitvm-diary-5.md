@@ -3,13 +3,14 @@ title: "Return of the Function Call"
 date: 2017-01-16 22:00:00
 layout: post
 series: "OrbitVM Diaries"
+redirect_from: /post/orbitvm-diary-5/
 excerpt_separator: <!--more-->
 ---
 
 I have discussed function invocation in Orbit before, but then it was all about
 [resolving functions][1] and handing control. This part is (I think) done. like
 I'd said [last time][2], I've gone with a hybrid message/direct dispatch system.
-On first invocation, the function is resolved by name, in a hashmap. The 
+On first invocation, the function is resolved by name, in a hashmap. The
 bytecode is then doctored so that future invocations are just a matter of
 following a pointer to the function's bytecode ([code on github][3]).
 
@@ -28,7 +29,7 @@ like this (the stack grows downwards):
 
 
     |---------------|
-    | some value    | 
+    | some value    |
     | param 0       |
     | param 1       |
     | param 2       |
@@ -43,7 +44,7 @@ the first parameter. good.
 
 
     |---------------|
-    | some value    | 
+    | some value    |
     | param 0       |<-- Base Pointer
     | param 1       |
     | param 2       |
@@ -65,7 +66,7 @@ two local variables, the stack right after invocation will look like this:
 
 
     |---------------|
-    | some value    | 
+    | some value    |
     | param 0       |<-- Base Pointer
     | param 1       |
     | param 2       |
@@ -92,7 +93,7 @@ back on the (newly restored) top of the stack.
 
 
     |---------------|
-    | some value    | 
+    | some value    |
     | return value  |<-- (Old Base Pointer)
     |               |<-- Stack Pointer
     |               |

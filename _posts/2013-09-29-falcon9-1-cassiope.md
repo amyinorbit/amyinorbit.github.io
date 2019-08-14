@@ -3,7 +3,7 @@ tags: spacex, commercial-space
 title: About today's SpaceX launch
 layout: post
 date: 2013-09-29 10:00:00
-permalink: /blog/falcon9-1-cassiope/
+redirect_from: /post/falcon9-1-cassiope/
 ---
 
 ![Falcon 9 1.1 liftoff][1]

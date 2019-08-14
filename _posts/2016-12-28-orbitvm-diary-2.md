@@ -3,6 +3,7 @@ title: "OrbitVM Dispatch"
 date: 2016-12-28 01:30:00
 layout: post
 series: "OrbitVM Diaries"
+redirect_from: /post/orbitvm-diary-2/
 excerpt_separator: <!--more-->
 ---
 

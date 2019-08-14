@@ -3,7 +3,7 @@ tags: feminism, games
 title: Isometric ep.18
 layout: post
 date: 2014-09-11 14:39:39
-permalink: /blog/isometric-ep-18/
+redirect_from: /post/isometric-ep-18/
 ---
 
 ![isometric cover][1]{: .right}

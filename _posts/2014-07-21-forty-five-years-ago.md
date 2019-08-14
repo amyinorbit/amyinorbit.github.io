@@ -3,7 +3,7 @@ tags: space, moon
 title: Forty-Five years ago
 layout: post
 date: 2014-07-21 03:36:00
-permalink: /blog/forty-five-years-ago/
+redirect_from: /post/forty-five-years-ago/
 ---
 
 ![Aldrin's Bootprint][1]  

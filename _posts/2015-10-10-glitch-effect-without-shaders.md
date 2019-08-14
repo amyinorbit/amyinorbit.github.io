@@ -1,7 +1,7 @@
 ---
 date: 2015-10-10 22:55:00
 tags: gamedev, graphics
-permalink: /blog/glitch-effect-without-shaders/
+redirect_from: /post/glitch-effect-without-shaders/
 layout: post
 title: Glitch Effects Without Shaders
 ---

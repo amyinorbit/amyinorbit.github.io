@@ -1,10 +1,9 @@
 ---
 date: 2016-04-09 21:00:00
 tags: spacex, commercial-space
-permalink: /blog/spacex-barge/
+redirect_from: /post/spacex-barge/
 layout: post
 title: Rocket, Meet Boat
-excerpt_separator: ""
 ---
 
 ![Falcon 9 coming in][i-landing]

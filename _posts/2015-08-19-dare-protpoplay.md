@@ -1,7 +1,7 @@
 ---
 date: 2015-08-19 11:15:00
 tags: gamedev, games
-permalink: /blog/dare-protpoplay/
+redirect_from: /post/dare-protpoplay/
 layout: post
 title: Why I make games
 ---

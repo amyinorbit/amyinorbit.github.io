@@ -3,7 +3,7 @@ title: "Transition & Marina"
 date: 2019-02-18 13:05:00+00
 layout: post
 image: /static/media/2019/02/marina_love_fear.jpg
-excerpt_separator: <!--more-->
+redirect_from: /post/transition-marina/
 ---
 
 ![Marina's Love+Fear album][i1]{: .right}
@@ -30,4 +30,3 @@ I've always attached a lot of -- probably too much -- meaning to music. But Mari
  
  [i1]: /static/media/2019/02/marina_love_fear.jpg
  [i2]: /static/media/2019/02/marina_neon_nature.jpg
-

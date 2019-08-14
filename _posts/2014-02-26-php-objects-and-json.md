@@ -2,7 +2,7 @@
 title: PHP, objects and json
 layout: post
 date: 2014-02-26 00:00:00
-permalink: /blog/php-objects-and-json/
+redirect_from: /post/php-objects-and-json/
 ---
 
 For the last three personal projects I've worked on, I needed some kind of way to save objects (let's say, for example, a [review][1]) on the server. After all, there wouldn't be much use in creating those objects if they were to be deleted as soon as the user looks away.

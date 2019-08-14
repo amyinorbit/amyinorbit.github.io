@@ -3,8 +3,7 @@ tags: mars, space
 title: Red Planet
 layout: post
 date: 2013-09-26 10:00:00
-permalink: /blog/1-hirise-pictures/
-excerpt_separator: ""
+redirect_from: /post/1-hirise-pictures/
 ---
 
 ![Mars' glaciers seen by HiRise camera][1]

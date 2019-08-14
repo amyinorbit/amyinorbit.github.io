@@ -1,7 +1,7 @@
 ---
 date: 2015-08-24 23:25:00
 tags: gamedev, tools
-permalink: /blog/game-making-tools/
+redirect_from: /post/game-making-tools/
 layout: post
 title: Game Making Tools
 ---

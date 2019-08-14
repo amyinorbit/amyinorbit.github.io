@@ -1,7 +1,7 @@
 ---
 date: 2015-02-07 23:21:00
 tags: programming, typography
-permalink: /blog/apple-II-font/
+redirect_from: /post/apple-II-font/
 layout: post
 title: Making fonts like it’s ’77
 excerpt_separator: ""

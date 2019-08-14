@@ -1,10 +1,9 @@
 ---
 tags: space, ULA
 title: Atlas/OA-6 Launch Was A Close Call
-link: 
 layout: post
 date: 2016-03-31 19:40:00
-permalink: /blog/oa-6-atlas-centaur/
+redirect_from: /post/oa-6-atlas-centaur/
 ---
 
 > Had the RD-180 engine shut one second earlier than it did, Centaur would not have been able to compensate and Cygnus would have ended up in a lower orbit. With Shutdown another 1.3 seconds earlier, there would not have been a mission for Cygnus as perigee would have remained within the atmosphere, even when using all of Centaur’s performance.

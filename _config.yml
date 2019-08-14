@@ -26,6 +26,7 @@ highlighter: rouge
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 include:
   - .htaccess

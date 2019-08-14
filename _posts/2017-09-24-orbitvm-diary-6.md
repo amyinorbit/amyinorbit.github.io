@@ -3,6 +3,7 @@ title: "Orbit's VM & Parser"
 date: 2017-09-24 22:50:00 BST
 layout: post
 series: "OrbitVM Diaries"
+redirect_from: /post/orbitvm-diary-6/
 excerpt_separator: <!--more-->
 ---
 
@@ -12,7 +13,7 @@ great, since the changes I've made over eight months are fairly significant
 once you add all of them up, and I have little record of the development, save
 for the git history.
 
-I thought I'd at least do a quick recap here, before I can go back to 
+I thought I'd at least do a quick recap here, before I can go back to
 (hopefully) more regular posts about the many wonderful horrors of compiler
 building I'm discovering!
 

@@ -1,7 +1,7 @@
 ---
 date: 2015-12-22 10:00:00
 tags: spacex, commercial-space
-permalink: /blog/welcome-back-falcon/
+redirect_from: /post/welcome-back-falcon/
 layout: post
 title: Welcome Back, Falcon&nbsp;9
 ---

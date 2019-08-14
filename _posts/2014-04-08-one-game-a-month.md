@@ -1,7 +1,7 @@
 ---
 date: 2014-04-08 19:24:26
 tags: gamedev
-permalink: /blog/one-game-a-month/
+redirect_from: /post/one-game-a-month/
 layout: post
 title: One game a month
 ---

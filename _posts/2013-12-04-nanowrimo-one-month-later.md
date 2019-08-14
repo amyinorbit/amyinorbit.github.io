@@ -3,7 +3,7 @@ tags: writing, personal
 title: NaNoWriMo, one month later
 layout: post
 date: 2013-12-04 00:00:00
-permalink: /blog/nanowrimo-one-month-later/
+redirect_from: /post/nanowrimo-one-month-later/
 ---
 
 _A note for [Lucie][1]_

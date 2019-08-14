@@ -3,7 +3,7 @@ tags: writing, programming
 title: Counting my words
 layout: post
 date: 2013-10-28 00:00:00
-permalink: /blog/counting-my-words/
+redirect_from: /post/counting-my-words/
 ---
 
 This year, I decided to tag along for [NaNoWriMo][1]. I've had quite a few attempts at writing fiction, but every single one ended with a chapter, sometimes two, rotting on my computer. Plus, I went from forty-five hours of class each week to only thirteen this year, so the not–enough–time excuse won't work anymore.
