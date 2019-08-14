@@ -1,11 +1,8 @@
 ---
-date: 2016-04-22 02:00:00
-tags: personal, work
 redirect_from: /post/work-passion/
-layout: post
-title: Work & Passion
-excerpt_separator: <!--more-->
 ---
+Work & Passion
+=============
 
 For the past three years I’ve found myself incredibly lucky: for the first time, I’m happy to go to classes because what I’m learning, what I do for coursework is a passion of mine. I like programming, I love learning about computer architecture, I enjoy cryptography (nerd).
 

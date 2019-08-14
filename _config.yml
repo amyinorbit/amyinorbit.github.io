@@ -13,7 +13,6 @@ url: "https://amyparent.com"
 instagram_username: amyinorbit
 twitter_username: amyinorbit
 github_username:  amyinorbit
-googleplus_uid:   116701126192141560817
 
 # Build settings
 markdown: kramdown
@@ -33,7 +32,7 @@ collections:
 titles_from_headings:
   enabled:     true
   strip_title: true
-  collections: false
+  collections: true
 
 exclude:
   - vendor/bundle
