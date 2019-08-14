@@ -38,16 +38,17 @@ a:active {
 }
 
 a.button {
-    font-weight: 700;
+    display: inline-block;
+    font-weight: bold;
+    background: $color-accent1;
+    color: var(--color-primary);
+    padding: .3em 1em;
+    border-radius: 2em;
     text-decoration: none;
 }
 
-a.button:before {
-    content: "[";
-    color: var(--color-primary);
-}
-
-a.button:after {
-    content: "]";
-    color: var(--color-primary);
+a.button:hover {
+    background: $color-accent2;
+    color: $color-primary-dark;
+    text-decoration: none;
 }

@@ -10,9 +10,10 @@ div.post-list {
     grid-row-gap: 1em;
 }
 
-
 div.year-list {
     font-weight: 700;
+    font-size: 80%;
+    line-height: 1.2em;
     
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

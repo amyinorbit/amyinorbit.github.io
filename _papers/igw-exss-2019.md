@@ -12,3 +12,6 @@ authors:
     - C.R. Stark
 file: igw-exss-2019.pdf
 ---
+Papers cited:
+ * Helling et al. 2001.
+ * Freytag et al. 2008.

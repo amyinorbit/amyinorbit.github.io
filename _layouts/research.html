@@ -17,8 +17,11 @@ layout: default
         <h3 class="paper-title" id="{{ paper.key }}">{{ paper.title }}</h3>
         <div class="paper-meta">
             <span class="paper-authors">{{ paper.authors | join: ", " }}</span>
-            <time class="post-date" datetime="{{ paper.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ paper.date | date_to_string: "ordinal", "UK" }}</time>
+            <span class="paper-info"><time class="post-date" datetime="{{ paper.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ paper.date | date_to_string: "ordinal", "UK" }}</time> {{ paper.published }} ({{ paper.type | default: "paper" }})</span>
         </div>
+        <!-- <div class="paper-details">
+            {{ paper.content | markdownify }}
+        </div> -->
         <a class="button" href="{{ paper.file | prepend: "/static/pub/" | prepend: site.baseurl }}">download</a>
     </div>
 
