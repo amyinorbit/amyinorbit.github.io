@@ -9,15 +9,15 @@ layout: default
         {{ content }}
     </div>
 </article>
-<aside class="paper-list pad">
+<aside class="paper-list">
     <h2>Papers & Posters</h2>
-    {% assign papers = site.papers | where: "show",true %}
-    {% for paper in papers %}
-    <div class="paper-tile gui">
+    {% for paper in site.papers %}
+    <div class="paper-tile pad gui">
         <h3 class="paper-title" id="{{ paper.key }}">{{ paper.title }}</h3>
         <div class="paper-meta">
             <span class="paper-authors">{{ paper.authors | join: ", " }}</span>
-            <span class="paper-info"><time class="post-date" datetime="{{ paper.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ paper.date | date_to_string: "ordinal", "UK" }}</time> {{ paper.published }} ({{ paper.type | default: "paper" }})</span>
+            <time class="post-date" datetime="{{ paper.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ paper.date | date_to_string: "ordinal", "UK" }}</time>
+            <span class="paper-info">{{ paper.journal }} ({{ paper.type | default: "paper" }})</span>
         </div>
         <!-- <div class="paper-details">
             {{ paper.content | markdownify }}
