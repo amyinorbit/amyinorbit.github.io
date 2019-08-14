@@ -27,12 +27,12 @@
         --color-background-sec: #{$color-background-sec-dark};
     }
     
-    img {
+    img:not(.mug) {
         filter: brightness(75%);
         transition: filter .3s;
     }
     
-    img:hover {
+    img:not(.mug):hover {
         filter: brightness(100%);
     }
 }
