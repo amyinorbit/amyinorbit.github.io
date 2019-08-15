@@ -14,13 +14,35 @@ article {
         h1.large-title {
             margin-bottom: .3em;
         }
-        
     }
 }
 
-aside.series, aside.paper-list {
+aside.series, aside.paper-list, span.sidenote {
     font-size: 80%;
     line-height: 1.2em;
+}
+
+span.sidenote {
+    padding: 1em 0;
+    border-top: 1px solid var(--color-secondary);
+    border-bottom: 1px solid var(--color-secondary);
+    border-radius: 0;
+    position: relative;
+    top: 0;
+    margin-top: -2em;
+}
+
+span.sidenote p:last-child {
+    margin-bottom: 0;
+}
+
+@media (max-width: $sc-normal) {
+    span.sidenote {
+        display: block;
+        clear: both;
+        padding: .5em 0;
+        margin: 1em 0;
+    }
 }
 
 div.post-meta time, div.paper-meta time {
