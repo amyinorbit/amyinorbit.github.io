@@ -10,6 +10,7 @@ img + br + em, img + em {
     display: block;
     text-align: center;
     font-size: $size-caption;
+    color: var(--color-bac);
     background: var(--color-background-sec);
     border-radius: 5pt;
     padding: .5em;
