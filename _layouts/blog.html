@@ -7,7 +7,7 @@ title: Blog
 {% assign postsByYear = site.posts | offset: 1 | group_by_exp:"post", "post.date | date: '%Y'"  %}
 
 <div class="gui right-float pad">
-    <h2 class="gui">years</h2>
+    <h2 class="gui">Years</h2>
     <div class="year-list">
         {% for year in postsByYear %}
         <span>[<a href="#year-{{ year.name }}">{{ year.name }}</a>]</span>
