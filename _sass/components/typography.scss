@@ -9,13 +9,13 @@ html {
 
 body {
     line-height: 1.5rem;
-    font-weight: normal;
-
-    -webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	-webkit-font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
-	-moz-font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
-	font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
+    font-weight: 300;
+    
+    text-rendering: optimizeLegibility;
+    -webkit-font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
+    -moz-font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
+    font-feature-settings: "kern" 1, "onum" 1, "liga" 1;
+//    font-feature-settings: "liga" 1;
 }
 
 h1 { font-size: $size-title-1; }
@@ -25,24 +25,19 @@ h4 { font-size: $size-headline; }
 h5 { font-size: $size-headline; }
 h6 { font-size: $size-headline; }
 
-h1.large-title {
-    display: inline;
-    font-size: $size-large-title;
+//h1.large-title {
+//    font-size: $size-large-title;
+//}
 
-    margin-left: -0.6rem;
-    margin-right: -0.6em;
-    padding: 0 0.6rem;
-    
-    color: var(--color-background);
-    background: var(--color-primary);
-    font-style: italic;
+.large-title {
+    font-size: $size-large-title;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $font-heading;
-    font-weight: 900;
-    line-height: 1.2em;
-    margin: 0.4em 0 0.8em 0;
+    font-weight: 700;
+    line-height: 1.1em;
+    margin: 0.8em 0 0.8em 0;
 }
 
 .gui, .gui * {
@@ -50,7 +45,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .thin {
-    font-weight: 300;
+    font-weight: 200;
+}
+
+p {
+    line-height: 1.4em;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
 }
 
 pre, code {
@@ -64,15 +66,11 @@ em {
 strong {
     color: $color-primary-light;
     background: $color-accent3;
-    font-weight: 600;
+    font-weight: 300;
 }
 
-p {
-    margin: 0 0 .8em;
-    line-height: 1.5em;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto;
+p:not(:last-child) {
+    margin-bottom: 1em;
 }
 
 ul, ol {
@@ -87,7 +85,15 @@ ul {
     list-style-type: square;
 }
 
-ul li {
+li {
     display: list-item;
     margin-bottom: .5em;
+    hyphens: auto;
 }
+
+.gui li {
+    margin-bottom: 0;
+    hyphens: none;
+}
+
+

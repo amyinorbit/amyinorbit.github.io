@@ -1,17 +1,17 @@
-$font-heading: -apple-system, BlinkMacSystemFont, "Helvetica", Ubuntu, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-heading: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Helvetica", Ubuntu, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $font-body: $font-heading;
-$font-mono:  "SFMono-Regular", "Consolas", "Liberation Mono", "Menlo", monospace;
+$font-mono: "SFMono-Regular", "Fira Code", "Consolas", "Liberation Mono", "Menlo", monospace;
 
 // TODO: this is lifted from the iOS HIG and might need tweaking for the web
 // https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/
 
 $size-base: 14pt;
 
-$size-large-title: 2.2rem;
-$size-title-1: 1.6rem;
-$size-title-2: 1.3rem;
-$size-title-3: 1.1rem;
-$size-caption: 0.9rem;
+$size-large-title: 2em;
+$size-title-1: 18pt;
+$size-title-2: 16pt;
+$size-title-3: 14pt;
+$size-caption: 12pt;
 
-$size-body: 1rem;
+$size-body: $size-base;
 $size-headline: 1rem;
