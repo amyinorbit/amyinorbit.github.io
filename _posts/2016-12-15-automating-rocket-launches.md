@@ -3,7 +3,7 @@ title: Automating Rocket Launches
 date: 2016-12-15 15:33:00
 layout: post
 redirect_from: /post/automating-rocket-launches/
-excerpt_separator: <!--more-->
+excerpt_separator: 
 ---
 
 A few months ago, I published [a video][1] of a completely automatic launch to
@@ -19,7 +19,7 @@ but makes single-burn to orbit launches closer to real-life launches.
 
 A launch is made of five main phases.
 
-<!--more-->
+
 
  1. Liftoff and vertical ascent: the rocket holds a purely vertical altitude,
     to gain some vertical speed and clear the launch pad.

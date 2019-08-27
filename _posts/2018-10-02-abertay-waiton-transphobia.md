@@ -10,7 +10,7 @@ To Abertay leadership: while you may think a lecturer's personal "opinion" (hate
 
 **warning: this contains references to transphobic comments that might upset you. Please only click through if you feel up to dealing with such language**
 
-<!--more-->
+
 
 > I am a transgender woman working on my PhD at Abertay. I started transitioning when I was finishing my undergraduate degree, and felt comfortable doing so because of Abertay and UADSA’s openly supportive LGBTQ+ policies, as well as the support and help that my lecturers and now supervisors offered (as part of then-AMG, now SDI). I found Dr. Waiton’s article transphobic and distressing, and at odds with the open, supporting environment that Abertay seems to be sporting.
 >

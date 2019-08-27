@@ -11,7 +11,7 @@ For the past couple of years, I've been designing 3D models of London Undergroun
 ![1973 Tube Stock - first version][1]  
 _The first version of my 1973 Tube Stock_
 
-<!--more-->
+
 
 But while looking for parts, I started exchanging about 3D printing and modelling with [John Polley][2]. He sold converted vintage trains models, and accessories for underground models, but he had stopped producing contemporary trains. He also shows his impressive layout, _Abbey Road_, at rail model shows around the United Kingdom. As things went, he proposed that I work for him: I would design the models, he would print them, have them painted, and sell them.
 

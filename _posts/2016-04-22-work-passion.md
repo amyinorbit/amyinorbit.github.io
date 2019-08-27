@@ -8,7 +8,7 @@ For the past three years I’ve found myself incredibly lucky: for the first tim
 
 I’ve always thought that it could be the best thing to happen to anyone. Not worrying about going to work everyday, because you know you’re going to love it. Of course, it can only a blessing, right?
 
-<!--more-->
+
 
 Not quite. Because when your work (or in my case, your degree) is your passion, it becomes very easy to skip boundaries. When I come home after spending ten hours on programming coursework, I cook dinner, watch a TV Show, and then do some more programming. Because I love it. Maybe it’s a function I couldn’t quite figure out earlier in the day, maybe it’s some other piece of coursework for which I just thought of a solution. The thing is, I never stop. That was a great thing last year, when it let me finish my coursework early and gave me margin to polish things. It was great last semester when I finished a networking paper early and had time for the rest of my coursework.
 

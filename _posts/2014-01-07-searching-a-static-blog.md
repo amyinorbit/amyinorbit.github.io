@@ -11,7 +11,7 @@ published: false
 
 One of the biggest advantages of dynamic blog systems (Wordpress, for example), is the search feature. Since every page is rendered when it's requested, after fetching some information in the database, the engine can also search for a set of words in _all_ the titles of _all_ the posts on the website.
 
-<!--more-->
+
 
 A shame I don't use Wordpress, then. I am not a big user of search forms myself — well, not on blogs — but I admit they can be useful[^1]. The problem is, on a static blog like that one, everything is, well, static. Each post, page and archive is just a plain HTML file, generated once, and served whenever a visitor arrives, which means there's no consolidated database of all the content, and most of all no software that runs searches when a user requests it. I've been hesitating between what I think are the two main solutions:
 

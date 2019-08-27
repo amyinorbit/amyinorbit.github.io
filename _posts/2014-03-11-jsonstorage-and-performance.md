@@ -10,7 +10,7 @@ It turns out my trivial [object-to-json-and-back library][1] might not be so tri
 
 On the current version, querying an object requires that you know its unique ID and call `$storage->objectAtIndex("someIndex")`. [The method][2] is quite simple: since each object is stored in its own JSON file, the code just checks if the right file exists, and then loads only that object. Whatever the number of stored objects, you only ever load a small one-object file.
 
-<!--more-->
+
 
 Things get worse when you request all of the stored object. The method will have to loop through all the files, load each of them, and process them. This is much less efficient than loading one big file, but this isn't a case I'd thought I'd encounter often.
 

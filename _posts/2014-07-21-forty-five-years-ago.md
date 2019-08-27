@@ -11,7 +11,7 @@ _Aldrin's footprint in the dust of the Sea of Tranquility_
 
 On the twenty-first of July 1969, at 2:56&nbsp;UTC, Neil Armstrong, commander of the Apollo 11 mission, became the first human being to set foot on the Moon, closely followed by Buzz Aldrin, while their Command Module Pilot, Michael Collins, waited for their return in orbit. In the barely seven years between Kennedy's Rice University speech and this moment, the NASA had gone from launching one-person capsules in very low orbit to designing, building and launching one of the biggest rockets towards our satellite, landing two people on it and getting them back to Earth.
 
-<!--more-->
+
 
 ![Saturn V liftoff][2]  
 _Saturn V lifts off, carrying the Apollo 11 mission_

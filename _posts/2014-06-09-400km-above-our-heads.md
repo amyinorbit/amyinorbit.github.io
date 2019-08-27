@@ -12,7 +12,7 @@ redirect_from: /post/400km-above-our-heads/
 
 A few long-exposure shots of the [International Space Station][3] crossing Paris' sky, between massive thunderstorms.
 
-<!--more-->
+
 
 ![IMG_9700.jpg][4]
 

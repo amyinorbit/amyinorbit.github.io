@@ -12,7 +12,7 @@ redirect_from: /post/will-you-welcome-back-to-hyde-park-/
 
 It sent shivers through my spine, and still does. Last July, I was in Hyde Park to see the Stones, as one of the best birthday present I ever got. I'd been wanting to write about it for a while now, but words cannot express how [happy][2] I was, standing on that grass, after six hours spent burning in London's summer sun.
 
-<!--more-->
+
 
 Words cannot compete with the few tears I shed when Richards entered the stage and strummed the first chords of *[Start Me Up][3]*. Not (only) because I was at this concert, fifteen metres away from one of my favourite bands, but because I knew that I was here thanks to my family and best friends.
 

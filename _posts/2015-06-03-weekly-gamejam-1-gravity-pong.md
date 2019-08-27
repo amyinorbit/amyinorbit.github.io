@@ -12,7 +12,7 @@ Since my feeble attempt last year at [making a game a month](http://amyparent.co
 
 So this summer, instead of making a game each month, I decided to try something new: each week, make one day a small Game Jam. Twenty-four hours are too short for me to obsess over graphics or clean code and should leave me an open way to experiment with alternative ideas and new mechanics.\
 
-<!--more-->
+
 
 ## Gravity Pong
 

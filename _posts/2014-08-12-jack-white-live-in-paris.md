@@ -11,7 +11,7 @@ L'Olympia, _June 30th, 2014_
 
 I've been a fan of the White Stripes', and pretty much every single band of Jack White's for a while now. I discovered his music through my father, but I wasn't old enough to accompany him to see the Stripes. So when he announced two concerts in Paris for its _Lazaretto_ tour, I jumped on the occasion.
 
-<!--more-->
+
 
 I was pleasantly surprised that the venue was a small one (the _Olympia_ is an old Parisian theatre) instead of a bigger, impersonal place. The sound is often much better, and the hours we waited in line allowed us to be only one metre away from the barriers. I didn't really enjoy the supporting band's show —Scottish screaming-hard metal is not my cup of tea— but its short duration made it bearable.
 

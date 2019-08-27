@@ -4,7 +4,7 @@ date: 2016-12-30 20:00:00
 layout: post
 series: "OrbitVM Diaries"
 redirect_from: /post/orbitvm-diary-3/
-excerpt_separator: <!--more-->
+excerpt_separator: 
 ---
 
 I've read a bunch, and thought more about my [problem][1] with the dispatch
@@ -20,7 +20,7 @@ now I'm down to somewhere between one and "a few" string comparisons on for each
 call, even though it should be one 99.99% of the time, and it's _very_ unlikely
 to be more than two. Better.
 
-<!--more-->
+
 
 Better but still not great. Comparing strings is slow. You need to walk both of
 them and compare the two byte per byte. And I can't guarantee that a user won't

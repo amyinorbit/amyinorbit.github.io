@@ -11,7 +11,7 @@ If you work at SpaceX or NASA, the answer is (I hope) yes. Since I don't work fo
 
 ![Crew Dragon Reentry Trajectory][i-dragon-traj]{: .small}
 
-<!--more-->
+
 
 Reentry is a relatively simple problem to solve as long as you don't look at the details. There are either two or three forces acting on the spacecraft: gravity, aerodynamic drag, and in the case of Dragon -- or really most modern spacecrafts since the introduction of Soyuz -- lift. There are [simplified equations][atmo-drag] for all of these, which I used to derive equations of motion, coded into a quick-and-dirty Euler solver.
 

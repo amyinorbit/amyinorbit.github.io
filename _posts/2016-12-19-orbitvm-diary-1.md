@@ -4,7 +4,7 @@ date: 2016-12-19 12:00:00
 layout: post
 series: "OrbitVM Diaries"
 redirect_from: /post/orbitvm-diary-1/
-excerpt_separator: <!--more-->
+excerpt_separator: 
 ---
 
 Apparently, my brain isn't satisfied with having to manage fourth year and my
@@ -21,7 +21,7 @@ I don't particularly fancy going all the way down to machine code, so it'll be
 VM-based, very much like Java: a compiler that compiles each script file to a
 bytecode file, and a VM that loads those files and runs the `main()` function.
 
-<!--more-->
+
 
 So far, my specs for the language are:
 

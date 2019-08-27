@@ -12,7 +12,7 @@ For [last weekend's game jam](/blog/double-jam-postmortem/), I needed to create 
 
 _The code examples in the article use Meteor's API (C++), but they are simple enough that they could be translated for SpriteKit, Cocos2D or other 2D engines with very little work._
 
-<!--more-->
+
 
 The idea is to mix a colour overlay with fast screen shake to give the illusion that pixels are being drawn off-colour and slightly offset from their correct position. Most engines that I know of allow you to blend a scene's texture with a colour, which is overlaid on the scene's content.
 

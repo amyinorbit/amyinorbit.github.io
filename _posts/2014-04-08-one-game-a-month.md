@@ -11,7 +11,7 @@ _First graphics_
 
 if there is one thing I am still not used to here in Scotland, it's the amount of class hours: whereas I had forty-five last year in Cachan, I am down to ten-to-fifteen in Dundee —let's say I have a fair share of spare time. And since I am not currently binge-watching any TV Show, I thought I'd use it to do something more creative, and flex my programming muscle a bit at the same time.
 
-<!--more-->
+
 
 Even though I don't consider myself a _hardcore_ gamer —I've never lived those "vintage game" years, never really played a Pokémon game, and own a Mac— I enjoy well-made game a lot. And following [Steven Troughton-Smith][2] and [Adriel Wallick][3] on Twitter has made me more and more eager to give a go at game development.
 

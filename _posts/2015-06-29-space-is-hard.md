@@ -11,7 +11,7 @@ _Image in public domain, from SpaceX_
 
 Yesterday, SpaceX lost a Falcon 9 rocket on its way up to the International Space Station about 2:19 after liftoff. A bitter reminder that even with a reliable rocket like Falcon 9 had been thus far, Space is hard. The packed schedule of launches to supply the ISS make it look like routine, but the last twelve months have shown us that it is anything but routine: Antares Orb-3 failed in October, Progress M-27M in march, and now Dragon SpX-7. Three failures of three completely different designs.
 
-<!--more-->
+
 
 Thankfully the ISS is managed in such a way that the crew is not at risk yet. The next crew rotation will still take place, and supplies will be sent on the next progress launch in July, and the Japanese HTV flight in mid-august. The failure is still a massive loss — Dragon carried [science experiments and a docking adapter](http://www.spaceflight101.com/dragon-spx-7-cargo-overview.html) for the future crewed spacecrafts — but ESA, Jaxa, NASA and Roscosmos prepare for this.
 

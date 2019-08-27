@@ -8,7 +8,7 @@ redirect_from: /post/counting-my-words/
 
 This year, I decided to tag along for [NaNoWriMo][1]. I've had quite a few attempts at writing fiction, but every single one ended with a chapter, sometimes two, rotting on my computer. Plus, I went from forty-five hours of class each week to only thirteen this year, so the not–enough–time excuse won't work anymore.
 
-<!--more-->
+
 
 NaNoWriMo starts in two days, and I only have a very vague idea of my plot, so, of course, I procrastinate by coding. To ease the guilt, I decided to code something that would be more or less useful for this month: a way to display a word count here, on my blog. I could probably have used the official widget, but I didn't want the count to be an image, and I had a few special requirements.
 

@@ -13,7 +13,7 @@ Now that my first month of game development has ended, I thought I'd have a look
 
 The goal was to make a simple Super Smash Bros inspired game in C/SDL2, based on the Scott Pilgrim comics. This was my first real project in C, the first time I used SDL, and my first game, so I wasn't really expecting to succeed when I started.
 
-<!--more-->
+
 
 ## The good parts
 

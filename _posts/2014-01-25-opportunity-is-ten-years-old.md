@@ -12,7 +12,7 @@ redirect_from: /post/opportunity-is-ten-years-old/
 
 Ten years ago today, Mars Exploration Rover B, Opportunity, landed on Mars, using a "simple" [airbag system][2].
 
-<!--more-->
+
 
 ![Opportunity stowed][3]
 

@@ -11,7 +11,7 @@ redirect_from: /post/maven-on-its-way/
 
 Yesterday, NASA successfully launched the [MAVEN][2] (for _Mars Atmosphere and Volatile EvolutioN_). After being sent on an interplanetary trajectory by the Centaur upper stage of the rocket, it will coast for a bit more than ten months, for a planned arrival on Mars orbit on the 22nd of September. Yay science!
 
-<!--more-->
+
 
 Once in orbit around Mars, the probe will be used to study the Martian atmosphere. Its current composition and structure, but also how it escaped from Mars over time. It will also serve as a communications relay for [Curiosity][3] and [Opportunity][4], the two rovers still active on the surface.
 

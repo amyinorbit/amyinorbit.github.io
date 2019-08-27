@@ -12,7 +12,7 @@ Transitioning is an altogether weird experience. I'm just over two years in, and
 
 There's me wondering at eight why my shoes weren't making that clacky noise that heels make. Me in high school, feeling excluded when I didn't have any period stories to complain about with my friends, who were mostly girls. Another one I've picked up on recently is Marina (and the Diamonds).
 
-<!--more-->
+
 
 I discovered Marina's music at a time where I think I was starting to know that I wasn't a guy (even though I would never had admitted it then). I was around 20, realising how little I fitted with "the guys". We spent a good deal of time that summer playing just dance at a friend's, and as far as I can remember it's the first time I actually let myself dance (very badly) around other people without holding back. The one song that I could vaguely manage was [_Oh No!_][1], and I fell in love with it.
 

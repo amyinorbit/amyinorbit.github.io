@@ -15,7 +15,7 @@ _image © [Pam Mayer](http://www.flickr.com/photos/pamnesiac/4962432630/) (Creat
 
 This was not really a surprise to see that pop up. I discovered Marina's music roughly two month ago, and I fell in love with it. Not love at first sight: that kind of love that comes slowly, as you try to listen again to that song, that had a passage you liked. And you end up listening to everything, almost all the time.
 
-<!--more-->
+
 
 If I had to pick three songs, I would choose _Oh No!_ for its energy, _Hermit the Frog_ for the leaps in the tone of her voice, and, above all, the acoustic version of _Homewrecker_, also for the oh–so–perfect voice.
 

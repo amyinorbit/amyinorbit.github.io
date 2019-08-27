@@ -10,7 +10,7 @@ title: "Game a Month: Month 2"
 
 My goal for this month was to learn at least a little about procedural map generation, handling tile maps with SDL, and having larger-than-screen, scrolling maps. That led me to choose a top-down RPG-style world. Once this was settled, I got the idea for the game mechanics quite quickly: the player is dropped on an unknown island, where ghosts appear randomly, and must survive for as long as possible.
 
-<!--more-->
+
 
 The other main goal was to keep the code much cleaner than last month's, and have a more polished game (with a main menu, a game over screen…)
 

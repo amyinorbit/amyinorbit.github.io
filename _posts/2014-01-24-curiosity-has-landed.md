@@ -10,7 +10,7 @@ redirect_from: /post/curiosity-has-landed/
 
 Since Lego had said that it shouldn’t be despatched before the thirtieth of january, I was a bit surprised to find the bigger-than-expected box in the mailbox on monday.
 
-<!--more-->
+
 
 ![lego_curiosity_2.jpg][2]
 

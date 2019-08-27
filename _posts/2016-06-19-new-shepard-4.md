@@ -4,7 +4,7 @@ tags: commercial-space, blue-origin
 redirect_from: /post/new-shepard-4/
 layout: post
 title: New Shepard Flight 4
-excerpt_separator: <!--more-->
+excerpt_separator: 
 ---
 
 ![New Shepard Flight 4 Landing][i-ns4]  

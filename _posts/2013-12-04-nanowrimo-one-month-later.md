@@ -10,7 +10,7 @@ _A note for [Lucie][1]_
 
 This year's [NaNoWriMo][2] has ended three days ago, and surprisingly enough I've made it. Even though I started late and without a proper outline, I've written50,232 words and finished (the first draft of) the story I had set myself to write.
 
-<!--more-->
+
 
 Reaching the line was a relief, but there's still a lot to do. I don't like most of what I wrote, and there are probably a lot of things that need to be changed. The whole experience allowed me to realise at least two things, though.
 

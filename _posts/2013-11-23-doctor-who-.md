@@ -14,7 +14,7 @@ redirect_from: /post/doctor-who-/
 
 I started watching Doctor Who barely one year ago. Someone had told me it was good, but I have to admit that I was a bit skeptical, after the first episode. _Rose_, the first one of the "new" series.  But I was bored at that time, and hit play on the second episode.
 
-<!--more-->
+
 
 I had never really been into Science Fiction: except Star Wars and Back To The Future, I had never watched any Sci-Fi show or movie. And when I played the second episode, my first reaction was probably something in the lines of "Eww. _Aliens_."
 

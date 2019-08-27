@@ -11,7 +11,7 @@ _The band opens the Family Jewels act with Mowgli’s Road._
 
 After Marina released her last album, _Froot_, I managed to get a ticket for the _Neon Nature_ concert in Glasgow (at the O2 abc, a pretty small, nice venue) before everything sold out. The show was organised in three acts — one dedicated to Froot, of course, but also one of each of her previous albums.
 
-<!--more-->
+
 
 ![Marina 2](/static/media/2015/12/marina-2.jpg)  
 _Seconds before Electra Heart steps on stage._

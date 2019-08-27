@@ -4,7 +4,7 @@ tags: spacex, droneship
 redirect_from: /post/asds-wallpapers/
 layout: post
 title: SpaceX Wallpapers
-excerpt_separator: <!--more-->
+excerpt_separator: 
 ---
 
 ![SpaceX ASDS - Of Course I Still Love You][ocisly]

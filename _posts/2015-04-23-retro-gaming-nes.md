@@ -10,7 +10,7 @@ title: "Retro Gaming: NES"
 
 A few days ago, I took the step and got myself a NES off Ebay, along with a few games — _Super Mario Bros._ (1985), _Super Mario Bros. 3_ (1990), _Batman: The Video Game_ (1990), and what sounds like a bad parody of video games, _Bad Dudes Versus Dragon Ninja_.
 
-<!--more-->
+
 
 There are some games that are hard not because they were designed to be, but because they could use some polishing of their mechanics and controls. I've played *Batman* a bit, and it seems to be one of those. I definitely need to go back and try to make progress, but the controls can be finicky — try changing weapons with `start`, while punching an enemy running at you and avoiding two RC bombs chasing you from both sides, it's not fun.
 

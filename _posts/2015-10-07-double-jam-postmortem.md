@@ -12,7 +12,7 @@ Charged Hearts Jam was organised in Abertay University's art gallery during the 
 
 ![The Space In Between](/static/media/2015/10/2jam-spaceinbetween.gif){: .small}
 
-<!--more-->
+
 
 The jam went well, with Nikola joining us to help on programming and do some audio work. Working inside a gallery, with the developers of the original game and artists explaining their work was great. To my surprise, we won the jam, even though all the games I got to play at the end would have deserved to! The Space In Between is available for download (OS X and Windows) on [itch.io](http://pixelspark.itch.io/the-space-in-between), and playable in the Hannah Maclure Centre until Oct. 23rd.
 

@@ -10,7 +10,7 @@ Yesterday, for the first time in thirty seven years, a human-made object landed 
 
 ![Yutu Rover](/static/media/2013/12/asteroid1387136241.jpg){: .right} _The Yutu rover, taken by Chang'e-3 lander after deployment (image CNSA/CCTV)_
 
-<!--more-->
+
 
 In the last year, I've heard people worrying about China's Space Program. "It's not a democracy". "Their only purpose is to send missiles at us". This always make me feel sad. I am not fond at all of China's politics, but I think science achievements shouldn't be regarded as the result of a country's effort only. Those achievement are for the benefit of the whole mankind. Yes, the lander that touched down yesterday didn't have US flags printed on the walls. But it's not necessarily a bad thing.
 

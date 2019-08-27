@@ -4,7 +4,7 @@ date: 2017-09-24 22:50:00 BST
 layout: post
 series: "OrbitVM Diaries"
 redirect_from: /post/orbitvm-diary-6/
-excerpt_separator: <!--more-->
+excerpt_separator: 
 ---
 
 So between the end of fourth year, my summer job and now gearing for my PhD, I
@@ -17,7 +17,7 @@ I thought I'd at least do a quick recap here, before I can go back to
 (hopefully) more regular posts about the many wonderful horrors of compiler
 building I'm discovering!
 
-<!--more-->
+
 
  * The VM runs! That includes the garbage collector, the memory allocator and
    the run loop. Not surprisingly, the last few days of development before

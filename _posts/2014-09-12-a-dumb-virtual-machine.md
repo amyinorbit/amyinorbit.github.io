@@ -4,7 +4,7 @@ title: A dumb virtual machine
 layout: post
 date: 2014-09-12 12:32:32
 redirect_from: /post/a-dumb-virtual-machine/
-excerpt_separator: <!--more-->
+excerpt_separator: 
 ---
 
 ![DumbVM in action][1]{: .small}  
@@ -14,7 +14,7 @@ Last year, my course had a module called "Computer Hardware and Operating System
 
 Since I have been slacking off my game-a-month project, I though it could be interesting to try and implement what I learnt in that class to build a very simple virtual machine in C that could read, assemble and run very simple programmes.
 
-<!--more-->
+
 
 It was easier than I first expected it to be, and in two days I managed to get at least an assembler and a processor working. The whole virtual machine is quite simple: it has a cpu, four 8-bit registers used for storage and calculation, one output register, and should eventually have an input register, storing whichever key was last pressed. It doesn't even have RAM for the moment, except for the one in which the program is loaded when the machine is booted.
 
