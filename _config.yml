@@ -17,6 +17,7 @@ github_username:  amyinorbit
 # Build settings
 markdown: kramdown
 highlighter: rouge
+excerpt_separator: "\n\n\n"
 
 plugins:
   - jekyll-feed

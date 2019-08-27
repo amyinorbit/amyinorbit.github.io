@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 ---
-<h1 class="large-title">{{ page.title }}</h1>
+<h1 class="large-title gui">{{ page.title }}</h1>
 
 {% assign postsByYear = site.posts | offset: 1 | group_by_exp:"post", "post.date | date: '%Y'"  %}
 
