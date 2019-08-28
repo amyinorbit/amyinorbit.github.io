@@ -1,6 +1,7 @@
 ---
 layout: research
 title: Research
+permalink: /research/
 image: /static/media/research/igw-nucl.png
 ---
 My PhD is in theoretical astrophysics and modelling, which means I spend most of my day either scribbling maths in a notebook, debugging code, or chasing down data files. I am currently focused on how weather impacts the evolution of dust clouds in the atmosphere of brown dwarfs.

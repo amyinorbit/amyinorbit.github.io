@@ -128,7 +128,7 @@ tagged union, and just leads to *even more* boilerplate code. In the end, I'll
 get all of that to work, but it still got me tempted to switch the whole project
 to swift. *Just* for the enums.
 
- [1]: https://amyparent.com/blog/orbitvm-diary-6
+ [1]: {% post_url 2017-09-24-orbitvm-diary-6 %}
  [2]: https://github.com/amyinorbit/palc
  [3]: https://llvm.org
  [4]: https://github.com/apple/swift

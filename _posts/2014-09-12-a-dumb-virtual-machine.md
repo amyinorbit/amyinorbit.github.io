@@ -1,11 +1,10 @@
 ---
 tags: programming, hardware
-title: A dumb virtual machine
-layout: post
 date: 2014-09-12 12:32:32
 redirect_from: /post/a-dumb-virtual-machine/
-excerpt_separator: 
 ---
+A dumb virtual machine
+======================
 
 ![DumbVM in action][1]{: .small}  
 _DumbVM in action, running a [21-line programme][2]_

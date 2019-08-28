@@ -8,7 +8,7 @@ title: Welcome Back, Falcon&nbsp;9
 ![First stage, seconds before landing](/static/media/2015/12/falcon9.jpg)
 _Something you don't see every day: a rocket coming home after a job well done_
 
-After a hiatus of six months following the failure of the CRS-7 mission last may, SpaceX returned to flight yesterday. Falcon&nbsp;9 Full Thrust not only placed its 11 Orbcomm satellites in orbit — the first stage executed its return sequence perfectly, and came to perfect stop on SpaceX's Landing Complex 1. I was impressed by [Blue Origin's landing in November](/blog/good-day-for-space/), but this is on a whole new level.
+After a hiatus of six months following the failure of the CRS-7 mission last may, SpaceX returned to flight yesterday. Falcon&nbsp;9 Full Thrust not only placed its 11 Orbcomm satellites in orbit — the first stage executed its return sequence perfectly, and came to perfect stop on SpaceX's Landing Complex 1. I was impressed by [Blue Origin's landing in November]({% post_url 2015-11-25-good-day-for-space %}), but this is on a whole new level.
 
 
 

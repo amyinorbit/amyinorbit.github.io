@@ -4,7 +4,7 @@ tags: gamedev, engine, tools
 redirect_from: /post/caching-textures/
 layout: post
 title: SDL and Caching
-excerpt_separator: 
+published: false
 ---
 
 While I've not kept working on my [game-a-month project](http://amyparent.com/2014/04/one-game-a-month/), it has made me want to dive a bit deeper in Games Developement. Since I don't really want to re-write all the basics everytime I start a new project, I decided to write my own small engine, PixelKit.

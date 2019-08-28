@@ -6,7 +6,7 @@ layout: post
 title: Game Making Tools
 ---
 
-[Last weekend](/blog/dare-protpoplay), I got asked by a few visitors how to get started in game development, and what tools I use to make my games. I'm probably not that qualified to answer the former — I'll still try to make a longer article some time in the future — but I thought I'd make a quick list of my game making tools.
+[Last weekend]({% post_url 2015-08-19-dare-protpoplay %}), I got asked by a few visitors how to get started in game development, and what tools I use to make my games. I'm probably not that qualified to answer the former — I'll still try to make a longer article some time in the future — but I thought I'd make a quick list of my game making tools.
 
 
 

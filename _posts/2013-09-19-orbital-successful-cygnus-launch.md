@@ -5,6 +5,7 @@ layout: post
 date: 2013-09-19 10:00:00
 redirect_from: /post/orbital-successful-cygnus-launch/
 excerpt_separator: ""
+published: false
 ---
 
 ![Antares lifts off, headed to the ISS][1]

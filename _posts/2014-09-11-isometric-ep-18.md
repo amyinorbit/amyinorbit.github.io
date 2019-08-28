@@ -12,7 +12,7 @@ redirect_from: /post/isometric-ep-18/
 >
 > — [Isometric ep.18][2]
 
-If you are even remotely interested in games and tech, please go listen to this week's Isometric. The panel tackles the horrendous harassement that women in games have been suffering in the last few weeks particularly. It is a tough listen, but if as a man you feel uncomfortable listening to it, try to imagine what it must be to endure that harassment on a daily basis.
+If you are even remotely interested in games and tech, please go listen to this week's Isometric. The panel tackles the horrendous harassment that women in games have been suffering in the last few weeks particularly. It is a tough listen, but if as a man you feel uncomfortable listening to it, try to imagine what it must be to endure that harassment on a daily basis.
 
 Once you've listened to this, you might also want to watch:
 

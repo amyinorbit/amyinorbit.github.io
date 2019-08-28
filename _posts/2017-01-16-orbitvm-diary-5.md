@@ -106,6 +106,6 @@ stack, never to be seen again, and the return value is on top. The only change
 I need to make the the current implementation is add the number of local
 variables to the (work-in-progress) bytecode file format.
 
-  [1]: https://amyparent.com/blog/orbitvm-diary-2
-  [2]: https://amyparent.com/blog/orbitvm-diary-3
+  [1]: {% post_url 2016-12-28-orbitvm-diary-2 %}
+  [2]: {% post_url 2016-12-30-orbitvm-diary-3 %}
   [3]: https://github.com/amyinorbit/orbitvm/blob/a0059f238f7bd97ffdbf39d83523c84a0067dca1/src/liborbit/orbit_vm.c#L217

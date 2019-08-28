@@ -8,7 +8,7 @@ title: "Weekly Game Jam 1: Gravity Pong"
 
 ![Gravity Pong](/static/media/2015/06/pong.gif){: .small}
 
-Since my feeble attempt last year at [making a game a month](http://amyparent.com/blog/one-game-a-month/), I've learnt a lot about games development. From C I went to C++, I built PixelKit, my own small engine, I've [taken part in Global Game Jam](http://amyparent.com/blog/global-game-jam/). But I want to get better at game design. Programming is not the hard part of making 2D games. Designing a set of rules that make the game fun to play and pushes player to go for "just one more round" is the part that's really important.
+Since my feeble attempt last year at [making a game a month]({% post_url 2014-04-08-one-game-a-month %}), I've learnt a lot about games development. From C I went to C++, I built PixelKit, my own small engine, I've [taken part in Global Game Jam]({% post_url 2015-01-26-global-game-jam %}). But I want to get better at game design. Programming is not the hard part of making 2D games. Designing a set of rules that make the game fun to play and pushes player to go for "just one more round" is the part that's really important.
 
 So this summer, instead of making a game each month, I decided to try something new: each week, make one day a small Game Jam. Twenty-four hours are too short for me to obsess over graphics or clean code and should leave me an open way to experiment with alternative ideas and new mechanics.\
 

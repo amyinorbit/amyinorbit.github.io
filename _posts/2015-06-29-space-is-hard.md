@@ -2,7 +2,7 @@
 date: 2015-06-29 10:00:00
 tags: spacex, commercial-space
 redirect_from: /post/space-is-hard/
-layout: post
+published: false
 title: Space is Hard
 ---
 

@@ -1,3 +1,6 @@
+---
+permalink: /amy/
+---
 My name is Amy, and I'm trans
 =============================
 
