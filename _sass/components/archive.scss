@@ -26,7 +26,7 @@ div.year-list {
 }
 
 div.year-marker {
-    background: var(--color-background);
+//    background: var(--color-background);
     margin-bottom: 0;
     border-bottom: 1px solid $color-accent1;
 }
@@ -58,6 +58,33 @@ div.paper-meta {
         display: block;
     }
 }
+
+input#search-field {
+    width: 100%;
+    font-size: $size-caption;
+    font-weight: 400;
+    display: block;
+    margin: 0 0 .8em 0;
+    padding: .3em .4em;
+    background: var(--color-background);
+    border-radius: 3pt;
+    border: none;
+    outline: none;
+    color: var(--color-secondary);
+    transition: background .3s, color .3s;
+}
+
+input#search-field:focus {
+    background: var(--color-primary);
+    color: var(--color-background);
+}
+
+
+#search-wrapper {
+    font-size: 90%;
+    display: none;
+}
+
 
 @media (max-width: 540px) {
     div.post-list {

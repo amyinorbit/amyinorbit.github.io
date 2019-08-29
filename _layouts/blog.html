@@ -7,6 +7,7 @@ title: Blog
 {% assign postsByYear = site.posts | offset: 1 | group_by_exp:"post", "post.date | date: '%Y'"  %}
 
 <div class="gui right-float pad">
+    <input id="search-field" type="search" placeholder="search"/>
     <h2 class="gui">Years</h2>
     <div class="year-list">
         {% for year in postsByYear %}
@@ -15,8 +16,15 @@ title: Blog
     </div>
 </div>
 
-{% for year in postsByYear %}
+<div class="gui pad" id="search-wrapper">
+    <div class="year-marker gui" id="search-head">
+        <h2>Search Results</h2>
+    </div>
+    <div class="post-list" id="search-results">
+    </div>
+</div>
 
+{% for year in postsByYear %}
 <div class="year-marker gui" id="year-{{ year.name }}">
     <h2>{{ year.name }}</h2>
 </div>
@@ -31,7 +39,7 @@ title: Blog
             {% else %}
             <span class="post-author">by {{ site.author }}</span>
             {% endif %}
-            
+        
             {%if page.link %}
             <p><a class="button" href="{{ page.link }}">linked website</a></p>
             {% endif %}
@@ -41,3 +49,4 @@ title: Blog
     {% endfor %}
 </div>
 {% endfor %}
+<script src="{{ "/static/script/search.js" | absolute_url}}"></script>

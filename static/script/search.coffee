@@ -1,8 +1,9 @@
 ---
 ---
 index = []
-search_box = document.getElementById 'search-box'
+search_box = document.getElementById 'search-field'
 search_results = document.getElementById 'search-results'
+search_wrapper = document.getElementById 'search-wrapper'
 
 loadIndex = (callback) ->
     req = new XMLHttpRequest()
@@ -18,16 +19,49 @@ show = (item) ->
     search_results.innerHTML += """
     <div class="post-tile gui">
         <a class="post-link" href="#{item.url}">#{item.title}</a>
-    </div>"""
+        <div class="post-meta">
+            <time class="post-date">#{item.date_published}</time>
+            <span class="post-author">by #{item.author}</span>
+        </div>
+    </div>
+    """
+
+predicate = (words) ->
+    return (item) ->
+        title = item.title.toLowerCase()
+        scores = []
+        # console.log terms
+        for word in words
+            score = 0
+            for tag in item.tags
+                if tag.indexOf(word) != -1 then score += 1
+            if title.indexOf(word) != -1 then score += 1
+            scores.push score
+        scores.indexOf(0) != -1
+        #item.title.toLowerCase().indexOf(term) != -1
 
 search = ->
     term = search_box.value.toLowerCase()
     search_results.innerHTML = ''
-    if term.length < 4
-        return
+    search_wrapper.style.display = if term.length > 0 then 'block' else 'none'
+    search_wrapper.scrollIntoView()
+    if term.length < 3 then return
+    words = term.trim().split(/\s+/)
     index
-        .filter (item) -> item.title.toLowerCase().indexOf(term) != -1
+        .filter (item) ->
+            title = item.title.toLowerCase()
+            scores = []
+            # console.log terms
+            for word in words
+                score = 0
+                for tag in item.tags
+                    if tag.indexOf(word) != -1 then score += 1
+                if title.indexOf(word) != -1 then score += 1
+                scores.push score
+            scores.indexOf(0) == -1
         .forEach (item) -> show item
+    # search_results.innerHTML.length > 0
+        
 
 search_box.oninput = search
 window.onload = () ->
