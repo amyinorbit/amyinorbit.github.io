@@ -29,6 +29,7 @@ show = (item) ->
 predicate = (words) ->
     return (item) ->
         title = item.title.toLowerCase()
+        series = if item.series then item.series.toLowerCase() else ""
         scores = []
         # console.log terms
         for word in words
@@ -36,8 +37,9 @@ predicate = (words) ->
             for tag in item.tags
                 if tag.indexOf(word) != -1 then score += 1
             if title.indexOf(word) != -1 then score += 1
+            if series.indexOf(word) != -1 then score += 1
             scores.push score
-        scores.indexOf(0) != -1
+        scores.indexOf(0) == -1
         #item.title.toLowerCase().indexOf(term) != -1
 
 search = ->
@@ -48,17 +50,7 @@ search = ->
     if term.length < 3 then return
     words = term.trim().split(/\s+/)
     index
-        .filter (item) ->
-            title = item.title.toLowerCase()
-            scores = []
-            # console.log terms
-            for word in words
-                score = 0
-                for tag in item.tags
-                    if tag.indexOf(word) != -1 then score += 1
-                if title.indexOf(word) != -1 then score += 1
-                scores.push score
-            scores.indexOf(0) == -1
+        .filter predicate words
         .forEach (item) -> show item
     # search_results.innerHTML.length > 0
         
