@@ -1,11 +1,5 @@
----
-tags: blogging, programming
-title: Searching a static blog
-layout: post
-date: 2014-01-07 00:00:00
-redirect_from: /post/searching-a-static-blog/
-published: false
----
+Searching a static blog
+=======================
 
 ![Search Form on the blog](/static/media/2014/01/search.png)
 
