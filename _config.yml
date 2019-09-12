@@ -29,6 +29,8 @@ plugins:
 collections:
   papers:
     output: false
+  projects:
+    output: false
     
 titles_from_headings:
   enabled:     true

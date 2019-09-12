@@ -11,7 +11,8 @@ layout: default
 </article>
 <aside class="paper-list">
     <h2 class="large-title">Papers & Posters</h2>
-    {% for paper in site.papers %}
+    {% assign sorted = site.papers | sort: "date" | reverse %}
+    {% for paper in sorted %}
     <div class="paper-tile pad gui">
         <h3 class="paper-title" id="{{ paper.key }}">{{ paper.title }}</h3>
         <div class="paper-meta">
