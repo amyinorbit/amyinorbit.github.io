@@ -37,8 +37,22 @@ outputs:
         published: true
         comment: short talk
 ---
-Brown dwarfs are objects halfway between planets and stars. Brown dwarfs that have been observed often vary in brightness, which could be caused by their magnetic fields, or by clouds obscuring their light. Computer simulations show that weather and atmospheric waves in brown dwarfs could have a strong impact on the way clouds form and evolve in their atmosphere. Atmospheric (gravity) waves are waves created by wind and turbulence in the air (on Earth) and other atmospheres, just like waves in the ocean. We simulated gravity waves in the computer model of a brown dwarfs' atmosphere to calculate how they change the speed at which titanium dust grains are created.
+Brown dwarfs at the halfway point between giant gas planets and stars -- not heavy enough to "burn" hydrogen through nuclear fusion like stars (and our sun) do. They're interesting because they're easier to observe than giant gas planets around other stars. And! We strongly suspect they have clouds of dust in their atmosphere.
 
-We find that with the passage of waves, dust clouds form much faster (up to 20 times) than without. We also find that the waves cause the clouds to form in distinct stripes, and that the distance between those stripes is linked to how dense and warm the atmosphere is. Looking at a wide range of types of brown dwarfs, we find that gravity waves cause the striped clouds to have higher contrast in cooler, higher-pressure brown dwarfs.
+![Surface map of the Luhman 16B brown dwarf. Credit ESO/Crossfield.][lu16b]{:.left}  
+*Map of the closes brown dwarf we know (Luhman 16B), showing patchy clouds.  
+License CC-BY, [ESO/Crossfield][crossfield2014].*
 
-Observing the striped clouds created by gravity waves isn't possible with current telescope, but might become possible in the future. Since the properties of the stripes (contrast, distance between stripes) depend on the temperature and pressure of the atmosphere, this could give us more information on the atmosphere of brown dwarfs.
+Internal Gravity Waves (not the same thing as Einstein's gravitational waves!) are just a fancy name for waves (like in the ocean), in this case in the atmosphere. We have them on Earth, and they tend to create very recognisable cloud stripes. There are multiple models that show that gravity waves occur in brown dwarfs, too. We wrote computer simulations to check if, and how much these waves change the way dust clouds form in brown dwarfs.
+
+So what did we find? IGW in brown dwarfs can have a very strong impact on clouds! When a wave passes through a portion of the atmosphere, it can increase the speed at which dust grains form by up to 20 times. And waves creates the same kind of stripe patterns in brown dwarfs, too! We also found that waves have a stronger impact on clouds, relatively speaking, in warmer brown dwarfs and brown dwarfs that have less titanium in their atmosphere.
+
+![gravity waves clouds][nucl]{:.small}  
+*Change in cloud formation speed due to gravity waves*
+
+Why does it matter? The cloud stripes are too small to be observed with present-day telescopes. But in the future, observing these stripes can tell us more about brown dwarfs! The distance and frequency of those wave clouds is linked to the temperature, pressure and density of the atmosphere.
+
+
+ [lu16b]: /static/media/research/igw/luhman16b.jpg
+ [nucl]: /static/media/research/igw/stripes.png
+ [param]: /static/media/research/igw/param.png
