@@ -27,11 +27,12 @@ plugins:
   - jekyll-titles-from-headings
 
 collections:
-  papers:
-    output: false
   projects:
     output: false
-    
+  topics:
+    permalink: /research/:name.html
+    output: true
+
 titles_from_headings:
   enabled:     true
   strip_title: true

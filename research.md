@@ -1,6 +1,7 @@
 ---
 layout: research
 title: Research
+date: 2017
 permalink: /research/
 image: /static/media/research/igw-nucl.png
 ---

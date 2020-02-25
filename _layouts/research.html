@@ -10,20 +10,28 @@ layout: default
     </div>
 </article>
 <aside class="paper-list">
-    <h2 class="large-title">Papers & Posters</h2>
-    {% assign sorted = site.papers | sort: "date" | reverse %}
-    {% for paper in sorted %}
+    <h2 class="large-title">Projects</h2>
+    {% assign sorted = site.topics | sort: "date" | reverse %}
+    {% for topic in sorted %}
     <div class="paper-tile pad gui">
-        <h3 class="paper-title" id="{{ paper.key }}">{{ paper.title }}</h3>
+        <h3 class="paper-title">{{ topic.title }}</h3>
+        
         <div class="paper-meta">
-            <span class="paper-authors">{{ paper.authors | join: ", " }}</span>
-            <time class="post-date" datetime="{{ paper.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ paper.date | date_to_string: "ordinal", "UK" }}</time>
-            <span class="paper-info">{{ paper.journal }} ({{ paper.type | default: "paper" }})</span>
+            <span class="paper-authors">{{ topic.authors | join: ", " }}</span>
         </div>
-        <!-- <div class="paper-details">
-            {{ paper.content | markdownify }}
-        </div> -->
-        <a class="button" href="{{ paper.file | prepend: "/static/pub/" | prepend: site.baseurl }}">download</a>
+        
+        <div class="paper-details">
+            {{ topic.summary | markdownify }}
+        </div>
+        <a class="button" href="{{ topic.url }}">details</a>
+        {% assign outputs = topic.outputs | where: "published", true | sort: "date" | reverse %}
+        {% for output in outputs %}
+            {% if output.file %}
+                <a class="button light" href="{{ output.file | prepend: "/static/pub/" | prepend: site.baseurl }}">{{ output.name }}</a>
+            {% else if output.url %}
+                <a class="button light" href="{{ output.url }}">{{ output.name }}</a>
+            {% endif %}
+        {% endfor %}
     </div>
 
     {% endfor %}

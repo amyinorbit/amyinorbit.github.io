@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article>
+    <header>
+        <h1 class="gui">{{ page.title }}</h1>
+    </header>
+    <aside class="pad gui">
+        <span class="paper-authors isolate">{{ page.authors | join: ", " }}</span>
+        
+        {% assign outputs = page.outputs | where: "published", true | sort: "date" | reverse %}
+        <ul>
+            {% for output in outputs %}
+            <li>
+                {% if output.file %}
+                    <a href="{{ output.file | prepend: "/static/pub/" | prepend: site.baseurl }}">{{ output.name }}</a>
+                {% else if output.url %}
+                    <a href="{{ output.url }}">{{ output.name }}</a>
+                {% endif %}
+                (<time class="post-date" datetime="{{ output.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ output.date | date_to_string: "ordinal", "UK" }}</time>{% if output.comment %} - {{output.comment}}{% endif %})
+            </li>
+            {% endfor %}
+        </ul>
+    </aside>
+    <div class="post-content">
+        {{ content }}
+    </div>
+</article>

@@ -1,6 +1,6 @@
 
 a {
-    transition: color .3s, background .3s, background-color .3s;
+    transition: color .3s, background .3s, background-color .3s, border-color .3s;
 }
 
 a:link, a:visited {
@@ -38,8 +38,24 @@ a.button {
     text-decoration: none;
 }
 
+a.button.light {
+    font-weight: normal;
+    background: transparent;
+    color: $color-accent1;
+    border: 1px solid $color-accent1;
+}
+
 a.button:hover {
     background: $color-accent2;
     color: $color-primary-dark;
     text-decoration: none;
 }
+
+a.button.light:hover {
+    font-weight: normal;
+    background: transparent;
+    border-color: $color-accent2;
+    color: $color-accent2;
+}
+
+
