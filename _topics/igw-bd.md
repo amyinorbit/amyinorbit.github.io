@@ -15,7 +15,7 @@ plain-lang: true
 outputs:
     -
         name: arXiv
-        url: http://arxiv.org/astro-ph/paper
+        url: https://arxiv.org/abs/2002.10379
         published: true
         date: 2020-02-24
         comment: accepted for publication in A&A
