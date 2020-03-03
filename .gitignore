@@ -2,7 +2,8 @@
 _site/
 .sass-cache/
 .jekyll-cache/
-.jekyll-metadata/
+.jekyll-metadata
+
 
 # Ignore Bundler stuff
 .bundle/
@@ -10,3 +11,6 @@ vendor/
 
 # Ignore macOS files
 .DS_Store
+
+# Ignore swap files
+*.swp
