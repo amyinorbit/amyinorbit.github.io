@@ -14,7 +14,7 @@ summary: Exploring the impact of atmospheric waves on the pattern of dust clouds
 plain-lang: true
 outputs:
     -
-        name: arXiv
+        name: pre-print
         url: https://arxiv.org/abs/2002.10379
         published: true
         date: 2020-02-24

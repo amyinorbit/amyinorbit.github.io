@@ -2,45 +2,45 @@ nav {
     // border-bottom: 3px solid $color-accent2;
     font-size: 90%;
     padding: .4em 0;
-    
+
     ul {
         margin: .3em 0;
-        
+
     }
-    
+
     ul li {
         display: inline;
         margin-right: 1rem;
         font-weight: 600;
         vertical-align: -.2em;
     }
-    
+
     ul li:not(#logo) {
         font-family: $font-mono;
     }
-    
+
     ul li#logo {
         font-size: 1.3em;
     }
-    
+
     a {
         text-decoration: none;
     }
-    
+
     a:link, a:visited {
         color: $color-accent1;
         text-decoration: none;
     }
-    
+
     a:hover {
         color: white;
     }
-    
+
     #logo a:link, #logo a:visited {
         color: var(--color-primary);
         background: transparent;
     }
-    
+
     #logo a:hover {
         color: $color-accent2;
     }
@@ -50,5 +50,13 @@ nav {
     nav ul li {
         margin-right: 0;
         display: block;
+    }
+
+    a.button {
+        display: block;
+        padding: .5em 1em;
+        border-radius: .4em;
+        margin: .5em 0;
+        text-align: center;
     }
 }
