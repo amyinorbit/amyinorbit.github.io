@@ -95,7 +95,7 @@ blockquote {
     }
 }
 
-p code {
+p code, li code, blockquote code {
     color: var(--color-secondary);
     font-size: 0.9 * $size-body;
     background: var(--color-background-sec);
