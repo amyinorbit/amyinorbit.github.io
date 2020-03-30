@@ -21,9 +21,9 @@ outputs:
         comment: accepted for publication in A&A
     -
         name: Astronomy & Astrophysics
-        url: https://www.aanda.org
-        date: 2020
-        published: false
+        url: https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/201937063
+        date: 2020-03-26
+        published: true
     -
         name: ExSS IV
         file: igw-exss-2019.pdf
