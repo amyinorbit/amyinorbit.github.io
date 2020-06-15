@@ -41,7 +41,7 @@ The issue here is that the definition of what services *can* legally refuse acce
 
 Not only are those laws un-enforceable (what are we gonna do? Check everyone's genitals when they come in?), they are highly misogynistic. While TERFs love to claim that cis women are at risk from trans women using the same bathrooms, there have been multiple occurrences of cis butch women being harassed by TERFs because they were sure they were trans and tried to chase them ([Vox/German Lopez][vox-terf-bathroom]).
 
-There has been, at least, one instance of a TERF bragging about trying to get an up-skirt photo of someone they believed to be a trans woman. If this become law, cis women and trans people alike will be more at risk. Trans and non-binary folks by the humiliation of having to use bathrooms they know full well are not for them,
+There has been, at least, one instance of a TERF bragging about trying to get an up-skirt photo of someone they believed to be a trans woman. If this become law, cis women and trans people alike will be more at risk. Trans and non-binary folks by the humiliation of having to use bathrooms they know full well are not for them, cis women by the self righteous TERFs who will try and shame anyone who doesn’t “look like a woman” out of bathrooms.
 
 [vox-terf-bathroom]: https://www.vox.com/2016/5/18/11690234/women-bathrooms-harassment
 
