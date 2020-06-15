@@ -26,7 +26,7 @@ I've seen a lot of people post to fight against the leaked tory plan to unravel 
 
 ## Killing the GRA reform
 
-That's the one that people seem to be focused on. Not a signle trans person is surprised by this move, we saw it coming light years away. The reform would have let trans people obtain a gender recognition certificate without going through gatekeeping and cis-normative doctors' opinions, on the basis of self-declaration. This never had anything to do with bathrooms like TERFs would like you to believe. Trans people are already allowed to use the bathrooms that matches their gender without a GRC.
+That's the one that people seem to be focused on. Not a single trans person is surprised by this move, we saw it coming light years away. The reform would have let trans people obtain a gender recognition certificate without going through gatekeeping and cis-normative doctors' opinions, on the basis of self-declaration. This never had anything to do with bathrooms like TERFs would like you to believe. Trans people are already allowed to use the bathrooms that matches their gender without a GRC.
 
 
 ## "protecting women-only spaces"
