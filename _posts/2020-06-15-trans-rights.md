@@ -8,17 +8,16 @@ Do I have the spoons to do this? Nope. Am I still going to because everyone need
 
 TL;DR:
 
-> The UK tory government is planning a large-scale rollback of trans rights, including potential "bathroom bills", on top of scrapping the much-needed reform to the Gender Recognition Act. If you are cis, your voice is more likely to be heard than ours. You can:
->
 > * [email no 10][email-10] and express your disagreement with the proposed transphobic laws.
-> * [email your MP][email-mp] to ask what they plan to do to support trans rights and oppose the reform.
+> * [email your MP][email-mp] -- and your MSP if you live in Scotland -- to ask what they plan to do to support trans rights and oppose the reform.
+> * If you leave in Scotland, email the [Prime Minister][email-pm] and ask her how she plans to support trans rights in Scotland.
 >
 > and **Donate to organisations that support trans rights, especially black trans voices who are most vulnerable, and read up on trans rights:**
 >
 > * Donate to [Gendered Intelligence][gi]. Read their [Body Autonomy for Every Body][gi-baeb] manifesto;
-> * Donate to [Mermaids][mermaids] (supports Trans Youth & their families);
 > * Donate to the [Black Trans Protestors Emergency Fund][btpef];
 > * Donate to the [Black Trans Femmes in the Arts][btfa] supports;
+> * Donate to [Mermaids][mermaids] (supports Trans Youth & their families);
 >
 > **Amplify trans voices, especially from black and indigenous trans communities. Listen. Speak up when you see transphobia.**
 
@@ -65,19 +64,21 @@ Denying trans youth access to blockers is dangerous. The only thing that achieve
 ## What you can do:
 
  * [email no 10][email-10] and express your disagreement with the proposed transphobic laws.
- * [email your MP][email-mp] to ask what they plan to do to support trans rights and oppose the reform.
+ * [email your MP][email-mp] -- and your MSP if you live in Scotland -- to ask what they plan to do to support trans rights and oppose the reform.
+ * If you leave in Scotland, email the [Prime Minister][email-pm] and ask her how she plans to support trans rights in Scotland.
 
  and **Donate to organisations that support trans rights, especially black trans voices who are most vulnerable, and read up on trans rights:**
 
  * Donate to [Gendered Intelligence][gi]. Read their [Body Autonomy for Every Body][gi-baeb] manifesto;
- * Donate to [Mermaids][mermaids] (supports Trans Youth & their families);
  * Donate to the [Black Trans Protestors Emergency Fund][btpef];
  * Donate to the [Black Trans Femmes in the Arts][btfa] supports;
+ * Donate to [Mermaids][mermaids] (supports Trans Youth & their families);
 
  **Amplify trans voices, especially from black and indigenous trans communities. Listen. Speak up when you see transphobia.**
 
 [stonewall-stats]: https://www.stonewall.org.uk/sites/default/files/trans_stats.pdf
 
+[email-pm]: https://firstminister.gov.scot/join/first-minister-postbag/
 [email-10]: https://email.number10.gov.uk/
 [email-mp]: https://www.writetothem.com/
 [btpef]: https://www.artsbusinesscollaborative.org/asp-products/black-trans-protestors-emergency-fund/
