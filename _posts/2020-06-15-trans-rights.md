@@ -6,7 +6,8 @@ tags: lgbt+
 ---
 Do I have the spoons to do this? Nope. Am I still going to because everyone needs to be fighting this? yup.
 
-TL,DR:
+TL;DR:
+
 > The UK tory government is planning a large-scale rollback of trans rights, including potential "bathroom bills", on top of scrapping the much-needed reform to the Gender Recognition Act. If you are cis, your voice is more likely to be heard than ours. You can:
 >
 > * [email no 10][email-10] and express your disagreement with the proposed transphobic laws.
@@ -14,10 +15,10 @@ TL,DR:
 >
 > and **Donate to organisations that support trans rights, especially black trans voices who are most vulnerable, and read up on trans rights:**
 >
+> * Donate to [Gendered Intelligence][gi]. Read their [Body Autonomy for Every Body][gi-baeb] manifesto;
 > * Donate to [Mermaids][mermaids] (supports Trans Youth & their families);
 > * Donate to the [Black Trans Protestors Emergency Fund][btpef];
 > * Donate to the [Black Trans Femmes in the Arts][btfa] supports;
-> * Read [Gendered Intelligence's][gi-baeb] Body Autonomy for Every Body manifesto;
 >
 > **Amplify trans voices, especially from black and indigenous trans communities. Listen. Speak up when you see transphobia.**
 
@@ -68,10 +69,10 @@ Denying trans youth access to blockers is dangerous. The only thing that achieve
 
  and **Donate to organisations that support trans rights, especially black trans voices who are most vulnerable, and read up on trans rights:**
 
+ * Donate to [Gendered Intelligence][gi]. Read their [Body Autonomy for Every Body][gi-baeb] manifesto;
  * Donate to [Mermaids][mermaids] (supports Trans Youth & their families);
  * Donate to the [Black Trans Protestors Emergency Fund][btpef];
  * Donate to the [Black Trans Femmes in the Arts][btfa] supports;
- * Read [Gendered Intelligence's][gi-baeb] Body Autonomy for Every Body manifesto;
 
  **Amplify trans voices, especially from black and indigenous trans communities. Listen. Speak up when you see transphobia.**
 
@@ -82,4 +83,5 @@ Denying trans youth access to blockers is dangerous. The only thing that achieve
 [btpef]: https://www.artsbusinesscollaborative.org/asp-products/black-trans-protestors-emergency-fund/
 [btfa]: https://www.artsbusinesscollaborative.org/asp-products/black-trans-femmes-in-the-arts-sponsored-projected_/
 [mermaids]: https://mermaidsuk.org.uk/
+[gi]: http://genderedintelligence.co.uk/support-us/donate
 [gi-baeb]: http://genderedintelligence.co.uk/campaigns/baeb
