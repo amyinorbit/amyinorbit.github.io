@@ -7,7 +7,8 @@ tags: lgbt+
 Do I have the spoons to do this? Nope. Am I still going to because everyone needs to be fighting this? yup.
 
 TL;DR:
-
+> The UK tory government is planning a large-scale rollback of trans rights, including potential "bathroom bills", on top of scrapping the much-needed reform to the Gender Recognition Act. If you are cis, your voice is more likely to be heard than ours. You can:
+>
 > * [email no 10][email-10] and express your disagreement with the proposed transphobic laws.
 > * [email your MP][email-mp] -- and your MSP if you live in Scotland -- to ask what they plan to do to support trans rights and oppose the reform.
 > * If you leave in Scotland, email the [First Minister][email-pm] and ask her how she plans to support trans rights in Scotland.
