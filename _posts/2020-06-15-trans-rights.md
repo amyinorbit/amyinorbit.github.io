@@ -10,7 +10,7 @@ TL;DR:
 
 > * [email no 10][email-10] and express your disagreement with the proposed transphobic laws.
 > * [email your MP][email-mp] -- and your MSP if you live in Scotland -- to ask what they plan to do to support trans rights and oppose the reform.
-> * If you leave in Scotland, email the [Prime Minister][email-pm] and ask her how she plans to support trans rights in Scotland.
+> * If you leave in Scotland, email the [First Minister][email-pm] and ask her how she plans to support trans rights in Scotland.
 >
 > and **Donate to organisations that support trans rights, especially black trans voices who are most vulnerable, and read up on trans rights:**
 >
@@ -65,7 +65,7 @@ Denying trans youth access to blockers is dangerous. The only thing that achieve
 
  * [email no 10][email-10] and express your disagreement with the proposed transphobic laws.
  * [email your MP][email-mp] -- and your MSP if you live in Scotland -- to ask what they plan to do to support trans rights and oppose the reform.
- * If you leave in Scotland, email the [Prime Minister][email-pm] and ask her how she plans to support trans rights in Scotland.
+ * If you leave in Scotland, email the [First Minister][email-pm] and ask her how she plans to support trans rights in Scotland.
 
  and **Donate to organisations that support trans rights, especially black trans voices who are most vulnerable, and read up on trans rights:**
 
