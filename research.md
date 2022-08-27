@@ -5,7 +5,7 @@ date: 2017
 permalink: /research/
 image: /static/media/research/igw-nucl.png
 ---
-My PhD is in theoretical astrophysics and modelling, which means I spend most of my day either scribbling maths in a notebook, debugging code, or chasing down data files. I am currently focused on how weather impacts the evolution of dust clouds in the atmosphere of brown dwarfs.
+I used to study  theoretical astrophysics and modelling, which means I spent most of my day either scribbling maths in a notebook, debugging code, or chasing down data files. My research was focused on the impacts the evolution of dust clouds in the atmosphere of brown dwarfs.
 
 ## Brown Dwarfs
 
